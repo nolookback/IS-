@@ -3,8 +3,9 @@ import sys
 import math
 import json
 import time
+import re
 from collections import defaultdict, Counter
-from typing import Dict, List, Tuple
+from typing import Dict, List, Tuple, Set
 from .tokenizer import tokenize
 from .utils import compute_cosine_similarity, Timer
 sys.stdout.reconfigure(encoding='utf-8')
@@ -121,9 +122,43 @@ class SearchEngine:
         
         return results
 
+    def _match_wildcard(self, pattern: str, terms: Set[str]) -> List[str]:
+        """
+        匹配通配符模式
+        :param pattern: 通配符模式，支持 * 和 ?
+        :param terms: 词项集合
+        :return: 匹配的词项列表
+        """
+        # 将通配符模式转换为正则表达式
+        regex_pattern = pattern.replace('*', '.*').replace('?', '.')
+        regex = re.compile(f'^{regex_pattern}$')
+        
+        # 返回所有匹配的词项
+        return [term for term in terms if regex.match(term)]
+
+    def _expand_wildcard_query(self, query_terms: List[str]) -> List[str]:
+        """
+        展开包含通配符的查询词
+        :param query_terms: 原始查询词列表
+        :return: 展开后的查询词列表
+        """
+        expanded_terms = []
+        all_terms = set(self.index.keys())  # 获取所有索引词项
+        
+        for term in query_terms:
+            if '*' in term or '?' in term:
+                # 如果包含通配符，展开匹配的词项
+                matched_terms = self._match_wildcard(term, all_terms)
+                expanded_terms.extend(matched_terms)
+            else:
+                # 不包含通配符，直接添加
+                expanded_terms.append(term)
+        
+        return expanded_terms
+
     def query(self, query_text: str, top_k=10, use_proximity=False) -> Tuple[List[Dict], float]:
         """
-        查询接口，支持普通搜索和邻近搜索
+        查询接口，支持普通搜索、邻近搜索和通配符查询
         :param query_text: 用户输入的 query
         :param top_k: 返回文档数
         :param use_proximity: 是否使用邻近搜索
@@ -133,17 +168,19 @@ class SearchEngine:
         elapsed_ms = 0.0
         
         with Timer(name="搜索查询") as timer:
-            # 添加延时以模拟搜索过程
-            time.sleep(0.000001)  
+            time.sleep(0.000001)
             
             query_terms = tokenize(query_text)
             
-            if use_proximity and len(query_terms) >= 2:
+            # 展开通配符查询
+            expanded_terms = self._expand_wildcard_query(query_terms)
+            
+            if use_proximity and len(expanded_terms) >= 2:
                 # 使用邻近搜索
-                results = self.proximity_search(query_terms)
+                results = self.proximity_search(expanded_terms)
             else:
                 # 使用普通向量空间模型搜索
-                query_tf = Counter(query_terms)
+                query_tf = Counter(expanded_terms)
                 
                 # 构建 query 向量
                 query_vec = {}
