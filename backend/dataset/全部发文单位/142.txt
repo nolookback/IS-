@@ -1,0 +1,82 @@
+标题：第142条公告
+
+正文：
+关闭窗口
+｜
+打印张贴版
+[学术讲座]Far-Field Object Precise Point Positioning by Moving Transceivers
+电子与信息工程学院　2024/12/13 17:20:00
+（钟沛基 2022280095）
+嘉 宾 ：
+Prof. Dominic K. C. Ho,
+University of Missouri, USA
+邀请人
+:
+黄磊教授
+时 间 :
+12
+月
+16
+日
+(
+周一
+)
+09:30-10:30
+地 点
+:
+致信楼
+N710
+会议室
+Abstract
+:
+A fundamental limitation of localization is
+that we are able to locate an object by direction of arrival only if
+it is in the far-field, instead of the precise point coordinates when it
+is in the near-field.
+This talk
+introduces the concept of transceiver-aided localization, breaking through the
+barrier in locating a far-field object in coordinates rather than direction of
+arrival only.
+The transceivers bridge
+between the sensors and the far-field object, which acts as a relay so that the
+probing signal can reach the object and return back to the sensors.
+The minimum number of sensors and
+transceivers for localization is derived.
+While we do not know the position and velocity of the transceivers, we
+show that we are able to perform joint estimation with the transceiver
+parameters to locate the object.
+Simulation validates the theory and demonstrates the feasibility of the
+transceiver-based localization approach.
+.
+Biography
+:
+ Dr. Ho was born in Hong
+Kong.  He received the BSc degree with
+First Class Honors and the PhD degree in Electronic Engineering, both from the
+Chinese University of Hong Kong.  He was
+a research associate at the Royal Military College of Canada, a member of
+scientific staff at the Bell-Northern Research, and a faculty at the University
+of Saskatchewan, Canada.  Since 1997, he
+has been with the University of Missouri, where he is a professor in the
+Electrical Engineering and Computer Science Department.  His research interests are in sensor array
+processing, source localization, subsurface object detection, and wireless
+communications.  Dr. Ho has been active
+in the International Telecommunications Union (ITU) standard developments
+between 1995 and 2012.  He was the
+rapporteur of one recommendation and the editor of several others.  Dr. Ho was an Associate Editor of the IEEE
+Transactions of Signal Processing (2003-2006, 2009-2013) and the IEEE Signal
+Processing Letters (2004-2008).  He
+served as the Chair of the IEEE Sensor Array Multichannel (SAM) Technical
+Committee from 2013 to 2014 and the Past Chair in 2015.  He was Technical Co-Chair of the IEEE
+International Conference on Acoustics, Speech and Signal Processing (ICASSP)
+held in Shanghai, in 2016.  He is an
+inventor of 44 patents in the United States, Canada, Europe and Asia on
+geolocation and signal processing for wireless communications.  Dr. Ho is a fellow of the IEEE.
+电子与信息工程学院
+2024年12月13日
+撰稿：高志杰　审核：周浩江
+（更新于2024/12/13 17:33:00）
+
+超链接：
+- javascript:window.close()
+- https://www1.szu.edu.cn/board/print.asp?id=538757

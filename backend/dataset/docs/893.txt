@@ -1,0 +1,25 @@
+标题：第893条公告
+
+正文：
+关闭窗口
+｜
+打印张贴版
+高等研究院系列学术讲座一百四十二
+高等研究院　2022/4/26 16:19:00
+Structure-preserving numerical methods and its applications
+Speaker Dr. Qian Zhang
+Hong Kong Polytechnic University
+About the Speaker
+After graduating from Soochow University in 2014, Dr. Zhang got her Ph.D. degree from the University of Science and Technology of China, majoring in computational mathematics. And then, she obtained the support of the 2019 Hong Kong Scholar program to be a postdoctoral at the Hong Kong Polytechnic University.
+Talk Introduction
+In this research, I will present my research work in two aspects. First, I will introduce the high-order energy-preserving method for the wave equation with singular solutions. The design of the numerical method follows the guideline of preserving the energy and Hamiltonian possessed by the original PDE. The stability and error estimate can be both obtained in practical and theory. Singular solutions like peakon, cuspon, shock even the loop solution can all be resolved well. The second part is image segmentation based on the variational model. For the image with different features, two phase-field models with varying terms of fidelity are proposed to settle the segmentation problem. For the derived phase-field equation, our numerical method is unconditional energy stable and satisfies the maximum bound principle. Meanwhile, some initialization methods and accelerated algorithms can guarantee the robustness and efficiency of our image segmentation method.
+时间：2022年4月28日下午4:00-5:30
+地点：致知楼706会议室
+All are welcome！
+附件：
+·高等研究院系列学术讲座一百四十二.png
+
+超链接：
+- javascript:window.close()
+- https://www1.szu.edu.cn/board/print.asp?id=470443
+- https://www1.szu.edu.cn/board/down1oad.asp?fn=2022426859329高等研究院系列学术讲座一百四十二.png

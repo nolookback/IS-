@@ -1,0 +1,68 @@
+标题：第696条公告
+
+正文：
+关闭窗口
+｜
+打印张贴版
+【学术讲座】Defect Detection Using AI Approach for Urban Road Covers
+电子与信息工程学院　2023/10/7 11:03:00
+讲座嘉宾：
+Dr. Y.M. Tang,
+The Hong Kong Polytechnic University
+邀 请 人：
+张勇
+教授
+时  间：
+2023
+年
+10
+月
+8
+日下午
+3
+:00
+地  点：
+深圳大学汇星楼
+1504
+摘要：
+In urban areas, road covers are commonly used to
+secure large drains, chambers, and box culverts, which require regular
+inspections and maintenance. These covers are typically located on main roads
+with heavy traffic. However, conducting inspections by opening these road covers
+is both costly and causes traffic disruptions. Additionally, the existing
+inspection methods are limited due to variations in piping/channels,
+configurations, and unknown distances from entry points.
+Previous studies have demonstrated that measuring
+vibrational signals can effectively detect structural faults from a distance.
+By harnessing the latest advancements in artificial intelligence (AI)
+technology, it is possible to analyze these signals. The objective of this
+project is to conduct a feasibility study on developing an AI algorithm for
+inspecting the structural health of road covers on main roads.
+The proposed system will utilize state-of-the-art
+AI technologies to identify problematic signals originating from road covers
+amidst the background noise caused by environmental factors and traffic.
+Through the implementation of AI technologies, the system will be capable of
+distinguishing problematic road covers from the complex interferences of
+environmental and traffic noises. The outcome of this research will be a
+non-invasive inspection method that enables the differentiation between normal
+and abnormal road covers. This approach provides a cost-effective solution that
+minimizes traffic disruptions by eliminating the need to physically open the covers
+for inspection.
+嘉宾个人简介：
+Dr. YM Tang
+received his B.Eng. and
+M.Phil. from CUHK. He was awarded a Ph.D. degree from the same university.
+Currently, he is a Senior Teaching Fellow in the Department of Industrial and
+Systems Engineering, PolyU. Dr. Tang is the Lab-in-charge of Integrated Product
+Design (IPD) in the department. His research interests include virtual reality
+(VR)/ mixed reality (MR), artificial intelligence (AI), blockchain technology,
+digital twin, sustainable technology in industry 4.0 and healthcare
+applications. Dr. Tang has published over 10 books/ book chapters and over 60
+renowned journal articles.
+电子与信息工程学院
+2023年10月7日
+（更新于2023/10/7 15:13:00）
+
+超链接：
+- javascript:window.close()
+- https://www1.szu.edu.cn/board/print.asp?id=504223

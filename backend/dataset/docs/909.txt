@@ -1,0 +1,75 @@
+标题：第909条公告
+
+正文：
+关闭窗口
+｜
+打印张贴版
+学术讲座（三）：Electrifying CO2 into Fuels and Chemicals
+化学与环境工程学院　2022/3/22 17:54:00
+题目一：
+Electrifying CO
+2
+into Fuels and Chemicals
+题目二：
+Nanostructured Materials for CO
+2
+reduction
+主讲人：
+Dr. Haotian Wang
+时间：
+3
+月
+24
+日上午
+10:30
+地点：腾讯会议（
+ID
+：
+553 402 394
+）
+报告人简介：
+Dr. Haotian Wang is currently a William
+Marsh Rice Trustee Chair Assistant Professor in the Department of Chemical and
+Biomolecular Engineering at Rice University. He obtained his PhD degree in the
+Department of Applied Physics at Stanford University in 2016 and his Bachelor
+of Science in Physics at the University of Science and Technology of China in
+2011. In 2016 he received the Rowland Fellowship and began his independent
+research career at Harvard as a principal investigator. He was awarded the 2021
+Sloan Fellow, 2020 Packard Fellow, 2019 CIFAR Azrieli Global Scholar, 2019
+Forbes 30 Under 30, highly cited researchers, etc. He serves as the editorial
+board of Communications Materials. His research group has been focused on
+developing novel nanomaterials for energy and environmental applications
+including energy storage, chemical/fuel generation, water treatment, etc.
+讲座摘要：
+Electrochemical CO
+2
+reduction,
+with the energy input from renewable electricity, provides a green and
+alternative route for the generation of chemicals and fuels. However, its
+practice is currently challenged at two systematical levels: the lack of selective
+electrocatalysts to combat the strong completion from water reduction, and the
+lack of novel reactors for large-scale reaction rates and efficient product
+separation. In this talk, I will introduce the rational design of both
+catalytic materials and reactors towards practical CO
+2
+reduction
+performances. By dispersing transition metals into isolated single atoms with
+electronic structures significantly different from their bulk counterparts, we
+can dramatically suppress the competing hydrogen evolution and deliver an
+ultra-high CO
+2
+reduction selectivity of more than 95% under ambient
+conditions in water. Scaled-up synthesis and efficient reactors demonstrated
+the potential for practical applications. Furthermore, by designing a novel
+solid electrolyte reactor, we successfully demonstrated a continuous generation
+of pure liquid fuel solutions via CO
+2
+reduction. This technology
+eliminates the product separation process required in traditional CO
+2
+reduction electrolyzers, opening up its practical applications in the future.
+欢迎有兴趣的师生参加！
+
+超链接：
+- javascript:window.close()
+- https://www1.szu.edu.cn/board/print.asp?id=468199

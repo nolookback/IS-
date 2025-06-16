@@ -1,0 +1,23 @@
+标题：第75条公告
+
+正文：
+关闭窗口
+｜
+打印张贴版
+【学术讲座】Enhancing Medical Data Analysis through Efficient Federated Training of Large Models
+电子与信息工程学院　2025/4/1 16:34:00
+报告题目：Enhancing Medical Data Analysis through Efficient Federated Training of Large Models
+报告人：Dr Yipeng Zhou, Macquarie University
+邀请人：张胜利教授
+报告时间：2025年4月7日，星期一，14:30到15:30
+报告地点：深圳大学电子与信息工程学院致信楼N723
+报告摘要：
+The growing scale and complexity of large models in medical data analysis pose significant efficiency challenges, especially when applied in federated learning environments for privacy preservation. This talk presents our three ongoing works to address these challenges. First, we tackle the issue of communication costs in fine-tuning federated large models by modifying the TopK model update compression algorithm. Second, we explore resource-efficient strategies for federated full model tuning by pruning parameters, ensuring that only a subset of parameters is updated in each training round. Third, we exemplify the application of federated large models in the medical sector. In the end, we summarize and envision future works to offer a promising path for deploying federated large models in the resource-constrained medicine sector while maintaining model performance.
+报告人介绍：
+Dr Yipeng Zhou is a senior lecturer in the School of Computing at Macquarie University (MQ). Prior to joining MQ, he was a research fellow at the University of South Australia and a lecturer at Shenzhen University. He earned his PhD and MPhil degrees from The Chinese University of Hong Kong, and his BS degree from the University of Science and Technology of China. Dr Zhou was awarded the 2023 Macquarie University Vice-Chancellor’s Research Excellence Award and the 2023 IEEE Open Journal of the Communications Society Best Editor Award. He was also the recipient of the 2018 Australia Research Council Discovery Early Career Researcher Award. Currently, he serves as the secretary of the Centre for Frontier AI Research (FAIR) at MQ and as an associate editor for Springer Nature Scientific Reports. His research interests include federated learning, data privacy preservation, and medical data analysis. Dr. Zhou has published over 130 papers in leading venues, including ICML, INFOCOM, IJCAI, AAAI, TheWebConf, ICNP, ToN, TDSC, JSAC, TPDS, and TMC.
+撰稿：黄泽端　审核：周浩江
+（更新于2025/4/1 16:35:00）
+
+超链接：
+- javascript:window.close()
+- https://www1.szu.edu.cn/board/print.asp?id=544478

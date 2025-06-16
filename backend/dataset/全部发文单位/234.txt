@@ -1,0 +1,31 @@
+标题：第234条公告
+
+正文：
+关闭窗口
+｜
+打印张贴版
+学术讲座（七十三）：Liquid Metal Patterned, Stretchable and Permeable Electronics
+化学与环境工程学院　2024/10/31 16:34:00
+（钟沛基 2022280095）
+主讲人：
+Prof. Zijian Zheng
+时间：
+11
+月
+1
+日
+下
+午
+16:10
+地点：
+丽湖校区综合服务大厅会议室
+报告人简介：
+Prof. Zijian Zheng is currently Chair Professor of Soft Materials and Devices at the Department of Applied Biology and Chemical Technology, Associate Director of Research Institute for Intelligent Wearable Systems, Lead Investigator of Research Institute for Smart Energy at The Hong Kong Polytechnic University (PolyU). His research interests include surface and polymer science, nanofabrication, flexible and wearable electronics, energy conversion and storage. Prof. Zheng received his B. Eng. in Chemical Engineering at Tsinghua University in 2003, PhD in Chemistry at University of Cambridge in 2007, and postdoctoral training at Northwestern University in 2008-2009. He joined PolyU as Assistant Professor in 2009, and was promoted to tenured Associate Professor in 2013 and then Professor in 2017. He has published more than 200 papers in journals such as Science, Nat. Mater., Nat. Comm., Adv. Mate., JACS, Angew. Chem.. He also files more than 40 patents and is recipient of more than 15 academic awards. He serves as Editor-in-Chief of EcoMat (impact factor: 14.6), a flagship open-access journal in green energy and environment published by Wiley. He is Founding Member of The Young Academy of Sciences of Hong Kong (2018), Famous Chair Professor by the Ministry of Education of China (2020), Senior Research Fellow of the University Grant Commission of Hong Kong (2021), Fellow of International Association of Advanced Materials (FIAAM, 2021), Fellow of the Royal Society of Chemistry (FRSC, 2022), and Young Fellow of the Hong Kong Academy of Engineering Science (YFHKEng, 2024). He is awardee of the inaugural Hong Kong Engineering Science and Technology Award.
+报告摘要：
+Soft electronics plays an important role in the realization of health monitoring and rehabilitation, Internet of Things (IoTs), and soft robotics. In the past two decades, the research focuses have been devoted to developing soft electronics based on thin film materials and architectures that are non-permeable to air, moisture, and liquid. It is recently found that permeability is essential to the chronic biocompatibility of these soft devices, especially those closely attached on soft skins and tissues. This short talk will discuss our recent research effort on developing liquid metal based soft and permeable electronics for wearable, skin-attached, and implantable applications. In particular, we will introduce how to fabricate stretchable and permeable electronics using liquid metal based material platform, how to address the interfacial mismatches, how to achieve high resolution patterning toward functional stretchable and permeable electronic devices and systems, and how to integrate into 3D permeable circuits.
+欢迎有兴趣的师生参加！
+撰稿：郭凯　审核：何传新
+
+超链接：
+- javascript:window.close()
+- https://www1.szu.edu.cn/board/print.asp?id=534842

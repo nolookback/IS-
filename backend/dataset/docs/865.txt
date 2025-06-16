@@ -1,0 +1,62 @@
+标题：第865条公告
+
+正文：
+关闭窗口
+｜
+打印张贴版
+学术讲座：预设时间控制及其应用
+机电与控制工程学院　2022/6/10 19:44:00
+报告题目
+: Predefined-Time Convergence and its Application to Stabilization
+of Permanent-Magnet Synchronous Motor
+报告人
+:  Michael V. Basin, Academician
+of Mexican Academy of Sciences, Autonomous University of Nuevo Leon, Mexico
+报告地点：致信楼机电与控制工程学院
+s630
+报告时间：
+2022
+年
+6
+月
+12
+日
+9:30-10:30
+报告邀请人：崔玉康
+报告内容
+:
+This
+talk presents two predefined-time convergent continuous control algorithms to
+stabilize a permanent-magnet synchronous motor system, using exponential and
+linear time-varying control input terms. The designed control laws are free from
+the restrictions of exponential control growth and exact initial conditions
+knowledge. These are the first predefined-time convergent continuous control
+algorithms applied to stabilization of a permanent-magnet synchronous motor
+system with both deterministic and stochastic disturbances, which enable one to
+a priori set the predefined convergence time even in presence of various
+disturbances of different nature. Numerical simulations are provided for a
+permanent-magnet synchronous motor system to validate the obtained theoretical
+results in each of the three considered cases.
+报告人简历
+:
+Michael
+V. Basin (SM' 07, M' 95) received his Ph.D. degree in Physical and Mathematical
+Sciences with major in Automatic Control and System Analysis from the Moscow
+Aviation University (MAI) in 1992. He is currently Full Professor with the
+Autonomous University of Nuevo Leon, Mexico. Dr. Basin published more than 400
+research papers in international referred journals and conference proceedings.
+His works are cited more than 6500 times (h index = 44). He has served as the
+Editor-in-Chief of Journal of The Franklin Institute, the Senior Editor of
+IEEE/ASME Transactions on Mechatronics, an Associate Editor of different
+Journals. Dr. Basin was awarded a title of Highly Cited Researcher by Thomson
+Reuters and listed in “100 000 Leading Scientists in the World”; he is a
+regular member of the Mexican Academy of Sciences. His research interests
+include optimal filtering and control problems, stochastic systems, time-delay
+systems, identification, sliding mode control and variable structure systems,
+applications to mechatronic and transportation systems.
+欢迎感兴趣的师生参加！
+（更新于2022/6/10 19:47:00）
+
+超链接：
+- javascript:window.close()
+- https://www1.szu.edu.cn/board/print.asp?id=473828

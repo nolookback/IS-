@@ -1,0 +1,33 @@
+标题：第578条公告
+
+正文：
+关闭窗口
+｜
+打印张贴版
+学术讲座（一百零二）：Advanced Atomic Catalysts Design for Energy Systems
+化学与环境工程学院　2023/12/7 17:40:00
+主讲人：
+黄勃龙教授
+时间：
+12
+月
+8
+日
+下
+午
+14:3
+0
+地点：丽湖校区守信楼
+420
+会议室
+报告人简介：
+Dr. Bolong Huang received his PhD in 2012 from the University of Cambridge, and his BSc in condensed matter physics from the Department of Physics, Peking University in 2007. Following a systematic training period of Post-doc in the Chemistry Department at Peking University, and in Hong Kong, he was starting up his independent research at the Hong Kong Polytechnic University in 2015. Now he is the Associate Professor of Department of Applied Biology and Chemical Technology and the Director of the Research Centre for Carbon-Strategic Catalysis (RC-CSC). His research focuses on electronic structures of nanomaterials, energy materials, solid functional materials, rare earth materials, and their applications in multi-scale energy conversion and supply systems. Dr. Huang has published 294 research papers in peer-reviewed international journals with 245 papers as the corresponding author/first author/co-first author including Nature, Science, Chem. Soc. Rev., Energy Environ. Sci., Sci. Adv., J. Am. Chem. Soc., Angew. Chem. Int. Ed., Nat. Commun., Adv. Mater., etc., and received citations over 18000 times with H-index of 72. Dr. Huang has received the “2022 Highly Cited Researcher (Clarivate)” and “2022 World’s Top 2% Most-cited Scientists (Stanford University)”. He is the Member of the Royal Society of Chemistry (MRSC), Associate Editor of Frontiers in Chemistry, the Youth Editorial Board Member of J. Rare Earths, Rare Metals, and Rare Earths, as well as the Young Star Editor of Nano Research (Springer Nature). In addition, He has been the invited speaker at international conferences over 30 times and the invited referee for impactful journals including Nat. Phys., Nat. Commun., Energy Environ. Sci., Adv. Mater., Adv. Energy Mater., J. Am. Chem. Soc., Joule, Angew. Chem. Int. Ed., Adv. Funct. Mater., ACS Catal., Nano Energy, etc.
+报告
+摘要
+：
+Currently, atomic catalysts (ACs) as the frontier research topics have attracted tremendous attention. To supply theoretical guidance for designing novel electrocatalysts, we have carried out a comprehensive mapping study of graphdiyne (GDY) based ACs. First, we have proposed the “Redox Barrier Model” to quantify the capability of electron exchange and transfer (ExT), which enables the comparison of different AC systems. For the hydrogen evolution (HER) process, we have extended the conventional indicator of proton binding energy to more diverse indicators including chemical binding energy, desorption energy, and electronic structures. For the first time, we have identified GDY-Eu and GDY-Sm as two promising electrocatalysts for HER, which are also verified by machine learning. For the developments of dual atomic catalysts (DACs),  we have investigated the formation stability and electronic modulations for all the combinations between transition metals (TMs) and lanthanide (Ln) metals. Due to the electronic self-balance effects by f-d orbital coupling, the combinations between the Ln metals and TMs achieve optimized stability and electroactivity of GDY-DACs. Meanwhile, the introduction of the main group elements enables activations of the electroactivity of GDY. Recently, we have also achieved the applications of GDY-ACs for the CO2 reduction reaction (CO2RR) with a comprehensive reaction pathway mapping of C1 and C2 products for the first time, where different metal selections display distinct selectivity and reaction trends. We propose the integrated large-small cycle mechanism to explain the challenges for C2 product generation and identify the double-dependence correlation with metal and active sites. First-principle machine learning predicts the reaction energy of C-C couplings, where the adsorptions of the intermediates are critical to achieving accurate predictions of multi-carbon products. Therefore, these theoretical explorations have supplied important theoretical insights into the applications of ACs, opening a new avenue for the rational design of ACs for different energy systems.
+欢迎有兴趣的师生参加！
+
+超链接：
+- javascript:window.close()
+- https://www1.szu.edu.cn/board/print.asp?id=510301

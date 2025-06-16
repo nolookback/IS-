@@ -1,0 +1,83 @@
+标题：第428条公告
+
+正文：
+关闭窗口
+｜
+打印张贴版
+学术讲座：Smart IoT System with Edge Intelligence for Intelligent Infrastructure
+土木与交通工程学院　2024/4/17 11:09:00
+（钟沛基 2022280095）
+主讲人
+：
+FU Yuguang
+, Ph.D.
+Assistant Professor
+, MSc (Civil) Program Director
+School of Civil and Environmental Engineering
+Nanyang Technological University
+时间：
+2024
+年
+4
+月
+23
+日
+10
+：
+00
+地点：深圳大学沧海校区致工楼
+B401
+个人简介
+BIOGRAPHY
+FU Yuguang received his B.Sc. and M.Sc. in civil engineering from Tongji University, China in 2012 and 2014, respectively. He earned his Ph.D. in civil engineering from the University of Illinois at Urbana-Champaign (UIUC) in 2019. Prior to joining NTU in 2021, he was a research scientist at Embedor Technologies in 2019. He then became a postdoctoral research associate in the Resilient Extra-Terrestrial Habitats Institute at Purdue University, funded by NASA, from 2019 to 2021. His research objective is to advance state-of-the-art smart sensing, digital twin
+modelling
+ to make our built environment sustainable and resilient. He has participated several critical projects as PI, co-PI or key personnel, funded by NASA, NSF, FRA (in the USA), NSFC (in China), and MOE,
+NRF
+ (in Singapore). He developed a wireless smart IoT system, commercialized it via the support of NSF-SBIR, and successfully deployed it on over 10 railroad bridges in North America.
+His team established a wireless monitoring framework for MRT railroad tunnel monitoring in Singapore, collaborating with LTA and SBST.
+讲座摘要
+ABSTRACT
+With the innovation
+s
+ of hardware
+,
+software
+and algorithms
+,
+wireless smart
+ IoT sensors
+with edge intelligence have the great potential to enable intelligent infrastructure which is deeply
+embedded
+with sensing,
+communicating, computing, and controlling
+capabilities. To realize such potential, we are developing several novel IoT sensor nodes which can support on-demand sensing, live streaming, and distributed computing.
+In
+particular,
+edge intelligence techniques are pioneered
+, in which
+on-board computing of
+machine learning (ML) is executed
+ to transform the raw information to actionable information which goes beyond the traditional edge computing towards
+scalable, reliable and adaptive
+SHM applications.
+Three effective strategies are explored for different aspects of SHM applications. The first strategy is
+to develop
+an integrated model compression method to achieve lightweight ML algorithms for data
+anomaly
+classification to enable reliable SHM applications, which is suitable for single sensor node. The second strategy is to develop a coordinated computing method for hetegroenous sensor networks for data-driven structural anomaly detection, which involves
+reference-free dynamic displacement estimation
+and guassian process regression model establishment/updating. The third strategy is to
+automate the real-time
+model-free
+damage detection using
+noise-robust
+blind source separation (BSS) and shapelet transform.
+A universal damage feauture is proposed to enable a simple ML model for accurate damage detection.
+The above proposed strategies has been evaludated and demonstrated in numerical simulation, lab tests and/or field deployments.
+欢迎有兴趣的师生参加！
+撰稿：邱亚芬　审核：邹亮
+（更新于2024/4/17 11:13:00）
+
+超链接：
+- javascript:window.close()
+- https://www1.szu.edu.cn/board/print.asp?id=518208

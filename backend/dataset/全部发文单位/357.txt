@@ -1,0 +1,79 @@
+标题：第357条公告
+
+正文：
+关闭窗口
+｜
+打印张贴版
+学术讲座（四十七）：Skin-Interfaced Wearable Biosensors
+化学与环境工程学院　2024/6/3 14:36:00
+（钟沛基 2022280095）
+主讲人：
+高伟
+博士
+时间：
+6
+月
+5
+日
+上
+午
+10:00
+地点：丽湖校区守
+信
+楼
+420
+会议室
+报告人简介：
+Wei Gao is an Assistant Professor of Medical Engineering, Ronald and JoAnne Willens Scholar, and Heritage Medical Research Institute Investigator at the California Institute of Technology. He earned his Ph.D. in Chemical Engineering from the University of California, San Diego in 2014, followed by a postdoctoral fellowship in the Department of Electrical Engineering and Computer Sciences at the University of California, Berkeley from 2014 to 2017. He is serving as an Associate Editor for Science Advances, npj Flexible Electronics, Biosensors and Bioelectronics, and Sensors & Diagnostics. His achievements have garnered a number of awards and honors, such as NSF Career Award, ONR Young Investigator Award, IAMBE Early Career Award, Sloan Research Fellowship, Pittcon Achievement Award, IEEE EMBS Early Career Achievement Award, IEEE Sensor Council Technical Achievement Award, Falling Walls Breakthrough of the Year 2023 in Engineering and Technology, 3M Non-Tenured Faculty Award, MIT Technology Review 35 Innovators Under 35, ACS DIC Young Investigator Award, and Materials Today Rising Star Award. He is also recognized as a World Economic Forum Young Scientist, a Highly Cited Researcher (Web of Science), and is a member of the Global Young Academy. His research interests encompass a wide range of areas including wearable sensors, bioelectronics, flexible electronics, and micro/nanorobotics.
+高伟，
+加州理工学院医学工程
+系助理教授。
+2014
+年，他在加州大学圣地亚哥分校获得化学工程博士学位，随后于
+2014
+年至
+2017
+年在加州大学伯克利分校电气工程和计算机科学系获得博士后研究金。他是
+Science Advances
+、
+npj Flexible Electronics
+、
+Biosensors and Bioelectronics
+和
+ Sensors & Diagnostics
+等杂志的副主编。他的成就获得了许多奖项和荣誉，如
+NSF
+职业奖、
+ONR
+青年研究员奖、
+IAMBE
+早期职业奖、斯隆研究奖学金、
+Pittcon
+成就奖、
+IEEE EMBS
+早期职业成就奖、
+IEEESensor Council
+技术成就奖、
+2023
+年工程与技术突破奖、
+3M
+非终身教职教师奖、《麻省理工技术评论》
+35
+位
+35
+岁以下创新者、
+ACS-DIC
+青年研究员奖和今日材料新星奖。他还被公认为世界经济论坛青年科学家、高引用研究员（网络科学），也是全球青年学会的成员。他的研究兴趣涵盖广泛的领域，包括可穿戴传感器、生物电子、柔性电子和微
+/
+纳米机器人
+。
+讲座摘要：
+The rising research interest in personalized medicine promises to revolutionize traditional medical practices. This presents a tremendous opportunity for developing wearable devices toward predictive analytics and treatment. In this talk, I will introduce our efforts in developing wearable biosensors for non-invasive molecular analysis. Such wearables can autonomously access body fluids (e.g., human sweat) across the activities and continuously measure a broad spectrum of analytes including metabolites, nutrients, hormones, proteins, and drugs. To manufacture these high-performance nanomaterial-based
+weara
+ble biosensors at a large scale and minimal cost, we employ techniques such as laser engraving, inkjet printing, and 3D printing. The clinical utility of our wearable systems is assessed through a series of human trials, focusing on precision nutrition, stress response and mental health assessment, chronic disease management, fertility management, and drug personalization. I will also delve into our ongoing research into energy harvesting from both the human body and the surrounding environment, with the ultimate aim of achieving battery-free, wireless wearable biosensing. The integration of these wearable technologies has the potential to unlock a wide spectrum of applications, ranging from personalized monitoring and diagnostics to innovative therapeutic solutions.
+欢迎有兴趣的师生参加！
+撰稿：郭凯　审核：何传新
+
+超链接：
+- javascript:window.close()
+- https://www1.szu.edu.cn/board/print.asp?id=523018

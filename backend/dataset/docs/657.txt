@@ -1,0 +1,91 @@
+标题：第657条公告
+
+正文：
+关闭窗口
+｜
+打印张贴版
+学术讲座（八十五）：分子表型组学之代谢组定量技术及新发现 Quantitative Metabonomics Technologies for Molecular Phenomics and Some New Insights
+化学与环境工程学院　2023/11/1 16:49:00
+主讲人：
+唐惠儒
+教授
+时间：
+1
+1
+月
+5
+日
+上
+午
+9
+:
+0
+0
+地点：丽湖校区守信楼（原
+B1
+栋）
+420
+会议室
+报告人简介：
+唐惠儒，复旦大学特聘教授、国家杰青、
+“精准医学”及“前沿生物技术”国家重点研发计划项目首席、英国皇家化学会会士、伦敦大学博士。曾任英国帝国理工学院生物医学部
+Senior Scientist
+、“中科院生物磁共振分析重点实验室”创建主任、科技部
+973
+与蛋白质科学重大计划等项目评审专家。研究代谢物功能及代谢组学
+30
+余年，发表
+Nature
+、
+Nat Microbiol
+及
+PNAS
+等
+SCI
+论文
+210
+余篇，被引
+1.3
+万余次（
+h
+指数
+~65
+）。获批国内外发明专利多项。现任中国生物物理学会代谢组学分会会长、中国抗癌协会肿瘤代谢分会常务理事、中国营养学会基础营养分会常务理事、国际实验磁共振大会（
+ENC
+）执委（大中华地区唯一）、中国生物化学与分子生物学会脂质与脂蛋白委员会委员，
+Metabolomics
+、
+Arch Pharm
+、《基础医学与临床》等编委，
+Nutrition Metabolism
+及
+Phenomics
+等副主编。
+Dr. Huiru Tang is a Distinguished Professor (metabonomics and systems biology) in Fudan University (School of Life Sciences and Zhangshan Hospital). For last decades, he has been developing metabonomics methods and studying metabolic aspects of important diseases and the symbiotic interactions between mammalian hosts and their gut microbiota.
+After earned his PhD in chemistry from University of London in 1994, he worked at Institute of Food Research, UK, and Imperial College London as a Senior Scientist before joining the Chinese Academy of Sciences in 2005 as a professor. He joined Fudan University in 2014. He authored over 210 peer-reviewed papers with over 13000 citations (h-index: 64). He has been a Fellow of the Royal Society of Chemistry since 2005 and received an Award for Outstanding Young Scholars in 2008. He is editorial board members (or Associated Editors) for numerous scientific journals, Executive Committee Members of ENC and several scientific societies in China. He has been the President of the Metabonomics Society of China since 2018.
+报告
+摘要
+：
+Human metabonome contains more than 20 thousand metabolites which have many different functions with a huge concentration dynamic range, diverse properties and matrices. Quantitative metabolomic analysis is essential for understanding the molecular aspects of mammalian biology, physiology, pathophysiology of various diseases and hence precision medicine. During last decades, metabolomics science has made huge progress in both technical and application areas. To achieve accurate quantitative metabolomic analysis, however, developing efficient novel analytical technologies remains to be one of the most urgent and extremely challenging tasks. NMR and MS are the dominant analytical tools though their combinations have increasingly become attractive with complementary information from them. This presentation will deal with the requirements of quantitative metabonomics and strategies to fulfill such tasks followed with some recent methodological advances. We will also discuss the major challenges metabolomic analysis is facing and possible strategies to overcome such problems with some integrated multiple-omics results presented. We will report some important applications here.
+References
+1.J.X. Zhang, et al, J Pharm Anal, in press, 2023.
+2.Q.S. Chen, et al, Talanta, in press, 2023
+3.Y.B. Feng, et al Nat Microbiol, 7:707-715, 2022.
+4.Z.M. Hou, et al, Cell Rep Med, 3:100561, 2022.
+5.M.F. Xia, et al, J Hepatol, 74:974-977, 2021
+6.Y. Xu, et al, EMBO J. e108069, 2021.
+7.M.F. Wang, et al, Cell Rep, 35:108992, 2021
+8.J.H. Xue, et al, Nature, 569:581
+–
+585, 2019.
+9.Q.F. Wan, et al, Anal Chem, 89:3293
+–
+3299, 2017
+10.M. Li, et al
+，
+PNAS, 105:2117-2122, 2008.
+欢迎有兴趣的师生参加！
+
+超链接：
+- javascript:window.close()
+- https://www1.szu.edu.cn/board/print.asp?id=506644

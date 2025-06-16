@@ -1,0 +1,51 @@
+标题：第591条公告
+
+正文：
+关闭窗口
+｜
+打印张贴版
+学术讲座：南开大学金融学院戈舒怡助理教授—Do Peer Characteristics Explain Returns: An Aggregation Approach
+经济学院　2023/12/1 9:27:00
+讲座题目：
+Do Peer Characteristics Explain Returns: An Aggregation Approach
+讲座时间：
+2023年
+1
+2
+月
+6
+日（周
+三
+）
+16
+：
+0
+0
+-17：00
+讲座地点：
+明德
+楼
+1101会议室
+主讲嘉宾：
+戈舒怡
+助理教授
+南开大学金融学院
+主讲嘉宾简介：
+戈舒怡，南开大学金融学院助理教授，剑桥大学经济学博士。研究领域主要包括金融计量、实证资产定价、经济网络。科研成果发表于
+Journal of Econometrics, Journal of Business and Economic Statistics, Journal of Economic Dynamics and Control
+等国际期刊。主持国家自然科学基金1项。
+讲座主要内容：
+Characteristics of one firm may contain value-relevant information for a set of economically related peer firms. This paper employs a flexible machine-learning approach to aggregate information from a large number of peer characteristics, as well as deviations of firms' own characteristics from the peer averages, into two aggregate peer-based indices: the Peer Index (PI) and the Peer Deviation Index (PDI). The two indices reliably predict future returns, even after controlling for a comprehensive list of other anomaly variables, as well as adjusting for data-snooping bias and microcaps. Individually, long-short value-weighted portfolios based on PI and PDI each generate monthly excess returns of 1.5% and 2.2%, respectively, with Sharpe ratios of 1.15 and 2.28. Combining the two signals, a long-short double-sorted portfolio generates monthly excess returns of 3.48% (with a Sharpe ratio of 2.52). We present evidence that the predictability of PI and PDI arises from the gradual diffusion of information and anchoring to peer fundamentals, respectively.
+欢迎广大师生积极参加！
+经济学院
+2
+023
+年
+12
+月
+1
+日
+
+超链接：
+- javascript:window.close()
+- https://www1.szu.edu.cn/board/print.asp?id=509348

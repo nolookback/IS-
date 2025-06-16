@@ -1,0 +1,25 @@
+标题：第922条公告
+
+正文：
+关闭窗口
+｜
+打印张贴版
+高等研究院系列学术讲座一百四十一
+高等研究院　2022/1/4 10:02:00
+Identification and Control of Nonlinear Discrete-time Uncertain Systems
+Speaker Dr. Zhaobo LIU
+College of Computer Science and Software Engineering, Shenzhen University
+About the Speaker
+Dr. Liu received his B.S. degree in mathematics and applied mathematics from Peking University in 2015, and the Ph.D. degree in control theory from the Academy of Mathematics and Systems Science, Chinese Academy of Sciences, in 2020. He is now a Postdoctoral Fellow in the College of Computer Science and Software Engineering of Shenzhen University.
+Talk Introduction
+The talk includes the self-tuning regulator problems of discrete-time nonlinear uncertain systems and the parameter identification of the general nonlinear autoregressive model. Firstly, for the scalar parameter case, we find that it is possible to stabilize a system growing exponential fast as long as the density of the regular set is not 0. Moreover, we establish a logarithmic law on the density of the regular set for scalar parameter systems to describe the feedback limitations. Specifically, for a typical family of functions, we obtain a new critical constant 2 to determine the stabilizability. Further, to study the multi-parameter case with self-tuning regulators, we establish the asymptotic theorem for the least-square algorithm of the general nonlinear autoregressive model and an appropriate excitation condition for the corresponding closed-loop system identification. Finally, we overcome the difficulties of verifying excitation conditions and deduce stabilizability theorems for two kinds of basic discrete-time multi-parameter uncertain systems..
+时间：2022年1月5日下午2:30-3:30
+地点：致知楼706会议室
+All are welcome！
+附件：
+·高等研究院系列学术讲座一百四十一.jpg
+
+超链接：
+- javascript:window.close()
+- https://www1.szu.edu.cn/board/print.asp?id=465202
+- https://www1.szu.edu.cn/board/down1oad.asp?fn=202214212318高等研究院系列学术讲座一百四十一.jpg

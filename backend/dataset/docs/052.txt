@@ -1,0 +1,65 @@
+标题：第52条公告
+
+正文：
+关闭窗口
+｜
+打印张贴版
+【金科学术讲座】Quantitative investments in DeFi
+金融科技学院　2025/4/27 14:32:00
+主讲人
+Speaker:
+Evgeny Lyandres
+教授
+Tel Aviv University
+时间
+Date & Time:
+202
+5
+年
+5
+月
+8
+日
+（周
+四
+），
+上
+午
+10
+:
+00
+--1
+1
+:
+30
+地点
+Venue:
+粤海校区
+汇星楼
+565
+会议室
+内容简介
+/ Abstract:
+This study provides the first in-depth analysis of concentrated liquidity provision (CLP) strategies in decentralized finance (DeFi). We compile a comprehensive dataset of all CLP positions and trades on the Ethereum blockchain, encompassing over 6,000 liquidity pools, 1 million liquidity provision/withdrawal events, and 70 million trades as of the end of 2024. Our methodological contribution lies in decomposing CLP strategies
+’
+profit and loss (P&L) into components such as liquidity concentration, pool selection, asset picking, market timing, and gas cost optimization. We analyze the relationships between strategy parameters, deployer characteristics, pool attributes, and the profitability of each component. This large-scale academic study highlights the skills of quantitative investors and sheds light on the growing dominance of quantitative strategies in DeFi. Additionally, our findings contribute to the broader literature on quantitative strategy performance by leveraging the unique transparency and decomposability of DeFi markets, which lack the extensive fundamental information present in traditional markets
+.
+主讲人介绍
+/Biography of the speaker
+：
+Prof. Evgeny Lyandres holds a primary appointment as a Professor of Finance and Head of Hogeg Blockchain Research Institute at Tel Aviv University. His focuses on the interaction between firms
+’
+financial and operating strategies, and on the effects of product market competition on various firms
+’
+financial decisions, such as capital structure choices
+,
+M&A strategies and the going public choices. He is also interested in applications of real options theory to firms
+’
+financial and investment decisions. Recently, his research focus shifted largely to applications of blockchain technology in finance. His theoretical and empirical papers have been published in leading finance journals, such as the Journal of Finance, Journal of Financial Economics, Review of Financial Studies, Management Science, Journal of Business, Review of Finance, and Journal of Financial and Quantitative Analysis among many others, and received numerous awards and prizes. Evgeny serves as a Co-editor of Journal of Corporate Finance and as an Associate Editor of several journals.
+当天下午将开展学术交流活动，
+欢迎感兴趣的老师和同学参加！
+撰稿：雷雄风　审核：葛锐
+
+超链接：
+- javascript:window.close()
+- https://www1.szu.edu.cn/board/print.asp?id=546507

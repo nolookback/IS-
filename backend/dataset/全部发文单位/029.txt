@@ -1,0 +1,75 @@
+标题：第29条公告
+
+正文：
+关闭窗口
+｜
+打印张贴版
+【金科学术讲座】Menuless and Preference-free Screening Contracts for Fund Managers
+金融科技学院　2025/5/21 17:17:00
+（钟沛基 2022280095）
+主讲人
+Speaker:
+胡桑
+博士
+香港中文大学（深圳）
+时间
+Date & Time:
+ 202
+5
+年
+5
+月
+28
+日
+（周
+三
+），
+下
+午
+14
+:
+30
+--1
+6
+:
+00
+地点
+Venue:
+粤海校区
+汇星楼
+565
+会议室
+内容简介
+/ Abstract:
+We propose a family of incentive contracts that can attract some fund managers who are favored by all investors and deter any manager who is unfavored by any investor. This contracting problem has hidden types, hidden actions, hidden knowledge of preferences, and opportunity cost. In contrast to standard screening contracts, our contracts neither depend explicitly on the utilities of the managers and investors nor have a menu of choices. The contracts have two crucial components: (i) a first-loss deposit to be used to offset some of the investors' losses and (ii) a liquidation boundary. A case study is also given
+.
+主讲人介绍
+/Biography of the speaker
+：
+胡桑博士
+于香港中文大学取得甲等荣誉学士学位和金融工程博士学位，之后在新加坡国立大学风险管理研究所担任研究员，现在于香港中文大学（深圳）数据科学学院任职。胡桑博士
+的研究兴趣包括行为金融、金融数学、金融工程与金融科技，在
+Journal of Economic Theory
+、
+Management Science
+、
+Operations Research
+、
+SIAM Journal on Control and Optimization
+、
+Stochastic Processes and their Applications
+等国际顶尖期刊发表学术论文，担任了
+Operations Research
+、
+Finance and Stochastic
+、
+SIAM Journal on Financial Mathematics
+等国际期刊的审稿人，主持了多项国家自然科学基金和省市级项目
+。
+当天上午将开展学术交流活动，
+欢迎感兴趣的老师和同学参加！
+撰稿：雷雄风　审核：葛锐
+
+超链接：
+- javascript:window.close()
+- https://www1.szu.edu.cn/board/print.asp?id=548750

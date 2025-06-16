@@ -1,0 +1,149 @@
+标题：第361条公告
+
+正文：
+关闭窗口
+｜
+打印张贴版
+【学术讲座】How to measure radiation efficiency of antennas and mobile devices?
+电子与信息工程学院　2024/5/29 15:55:00
+（钟沛基 2022280095）
+讲座嘉宾：
+Prof. Yi Huang, University of Liverpool, UK
+邀 请 人：
+何业军
+教授
+时  间 ：
+2024
+年
+5
+月
+31
+日上午
+10
+点
+地  点 ：
+致信楼
+N723
+讲座摘要
+:
+Antennas play a pivotal role in wireless communication and radar systems. While
+advanced simulation tools facilitate antenna design, the post-fabrication
+assessment of their performance is equally crucial, yet often overlooked in
+standard university education. This oversight becomes even more critical as we
+transition towards 6G technology, where product time-to-market and reputation
+are paramount.
+In this talk,
+we delve into the significance of radiation efficiency as the ultimate
+performance metric for antennas and mobile devices. We begin by introducing and
+comparing existing measurement methods, such as the directivity/gain,
+integration, Wheeler cap, calorimetric, and reverberation methods.
+Subsequently, we unveil two innovative approaches, the source-stirred
+cap/chamber, and TEM cell methods, aimed at delivering cost-effective, swift,
+and accurate evaluation methods.
+Our discussion
+extends to the underlying theories behind these emerging technologies,
+equipping you with the latest insights into this dynamic and challenging field.
+Join us as we explore the frontiers of efficient antenna and mobile device
+evaluation, shaping the landscape of next-generation wireless communications
+and radar systems.
+报告人简介：
+Yi Huang
+(Fellow, IEEE) received BSc in Physics (Wuhan, China) in 1984, MSc (Eng) in
+Microwave Engineering (Nanjing, China) in 1987, and DPhil in Communications
+from the University of Oxford, UK in 1994.
+He has been conducting research in the areas of
+antennas, wireless communications, applied electromagnetics, radar, and EMC
+since 1987. More recently, he has focused on new materials for antennas,
+wireless energy harvesting, and power transfer. His experience includes 3 years
+spent with NRIET (
+China
+) as
+a
+Radar Engineer
+ and various periods
+with the Universities of Birmingham,
+Oxford
+, and
+Essex in the
+UK
+as a member of research staff. He worked as a
+Research Fellow
+ at British Telecom Labs in 1994 and then
+joined
+the Department of Electrical Engineering & Electronics, the
+University of Liverpool
+, UK as a
+Faculty
+in 1995, where he is now a full
+Professor in Wireless Engineering
+, the
+Head of High-Frequency Engineering Group
+.
+Prof
+Huang has published over
+50
+0 refereed papers in leading international journals
+and conference proceedings and author
+ed
+four books, including
+Antennas: from Theory to Practice
+ (John Wiley, 2008
+and 2021)
+. He has received many
+patents,
+ and research grants from research councils,
+government agencies, charities, the EU, and industry,
+and
+is a recipient of over 10 awards (e.g. EuCAP2023 Best Antenna Paper, IET
+Premium Award for Best Papers 2022, IET Innovation Award 2018, and BAE Systems
+Chairman’s Award 2017). He
+has
+served on a number of
+national and international technical committees and has been an
+Editor, Associate Editor, or Guest Editor
+of
+seven
+international journals
+ (including IEEE TAP
+2022-date, IEEE AWPL 2016-2022)
+.
+In addition, he
+has been a
+keynote/invited speaker
+and
+organiser
+of many conferences and
+workshops (e.g. IEEE iWAT2010, LAPC2012,
+UCMMT2017/2023, and EuCAP2018/2024
+).
+He
+is at present the
+Editor-in-Chief
+ of
+Wireless Engineering and Technology
+,
+the
+UK
+and Ir
+e
+land Rep
+ to the European
+Association
+of Antenna and Propagation (EurAAP, 2016-2020, 2022-date),
+a
+Fellow
+of IET
+, a
+Fellow
+ of IEEE, and a
+Distinguished
+Lecturer
+ of IEEE AP-S (2022-2025)
+.
+电子与信息工程学院
+2024年5月29日
+撰稿：高志杰　审核：周浩江
+
+超链接：
+- javascript:window.close()
+- https://www1.szu.edu.cn/board/print.asp?id=522690

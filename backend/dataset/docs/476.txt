@@ -1,0 +1,45 @@
+标题：第476条公告
+
+正文：
+关闭窗口
+｜
+打印张贴版
+【学术讲座】Near-field Communications and Sensing Technology
+电子与信息工程学院　2024/3/22 22:14:00
+主讲嘉宾：王江舟，教授、院士，英国肯特大学
+邀请人：黄磊教授
+时间：
+2024
+年
+04
+月
+02
+日（周二）上午
+10:30-11:30
+地点：深圳大学致信楼电子与信息工程学院
+N710
+会议室
+摘要：
+Far-field channel model has been considered for decades
+in wireless communications. However, as ultra-massive MIMO is promising for
+future wireless communications with high frequency such as millimeter wave and
+TeraHz, near-field channel model becomes important. In this talk, near-field
+channel model and latest research results in UM-MIMO will be presented.
+个人简介：
+Jiangzhou Wang is a Professor with the University of
+Kent, U.K. His research interest is in mobile communications. He has published
+more than 500 papers and five books. He was a recipient of the 2022 IEEE
+Communications Society Leonard G. Abraham Prize. He was the Technical Program
+Chair of the 2019 IEEE International Conference on Communications (ICC2019),
+Shanghai, Executive Chair of the IEEE ICC2015, London, and Technical Program
+Chair of the IEEE WCNC2013. He is/was the editor of multiple international
+journals, including IEEE Transactions on Communications from 1998 to 2013.
+Professor Wang is an International Member of the Chinese Academy of Engineering
+(CAE), a Fellow of the Royal Academy of Engineering (RAEng), U.K., Fellow of
+the IEEE, and Fellow of the IET.
+撰稿：高志杰　审核：黄磊
+（更新于2024/3/22 22:15:00）
+
+超链接：
+- javascript:window.close()
+- https://www1.szu.edu.cn/board/print.asp?id=516437

@@ -1,0 +1,77 @@
+标题：第141条公告
+
+正文：
+关闭窗口
+｜
+打印张贴版
+【学术讲座】Connecting Robust Estimation and Sparse Regularization: A New Framework and its Application to Matrix Recovery
+电子与信息工程学院　2024/12/15 9:03:00
+（钟沛基 2022280095）
+主讲嘉宾：
+Prof. SO Hing Cheung，
+City University of Hong Kong
+邀 请 人
+:
+黄磊教授
+时     间
+:
+12
+月
+16
+日
+(
+周
+一
+)
+上
+午
+10:30-11:30
+地     点
+:
+致信楼
+N710
+会议室
+Abstract:
+Robust estimation and sparse regularization are involved in many scientific and engineering problems. The former is required when there are outliers or impulsive disturbances in the observed data, while the latter is a standard technique for handling sparse recovery, namely, finding a solution with the minimum number of nonzero entries in a certain domain. In this talk, the connection between robust estimation and sparse regularization will be revealed, and a new framework for a robust loss function will be presented to address these two topics. Application examples of robust factorization based and rank minimization based matrix recovery are included to demonstrate the effectiveness of the proposed framework.
+Biog
+raphy:
+ Hing Cheung So (S’90–M’95–SM’07-F’15) was born in
+Hong Kong. He received the B.Eng. degree from the
+City University of Hong Kong and the Ph.D. degree
+from The Chinese University of Hong Kong, both
+in electronic engineering, in 1990 and 1995,
+respectively.
+From 1990 to 1991, he was an Electronic Engineer
+with the Research and Development Division, Everex
+Systems Engineering Ltd., Hong Kong. During
+1995-1996, he was a Postdoctoral Fellow with The
+Chinese University of Hong Kong. From 1996 to
+1999, he was a Research Assistant Professor with the Department of Electronic
+Engineering, City University of Hong Kong, where he is currently a
+Professor. His research interests include detection and estimation, fast and adaptive algorithms, multidimensional harmonic retrieval, robust signal processing, source localization, and sparse approximation.
+He has been on the editorial boards of
+IEEE Signal Processing Magazine
+ (2014-2017),
+IEEE Transactions on Signal Processing
+ (2010-2014),
+Signal Processing
+ (2010-), and
+Digital Signal Processing
+ (2011-). He was also Lead Guest Editor for
+IEEE Journal of Selected Topics in Signal Processing
+, special issue on
+“
+Advances in Time/Frequency Modulated Array Signal Processing” in 2017. In addition, he was an elected member in
+Signal Processing Theory and Methods Technical Committee
+ (2011-2016) of the IEEE Signal Processing Society where he was chair in the awards subcommittee (2015-2016).
+撰稿：高志杰　审核：周浩江
+
+超链接：
+- javascript:window.close()
+- https://www1.szu.edu.cn/board/print.asp?id=538780
+- http://www.signalprocessingsociety.org/publications/periodicals/spm/
+- http://www.signalprocessingsociety.org/publications/periodicals/tsp/
+- http://ees.elsevier.com/sigpro/
+- http://ees.elsevier.com/dsp/
+- http://www.signalprocessingsociety.org/publications/periodicals/spm/
+- http://www.signalprocessingsociety.org/technical-committees/list/sptm-tc/

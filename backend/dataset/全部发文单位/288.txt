@@ -1,0 +1,43 @@
+标题：第288条公告
+
+正文：
+关闭窗口
+｜
+打印张贴版
+【学术讲座】Conformal Ultra-Wideband Tightly Coupled Arrays for Integrated Communications, Sensing and Imaging
+电子与信息工程学院　2024/8/27 10:49:00
+（钟沛基 2022280095）
+报告题目：
+Conformal Ultra-Wideband Tightly Coupled Arrays for Integrated Communications, Sensing and Imaging
+报告人：高式昌
+教授，
+香港中文大学
+邀请人：孙宇祥
+助理教授
+报告时间：
+2024
+年
+8
+月
+30
+日，星期五，
+14:30-15:10
+报告地点：致信楼
+N107
+报告厅
+报告摘要：
+Future generations of wireless systems will require the integration of multiple functions, e.g. communications, sensing, imaging, navigation and wireless power transfer, etc, into one single system. In the meantime, the communication system will see the integration of space, air and terrestrial networks.
+This invited talk will provide discuss some recent development in conformal ultra-wideband phased array antennas using tightly coupled arrays. Such antennas are promising for future systems integrating communications, sensing and imaging onboard smart terminals (airplane, UAV, cars, satellites, trains, ships...). The past decades saw rapid development of wireless communications, radar and imaging systems using more and more frequency bands. As the antenna is a critical component of wireless systems, it is necessary to develop an ultra-wideband array capable of receiving and sending multiple beams over an ultra-wideband frequency range for multiple systems e.g. communications, sensing, imaging, navigation and wireless power transfer, etc.
+报告人简历：
+Steven Gao
+(
+高式昌
+) is a Professor at Department of Electronic Engineering, The Chinese University of Hong Kong (CUHK), Hong Kong, China, and the Director of Center for intelligent Electromagnetic Systems at CUHK.
+His research interests include intelligent antennas, phased array, MIMO, multi-band/wideband antennas, reflectarrays, transmitarrays, RF/microwave/mm-wave/THz front ends, 5G/6G wireless communications, and microwave remote sensing for environmental monitoring. He co-authored/co-edited 3 books (<<Space Antenna Handbook>>, Wiley, 2012; <<Circularly Polarized Antennas>>, IEEE-Wiley, 2014; <<Low-Cost Smart Antennas>>, Wiley, 2019), over 500 papers in international Journals and conferences, and over 20 patents.
+Prior to joining CUHK, he was a Professor and Chair of Microwave Engineering at the University of Kent, UK (Jan 2013-July 2022). He obtained a PhD in Microwave Engineering from Shanghai University in 1999.
+Prof. Gao is the Editor in Chief of IEEE Antennas and Wireless Propagation Letters (AWPL). He is an IEEE Fellow, and was the UK’s representative in European Association of Antennas and Propagation (2020-2022) and a Distinguished Lecturer of IEEE (2014-2016). He was General Co-Chair of 2021 UK-Europe-China International Workshop on Millimeter-Waves and Terahertz Technologies (UCMMT), Lead Guest Editor of Proceedings of the IEEE for Special Issue on “Small Satellites” in 2018, and Lead Guest Editor of IEEE Transactions on Antennas and Propagation for a Special Issue on “Low-Cost Wide-Angle Beam-Scanning Antennas” in 2022, and a Special Issue on “Antennas for Satellite communications” in 2015.
+撰稿：黄泽端　审核：周浩江
+
+超链接：
+- javascript:window.close()
+- https://www1.szu.edu.cn/board/print.asp?id=528677

@@ -1,0 +1,37 @@
+标题：第355条公告
+
+正文：
+关闭窗口
+｜
+打印张贴版
+【学术讲座】Exploring Human Visual Mechanisms:Integrating Human EEG and Artificial Neural Networks
+心理学院　2024/5/15 10:40:00
+讲座名称：
+Exploring Human Visual Mechanisms:Integrating Human EEG and Artificial Neural Networks
+讲座时间：
+2024年5月31日 星期五 上午9:30
+讲座地点：
+深圳大学沧海校区致理楼C座L3-1201
+主讲人：
+路子童 博士生
+讲座摘要：
+Understanding the complex interplay between visual stimuli and brain activity has been a focal point in cognitive neuroscience. The recent advent of artificial intelligence (AI) provides novel insights for experimental and computational neuroscience research. In this talk, we leverage artificial neural networks (ANNs) as a tool of reverse engineering to deepen our understanding of human visual processing mechanisms. In the first part, I will begin by examining facial repetition suppression. We manipulate neuronal activity in ANNs and conduct representational comparisons between human EEG and manipulated ANN activations to reveal a fatigue mechanism of facial repetition suppression. In the second part, I will shift to the object real-world size representations in human brains. We applied computational methods across human EEG and ANNs to distinguish the representations of object real-world size and other size and depth features in both human brains and ANNs. At the end, I will introduce NeuroRA, a multi-modal representational analysis toolbox used in the studies presented, and our Python EEG handbook. This talk aims to bridge the gap between neuroscience and AI, providing new methodologies and insights into the fundamental aspects of human vision.
+个人简介：
+路子童，俄亥俄州立大学认知神经科学博士在读，华东师范大学认知神经科学硕士（2021），东北大学软件工程本科（2018）。研究方向包括使用眼动、行为学、EEG和fMRI探究人类视觉感知的行为与神经机制以及结合人脑神经数据构建类脑视觉模型，其以一作/通讯作者身份论文发表于Elife, Journal of Experimental Psychology: General (APA editor’s choice), iScience, Frontiers in Neuroinformatics等期刊。工具包NeuroRA和Python脑电数据处理手册的作者，微信公众号“路同学”的运营者。
+代表成果：
+Lu, Z., & Golomb, J.D. (2024 Accepted, Reviewed Preprint in Progress). Human EEG and artificial neural networks reveal disentangled representations of object real-world size in natural images. Elife. Preprint on bioRxiv:
+https://doi.org/10.1101/2023.08.19.553999
+Lu, Z., Li, W., Nie, L., & Zhao, K. (in Press). An Easy-to-Follow Handbook for EEG Data Analysis with Python. Brain-X. Preprint on PsyArXiv:
+https://doi.org/10.31234/osf.io/dcmke
+Lu, Z., & Ku, Y. (2023). Bridging the Gap between EEG and DCNNs Reveals a Fatigue Mechanism of Facial Repetition Suppression. iScience. 26(12), 108501.
+https://doi.org/10.1016/j.isci.2023.108501
+Lu, Z*., & Ku,Y. (2020). NeuroRA: A Python toolbox of representational analysis from multi- modal neural data. Frontiers in Neuroinformatics. 14: 563669.
+https://doi.org/10.3389/fninf.2020.563669
+欢迎感兴趣的师生参加！
+深圳大学心理学院
+撰稿：张丽　审核：张丽
+（更新于2024/6/3 17:00:00）
+
+超链接：
+- javascript:window.close()
+- https://www1.szu.edu.cn/board/print.asp?id=520747

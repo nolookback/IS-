@@ -1,0 +1,41 @@
+标题：第37条公告
+
+正文：
+关闭窗口
+｜
+打印张贴版
+学术讲座（二十）：Drops of Innovation: Bridging Physics to Sustainability
+化学与环境工程学院　2025/5/14 9:32:00
+主讲人：
+Prof. Steven Wang
+时间：
+5
+月
+19
+日
+下
+午
+14
+:
+0
+0
+地点：丽湖校区
+守信楼
+420
+会议室
+报告人简介：
+Prof. Steven Wang serves as the Associate Vice-President (Resources Planning) at City University of Hong Kong and is the Deputy Director of the Centre for Nature-inspired Engineering. He obtained his PhD from Monash University (Supervisor Prof David Boger, FRS) and his Bachelor of Engineering from The University of Melbourne. Before assuming his current position, he conducted postdoctoral research at ETH Zurich from 2015 to 2016 and at the Massachusetts Institute of Technology from 2014 to 2015. Prof. Wang has published extensively in prestigious journals, including Nature, Nature Chemical Engineering, Nature Communications, Science Advances and Physical Review Fluids. His contributions to the field were recognized when he received the Research Project of the Year: STEM award at the Times Higher Education (THE) Awards Asia 2024.
+References:
+[1] Zhang et al., Nature Communications, in press, 2025;
+[2] Xu et al., Nature Communications in press, 2025;
+[3] Lo et al, submitted, 2025.
+讲座摘要：
+This seminar explores groundbreaking advances at the intersection of interfacial physics and sustainability. Three revolutionary systems are unveiled: (1) Droplet mops that remove surface contaminants with 99.9% efficiency using raindrop-sized impacts, slashing water use by 90% for solar farm cleaning; (2) A self-sufficient air-to-fertilizer system combining fog harvesting and droplet-based nitrogen synthesis, boosting crop yields without freshwater or chemical inputs; and (3) An electricity-free air-to-hydrogen technology leveraging radiative cooling and photocatalysis to produce green H
+₂
+from atmospheric moisture [1,2,3]. Together, these innovations harness nonlinear fluid dynamics, spectral engineering, and environmental resource harvesting to address water scarcity, food security, and clean energy, aligning with UN Sustainable Development Goals.
+欢迎有兴趣的师生参加！
+撰稿：郭凯　审核：何传新
+
+超链接：
+- javascript:window.close()
+- https://www1.szu.edu.cn/board/print.asp?id=548063

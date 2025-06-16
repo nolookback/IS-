@@ -1,0 +1,41 @@
+标题：第431条公告
+
+正文：
+关闭窗口
+｜
+打印张贴版
+学术讲座（三十六）：Portable medical platforms based on aggregation induced emission biosensors for quantitative detection of urin
+化学与环境工程学院　2024/4/16 10:47:00
+（钟沛基 2022280095）
+Portable medical platforms based on aggregation induced emission biosensors for quantitative detection of urine biomarkers
+主讲人
+:
+唐友宏教授
+时间
+: 4
+月
+17
+日下午
+16:00
+地点
+:
+丽湖校区守信楼
+420
+会议室
+报告人简介
+:
+Youhong Tang
+is a Matthew Flinders Professor of Engineering and was an Australian Research Council-Discovery Early Career Researcher in Flinders University. He was the Deputy Director of International Laboratory for Health Technologies
+and
+ ACSRF-Joint Research Centre on Personal Health Technologies and is a Research Leader in Institute for NanoScale Science and Technology (ERA rank 5 in Nanotechnology and Materials Engineering) and a Management Committee in Medical Device Research Institute in Flinders University, Australia. He is a Project Management Professional (PMP) of Project Management Institute (PMI), US since 2008 and was elected as a Fellow of Royal Society of Chemistry (FRSC) in 2018
+,
+ a Fellow of Royal Australia Chemical Institute (FRACI) in 2021, a Certificated Materials Professional (CMatP) in 2021 and a Fellow of International Association of Advanced Materials in 2024.
+Youhong obtained his PhD degree in the HKUST in Department of Chemical and Biological Engineering in 2007 and moved to Flinders University in 2012 from the University of Sydney. His research interests mainly focused on (1) structure-processing-property relationship of polymer/fibre composites, (2) chemo/biosensors and their devices with aggregation-induced emission features and (3) novel ocean energy harvester systems.
+讲座摘要：
+Body fluids are used as a means of examining various biomarkers of health and disease both as a means of rapid diagnosis and monitoring of chronic health conditions. Biomarker detection in non-invasively collected biofluids is considered an easy and rapid method in medical diagnostics. A novel group of bioprobes with aggregation-induced emission (AIE) properties is being developed for monitoring analytes in biofluids which could facilitate widespread use via commonly available technologies. For example, urinalysis is extremely useful in the clinical diagnosis, detection, and treatment of disorders such as urinary tract infections, renal disease, and chronic kidney disease (CKD). CKD is a global health issue, and screening high-risk population with albumin-to-creatinine ratio (ACR) urine test will identify patients with CKD early. This will provide opportunity for early inventions to prevent CKD progressing to end-stage kidney disease. In this study, we synthesize and screen suitable AIE biosensors for albumin and creatinine, develop the relevant colorimetric/fluorescent medical platforms to facilitate the quantitatively detection, clinically evaluate the AIEgen based platforms in local hospital renal department and compare the results with commercial pathology results.
+欢迎有兴趣的师生参加！
+撰稿：郭凯　审核：何传新
+
+超链接：
+- javascript:window.close()
+- https://www1.szu.edu.cn/board/print.asp?id=518088

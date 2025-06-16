@@ -1,0 +1,64 @@
+标题：第13条公告
+
+正文：
+关闭窗口
+｜
+打印张贴版
+【金科学术讲座】The Value of Payment Convenience: Evidence from Households’ Investment in Money Market Funds
+金融科技学院　2025/6/5 9:25:00
+主讲人
+Speaker:
+张亚佩
+助理教授
+上海科技大学
+时间
+Date & Time:
+202
+5
+年
+6
+月
+12
+日
+（周
+四
+），
+下
+午
+14
+:
+30
+--1
+6
+:
+00
+地点
+Venue:
+粤海校区
+汇星楼
+565
+会议室
+内容简介
+/ Abstract:
+This paper quantifies the value that households place on payment convenience embedded in
+financial products. Leveraging a unique administrative dataset from Alipay that tracks individual fund holdings and consumption transactions, we estimate a structural demand model that
+accounts for both product-level characteristics and investor-level heterogeneity. On average,
+households are willing to pay approximately 30 basis points in equivalent annual fees to access
+integrated payment services, even after controlling for reach-for-yield motives. We find substantial heterogeneity in preferences: wealthier households and males exhibit higher valuations,
+although the gender difference is entirely driven by younger cohorts. Notably, the valuation
+differs little between users who frequently utilize Yuebao for transactions and those who do not,
+suggesting that the payment feature provides option value, likely motivated by precautionary
+liquidity considerations. Finally, we show that Yuebao adoption substitutes for debit card but
+has limited impact on credit usage
+.
+主讲人介绍
+/Biography of the speaker
+：
+Yapei Zhang is an assistant professor of Finance at Shanghai Tech University, School of Entrepreneurship and Management. Her research focuses on the fields of household finance, entrepreneurial finance, and FinTech. Her papers are published in journals such as the Journal of Finance and Critical Finance Review. She received her Ph.D. in Finance from HEC Paris.
+当天上午将开展学术交流活动，
+欢迎感兴趣的老师和同学参加！
+撰稿：雷雄风　审核：葛锐
+
+超链接：
+- javascript:window.close()
+- https://www1.szu.edu.cn/board/print.asp?id=550289

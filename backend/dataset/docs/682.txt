@@ -1,0 +1,105 @@
+标题：第682条公告
+
+正文：
+关闭窗口
+｜
+打印张贴版
+【学术讲座】Near-Field Communications: What Will Be Different?
+电子与信息工程学院　2023/10/17 10:59:00
+讲座嘉宾：
+刘元玮副教授，伦敦玛丽女王大学
+邀 请 人：
+毕宿志 副教授
+时     间：
+2023年10月19日10:00
+地     点：
+致信楼N723
+Abstract:
+In this talk, the design dilemma of "What will be different
+between near-field communications (NFC) and far-field communications (FFC)?"
+is discussed from four perspectives. (1) From the channel modelling
+perspective, the differences between near-field and far-field channel models
+are discussed. (2) From the performance analysis perspective, analytical
+results for characterizing the degrees of freedom and the power scaling laws in
+the near-field region are provided. (3) From the beamforming perspective, the
+features of far-field beamsteering and near-field beamfocusing are compared. A
+couple of new beamforming structures for NFC are also introduced. (4) From the
+application perspective, several new designs are discussed in the context of
+promising next-generation technologies in NFC. Finally, research opportunities
+and problem are discussed.
+报告人简介
+：刘元玮
+，
+伦敦玛丽女王大学电子工程与计算机科学学院副教授。围绕新一代多址接入技术，通信感知一体化，
+RIS
+辅助通信和近场通信取得了丰富的研究成果，成果发表于
+Proceedings of IEEE/JSAC/TWC/TCOM
+等国际权威期刊，谷歌学术引用累计超过
+20000
+次。入选
+2022
+年《麻省理工科技评论》中国区“
+35
+岁以下科技创新
+35
+人”榜单；
+2021-2022
+年连续入选为科睿唯安全球高被引研究者；担任
+IEEE
+通信学会和车载技术学会杰出讲师；担任
+IEEE
+通信学会“新一代多址接入（
+NGMA
+）”新兴技术倡议委员会学术主席；获得
+2020
+年
+IEEE
+通信学会欧洲、中东和非洲地区杰出青年学者奖；获得
+2021
+年
+IEEE
+通信学会杰出青年专家提名奖；获得
+2021
+年
+IEEE
+通信理论技术委员会早期成就奖；获得
+2020
+年
+IEEE
+通信信号处理与计算技术委员会早期成就奖等；获得
+3
+项最佳论文奖。目前担任
+IEEE ComSoc Technical Committees Newsletter
+联合主编（
+Co-Editor-in-Chief
+），
+IEEE CL
+执行编委（
+Area Editor
+），
+IEEE COMST/TWC/TCOM/TVT/TNSE
+编委和
+Proceedings of IEEE/IEEE JSAC/IEEE Network/IEEE JSTSP/IEEE TGCN
+（首席）客座编委
+,
+担任欧洲电信标准协会（
+ETSI
+）
+RIS
+Industry Specification Group Work Item 6
+的报告人，担任国际无线电科学联盟（
+URSI
+）委员会
+C
+“无线电通信系统和信号处理”的英国区代表，先后主持多项研究基金，获英国工程科学研究会（
+EPSRC
+）、
+Innovate UK
+、英国皇家学会等组织和机构的支持。
+电子与信息工程学院
+2023年10月17日
+（更新于2023/10/18 9:29:00）
+
+超链接：
+- javascript:window.close()
+- https://www1.szu.edu.cn/board/print.asp?id=505058

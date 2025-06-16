@@ -1,0 +1,69 @@
+标题：第344条公告
+
+正文：
+关闭窗口
+｜
+打印张贴版
+【40周年院庆系列活动】之学术活动第26场暨2024深圳大学工业化建造与绿色安全运维系列学术讲座第4场——基于点云的智能建造与运维技术研究
+土木与交通工程学院　2024/6/17 8:53:00
+（钟沛基 2022280095）
+讲座题目
+：基于点云的智能建造与运维技术研究
+英文题目
+：
+Intelligent construction and maintenance techniques based on point cloud data
+报告人
+：东南大学
+王骞
+教授
+Qian Wang, Professor, Southeast University
+讲座时间
+：
+2024
+年
+6
+月
+19
+日（星期三）
+10:00-11:30
+讲座地点
+：深圳大学沧海校区致工楼三楼
+A311
+会议室
+报告人简介：
+王骞，东南大学青年首席教授、博导，入选国家海外高层次人才计划青年项目。主要研究方向包括智能建造与运维、机器视觉、工程质量管理与检测、语义模型重建等。主持或参与国家重点研发计划、国家自然科学基金、江苏省科技计划项目等
+10
+余项课题。在智能建造领域国际权威期刊发表论文
+50
+余篇。谷歌学术累计被引用
+3
+500
+余次，
+H
+指数
+30
+，入选
+ESI
+高被引论文
+3
+篇，授权国际、国内发明专利
+7
+项。
+2022-2023
+连续入选斯坦福大学全球前
+2%
+科学家榜单。担任中国图学学会
+BIM
+专业委员会委员、中国技术经济学会工程建设管理专业委员会理事会理事、南京土木建筑学会青年创新工作分会副主任委员等职务。曾获东南大学青年五四奖章等荣誉。
+D
+r
+. Qian Wang is a Young Chief Professor and Ph.D. advisor at Southeast University. He has been selected for the National High-level Overseas Talent Program Youth Project. His primary research areas include intelligent construction and operation, computer vision, engineering quality management and inspection, and semantic model reconstruction. He has led or participated in over ten projects, including the National Key Research and Development Program, the National Natural Science Foundation, and Jiangsu Provincial Science and Technology Programs. He has published more than 50 papers in international authoritative journals in the field of intelligent construction. His work has been cited over 3,500 times on Google Scholar, with an H-index of 30, and three of his papers have been listed as Highly Cited Papers by ESI. He holds seven international and domestic invention patents. Wang has been consecutively listed in Stanford University's Global Top 2% Scientists from 2022 to 2023. He serves as a committee member of the BIM Professional Committee of the Chinese Society of Graphics, a council member of the Engineering Construction Management Professional Committee of the Chinese Society of Technology Economics, and the Deputy Director of the Youth Innovation Working Committee of the Nanjing Civil Engineering and Architecture Society. He has received honors such as the Southeast University May Fourth Youth Medal.
+报告摘要：
+利用新一代数字技术提升建筑工程建造与运维管理的效率和水平是我国建筑业高质量发展的重要任务。利用传感技术获取的三维点云数据可以准确描述结构的几何形状，相较于传统测量手段具有高效率、高密度、高精度的特点。报告人长期研究基于点云数据的工程智能建造与运维管理技术，主要包括构件生产和工程建造阶段的工程施工尺寸偏差检测技术和设施运维阶段的既有结构模型重建技术。通过结合人工智能技术，可以实现高效准确的构件尺寸偏差检测及既有结构模型自动重建，显著提升了工程建造与运维的效率。
+Enhancing the efficiency and quality of construction and operation management in building engineering using next-generation digital technologies is a crucial task for the high-quality development of China's construction industry. The use of 3D point cloud data acquired through sensing technology can accurately describe the geometric shape of structures and offers high efficiency, high density, and high precision compared to traditional measurement methods. The speaker has long been engaged in research on intelligent construction and operation management technologies based on point cloud data. This research mainly includes dimensional deviation detection technology for engineering construction during the component production and construction phases, as well as existing structure model reconstruction technology during the facility operation and maintenance phase. By integrating artificial intelligence technology, it is possible to achieve efficient and accurate component dimensional deviation detection and automatic reconstruction of existing structure models, significantly improving the efficiency of construction and operation management.
+撰稿：谭毅　审核：包小华
+（更新于2024/6/17 9:08:00）
+
+超链接：
+- javascript:window.close()
+- https://www1.szu.edu.cn/board/print.asp?id=524192

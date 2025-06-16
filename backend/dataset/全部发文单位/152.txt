@@ -1,0 +1,29 @@
+标题：第152条公告
+
+正文：
+关闭窗口
+｜
+打印张贴版
+【医学部学术讲座】VISTA3D: A Unified Segmentation Foundation Model for 3D Medical Imaging
+医学部　2024/12/11 11:14:00
+（钟沛基 2022280095）
+主讲嘉宾：
+何宇帆 博士
+时    间：
+ 2024年12月17日（周二）上午 10:00 – 11:00
+地    点：
+ 深圳大学丽湖校区生物医学工程学院A2-517大会议室
+主 持 人：
+ 杨鑫
+主讲嘉宾简介：
+    何博士是英伟达的应用研究科学家。他获得了约翰
+·霍普金斯大学的博士学位，并于2019年获得了MICCAI青年科学家奖。他的研究兴趣包括医学图像分割、AutoML、基础模型和MONAI项目。
+报告简介（
+Abstract
+）：
+    Foundation models for interactive segmentation in 2D natural images and videos have sparked significant interest in building 3D foundation models for medical imaging. However, the domain gaps and clinical use cases for 3D medical imaging require a dedicated model that diverges from existing 2D solutions. Specifically, such foundation models should support a full workflow that can actually reduce human effort. Treating 3D medical images as sequences of 2D slices and reuse interactive 2D foundation models seems straightforward, but 2D annotation is too time consuming for 3D. Moreover, for large cohort analysis, it's the highly accurate automatic segmentation models that reduce the most human effort. However, these models lack support for interactive corrections and lack zero-shot ability for novel structures, which is a key feature as "foundation". While reusing pre-trained 2D backbones in 3D enhances zero-shot potential, performance on complex 3D structures still lags behind leading 3D models. To address those issues, we present VISTA3D, Versatile Imaging SegmenTation & Annotation model, that targets to solve all these challenges and requirements with one unified foundation model. VISTA3D is built on top of the well-established 3D segmentation pipeline, and it is the first model to achieve SOTA performance in both 3D automatic (127 classes) and 3D interactive segmentation, even when compared with top 3D expert models on large and diverse benchmarks. Additionally, VISTA3D's 3D interactive design allows efficient human correction, and a novel 3D supervoxel method that distills 2D pretrained backbones grants VISTA3D top 3D zero-shot performance. We believe the model, recipe, and insights represent a promising step toward a clinically useful foundation model for 3D imaging. Code and weights are publicly available.
+撰稿：杨鑫　审核：倪东
+
+超链接：
+- javascript:window.close()
+- https://www1.szu.edu.cn/board/print.asp?id=538497

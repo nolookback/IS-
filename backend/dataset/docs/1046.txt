@@ -1,0 +1,63 @@
+标题：第1046条公告
+
+正文：
+关闭窗口
+｜
+打印张贴版
+学术讲座：湖南大学金融与统计学院马勇教授—Attention Constraint, Public’s Uncertai
+经济学院　2021/7/12 16:58:00
+讲座题目：
+Attention Constraint, Public
+’
+s Uncertainty,
+and Strategic Trading
+讲座时间：
+2021
+年
+7
+月
+14
+日（周三）
+9:30-11:00
+讲座地点：腾讯会议（会议号：
+483 589 047
+）
+主讲嘉宾：马勇教授
+湖南大学金融与统计学院
+主讲嘉宾简介：
+马勇，湖南大学金融与统计学院教授，博士生导师。湖湘青年英才支持计划和湖南省
+121
+创新人才培养工程对象。在
+Journal of Futures Markets,
+Quantitative Finance
+，
+International Review of Finance
+和管理科学学报、管理工程学报等国内外重要期刊发表学术论文
+20
+余篇。承担国家自然科学基金项目
+2
+项和其他省部级项目
+5
+项。
+讲座主要内容：
+We investigate the effect of
+institutional investor attention and the public's uncertainty about asset value
+on the financial market by studying a strategic trading problem, where the
+strategic trader is subject to attention constraint and the asset value follows
+a mean-reverting process. We show that the limited institutional investor attention
+endogenously generates a private signal for the strategic trader, precluding a
+fully revealed price. In contrast, the transparency of the asset value improves
+the market efficiency. Furthermore, the trading aggressiveness, expected
+payoff, and informativeness of price increase with institutional investor
+attention, while market liquidity decreases with this attention. On the other
+hand, the effect of the public's uncertainty about asset value is uncertain and
+depends on the remainder of the strategic trader's information advantage. This
+feature explains different empirical findings pertaining to the relationship
+between public news and market liquidity.
+欢迎广大师生参加！
+经济学院
+2021年7月12日
+
+超链接：
+- javascript:window.close()
+- https://www1.szu.edu.cn/board/print.asp?id=454969

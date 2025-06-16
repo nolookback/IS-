@@ -1,0 +1,32 @@
+标题：第818条公告
+
+正文：
+关闭窗口
+｜
+打印张贴版
+【学术讲座】Simultaneously Transmitting And Reflecting Surfaces ..
+电子与信息工程学院　2022/10/8 11:28:00
+Title
+: Simultaneously Transmitting And Reflecting Surfaces (STARS) for 360? Coverage by Intelligent Surfaces
+主讲嘉宾
+：Yuanwei Liu 副教授 Queen Mary University of London
+邀请人
+：马嫄 助理教授
+讲座时间
+：10月11日，星期二，18:00-19：30 Beijing time (6:00 - 7:00 New York Time)
+会议链接
+：https://meeting.tencent.com/dm/kbyEkRp0CMik
+腾讯会议Meeting ID: 361 574 070
+Passcode: 860755
+讲座摘要
+Abstract: In this talk, the novel concept of simultaneously transmitting and reflecting surfaces (STARS) will be introduced. First, the STAR basics will be introduced. In particular, the fundamental signal modelling, performance limit characterization, practical operating protocols, and joint beamforming design will be discussed. Then, the coupled phase-shift STAR model, AI enabled STARS, and channel estimation methods will be focused. Furthermore, several promising case studies of employing STARS will be put forward, including STAR-NOMA, spatial analysis for STARS, federated learning with STARS, and STARS enabled integrated sensing and communications (ISAC). Finally, research opportunities and problem as well as commercial progress of STARS.
+报告人简介
+Yuanwei Liu is an Associate Professor with the School of Electronic Engineering and Computer Science, Queen Mary University of London. His research interests are NOMA, RIS, Integrated sensing and communications, and machine learning. He received 13,000+ citations in Google Scholar with an h-index is 54. He received several research awards, including Web of Science Highly Cited Researcher 2021, the 2020 IEEE ComSoc Outstanding Young Researcher Award for EMEA, the 2020 Early Achievement Award of the IEEE ComSoc Signal Processing and Computing for Communications (SPCC) Technical Committee, the 2020 Early Achievement Award of IEEE Communication Theory Technical Committee, the 2021 IEEE ComSoc Best Young Professional Outstanding Nominee, 2022 International Union of Radio Science Young Scientist Award.  Yuanwei Liu received several research recognization, including listing among the World's Top 2% Scientists by Stanford University in 2020 and 2021, 2022 AI 2000 Most Influential Scholar Honorable Mention in Internet of Things. Yuanwei Liu is the academic Chair for the Next Generation Multiple Access Emerging Technology Initiative, He serves as a Senior Editor of  IEEE Communications Letters, an Editor of the IEEE Transactions on Wireless Communications and the IEEE Transactions on Communications.
+Yuanwei Liu is currently an IEEE Vehicular Technology Society Distinguished Lecturer and the academic Chair for the Next Generation Multiple Access Emerging Technology Initiative. He serves as a Senior Editor of  IEEE Communications Letters,  an Editor of the IEEE Transactions on Wireless Communications and the IEEE Transactions on Communications. He serves as the Guest Editor for IEEE JSAC on Next Generation Multiple Access, IEEE JSTSP on Signal Processing Advances for Non-Orthogonal Multiple Access, IEEE Network on Next Generation Multiple Access for 6G. He has served as the Publicity Co-Chair for VTC 2019-Fall, Symposium Co-Chair for Cognitive Radio & AI-Enabled Networks for IEEE GLOBECOM 2022 and Communication Theory for IEEE GLOBECOM 2023. He serves as the chair of Special Interest Group (SIG) in SPCC Technical Committee on signal processing Techniques for next generation multiple access, the vice-chair of SIG WTC on Reconfigurable Intelligent Surfaces for Smart Radio Environments.
+电子与信息工程学院
+2022年10月8日
+（更新于2022/10/8 11:34:00）
+
+超链接：
+- javascript:window.close()
+- https://www1.szu.edu.cn/board/print.asp?id=481043

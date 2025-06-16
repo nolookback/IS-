@@ -1,0 +1,77 @@
+标题：第409条公告
+
+正文：
+关闭窗口
+｜
+打印张贴版
+【学术讲座】Large Language Model Adaptation for Networking
+电子与信息工程学院　2024/5/8 15:35:00
+讲座嘉宾： 王智副教授，清华大学深圳国际研究生院
+邀 请 人： 张胜利教授
+时    间： 5月11日10:00
+地    点： 致信楼N710
+摘要
+:
+Many networking tasks now employ deep
+learning (DL) to solve complex prediction and system optimization problems.
+However, current design philosophy of DL-based algorithms entails intensive
+engineering overhead due to the manual design of deep neural networks (DNNs)
+for different networking tasks. Besides, DNNs tend to achieve poor
+generalization performance on unseen data distributions/environments. Motivated
+by the recent success of large language models (LLMs), in this talk, we will
+study the LLM adaptation for networking to explore a more sustainable design
+philosophy. With the massive pre-trained knowledge and powerful inference
+ability, LLM can serve as the foundation model, and is expected to achieve
+"one model for all" with even better performance and stronger
+generalization for various tasks. We present NetLLM, the first LLM adaptation
+framework that efficiently adapts LLMs to solve networking problems. NetLLM
+addresses many practical challenges in LLM adaptation, from how to process
+task-specific information with LLMs, to how to improve the efficiency of answer
+generation and acquiring domain knowledge for networking. Across three
+networking-related use cases: viewport prediction (VP), adaptive bitrate
+streaming (ABR) and cluster job scheduling (CJS), we showcase the effectiveness
+of NetLLM in LLM adaptation for networking.
+简介
+:
+王智
+，清华大学深圳国际研究生院副教授，从事多媒体网络和系统方向研究，包括高性能数据处理系统优化、分布式机器学习系统、边缘计算与网络等。先后获得
+2017
+年教育部自然科学奖一等奖，
+2018
+年国家自然科学二等奖，
+2019
+年深圳市青年科技奖，
+2020
+年中国电子学会技术发明一等奖，入选中组部万人计划。发表学术论文近百篇，第一作者出版英文专著两部，获得多媒体领域高水平会议
+ACM Multimedia
+最佳论文奖（国内高校首次第一单位获得），
+2022
+年
+IEEE Transactions on Multimedia
+唯一最佳论文奖，
+2014
+年计算机学会优秀博士论文奖（全国十人）。担任
+IEEE TMM
+副编辑和
+ACM TIST
+客座编辑。关键技术获得
+2014
+年移动互联网创业大赛第一名（全国
+300
+所高校
+1200
+团队参加）。王智研究成果获得工业届广泛应用和关注，相关成果以第一完成人授权专利
+10
+余项；数据驱动的无线网络性能预测技术被知名技术媒体
+MIT Technology Review
+、
+Synced Review
+等报道，成为业界重要参考。
+电子与信息工程学院
+2024年5月8日
+撰稿：高志杰　审核：周浩江
+（更新于2024/5/8 15:37:00）
+
+超链接：
+- javascript:window.close()
+- https://www1.szu.edu.cn/board/print.asp?id=520015

@@ -1,0 +1,39 @@
+标题：第287条公告
+
+正文：
+关闭窗口
+｜
+打印张贴版
+【学术讲座】Surface Electromagnetics: Theory and Engineering
+电子与信息工程学院　2024/8/27 10:52:00
+（钟沛基 2022280095）
+报告题目：
+Surface Electromagnetics
+:
+Theory and Engineering
+报告人：杨帆
+教授
+，清华大学
+邀请人：孙宇祥
+助理教授
+报告时间：
+2024
+年
+8
+月
+30
+日，星期五，
+15:10-15:50
+报告地点：致信楼
+N107
+报告厅
+报告摘要：
+From frequency selective surfaces to Huygens metasurfaces, novel electromagnetic surfaces have been emerging in both scientific exploration and engineering applications. Many intriguing phenomena occur on these surfaces, and novel devices and applications have been proposed accordingly, which have created an exciting paradigm in electromagnetics, the so-called “Surface Electromagnetics (SEM)”. As a representative example, Reconfigurable Intelligent Surface (RIS) exhibits promising potential in communications, radars, and imaging applications. This report will briefly introduce the development of surface electromagnetics, and presents some research frontiers on surface electromagnetics, including both theoretical advancement and engineering applications.
+报告人简历：
+Fan Yang
+ is a Professor at Electronic Engineering Department, Tsinghua University, China, and a Fellow of IEEE. He received the B.S. and M.S. degrees from Tsinghua University, and the Ph.D. degree from University of California at Los Angeles. Prof. Yang’s research interests include antennas, surface electromagnetics, computational electromagnetics, and applied electromagnetic systems. He has published six books, eight book chapters, and over 500 journal articles and conference papers. Dr. Yang served as an Associate Editor for IEEE Trans. Antennas Propagation (TAP), Associate Editor-in-Chief for Applied Computational Electromagnetics Society (ACES) Journal, and TPC chair of 2014 IEEE AP-S International Symposium. He is a co-founder of Beijing Actenna Inc., which focuses on RIS hardware and system applications.
+撰稿：黄泽端　审核：周浩江
+
+超链接：
+- javascript:window.close()
+- https://www1.szu.edu.cn/board/print.asp?id=528678

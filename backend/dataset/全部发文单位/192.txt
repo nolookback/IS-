@@ -1,0 +1,46 @@
+标题：第192条公告
+
+正文：
+关闭窗口
+｜
+打印张贴版
+学术讲座（八十二）：The Role of Electrocatalysis in Energy Storage and Conversion
+化学与环境工程学院　2024/11/22 17:32:00
+（钟沛基 2022280095）
+主讲人：
+P
+rof
+. Shizhang Qiao
+时间：
+1
+1
+月
+24
+日
+上
+午
+1
+0:
+0
+0
+地点：丽湖校区
+守信楼
+420
+会议室
+报告人简介：
+Dr. Shizhang Qiao is a Chair Professor at the School of Chemical Engineering, the founding Director of the Center for Materials in Energy and Catalysis (CMEC), and Director of ARC Industrial Transformation Training Centre for Battery Recycling, at the University of Adelaide (UoA), Australia. His research expertise lies in nanostructured materials for electrocatalysis, photocatalysis, batteries, and other new energy technologies. He has co-authored 560 papers in refereed journals with 138,000 citation times, resulting in an h-index of 188.
+In recognition of his research achievements, Dr. Qiao has been awarded several prestigious awards, including inaugural ARC Industry Laureate Fellow (2023), the South Australian Scientist of the Year (2021), ARC Australian Laureate Fellow (2017), ExxonMobil Award (2016), and ARC Discovery Outstanding Researcher Award (DORA, 2013) among others.
+He is an elected Fellow of Australian Academy of Science (FAA), a Fellow of the International Institute of Chemical Engineers (FIChemE), the Royal Chemical Society (FRSC), and the Royal Australian Chemical Institute (FRACI CChem). Dr. Qiao is the Editor-in-Chief of EES Catalysis (RSC) and also recognized as a Clarivate Analytics Highly Cited Researcher in three categories (Chemistry, Materials Science, Environment and Ecology).
+报告摘要
+：
+Compared to modern fossil fuel-based industrial refineries, the emerging electrocatalytic refinery (e-refinery) is a more sustainable and environmentally benign strategy to convert renewable feedstocks and energy sources to transportable fuels and value-added chemicals. E-refinery promisingly leads to defossilization, decarbonization, and decentralization of chemical industry. Specifically, powered by renewable electricity (e.g., solar, wind and hydro power), oxygen evolution reaction (OER) and hydrogen evolution reaction (HER) can efficiently split water into green hydrogen and CO
+2
+ reduction reaction (CRR) can convert CO
+2
+ emissions to transportable fuels and commodity chemicals. A crucial step in realizing this prospect is the knowledge-guided design of appropriate reactions and optimal electrocatalysts with high activity and selectivity for anticipated reaction pathways. In this presentation, I will talk about our recent progress in mechanism understanding and material innovation for some crucial electrocatalytic reactions, which are achieved by combining atomic-level material engineering, electrochemical evaluation, theoretical computations, and advanced in situ characterizations. I will also introduce recent research progress on electrocatalysis in metal-sulphur batteries.
+欢迎有兴趣的师生参加！
+撰稿：郭凯　审核：何传新
+
+超链接：
+- javascript:window.close()
+- https://www1.szu.edu.cn/board/print.asp?id=536987

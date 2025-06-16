@@ -1,0 +1,76 @@
+标题：第295条公告
+
+正文：
+关闭窗口
+｜
+打印张贴版
+【生物医学工程学院学术讲座】基于图像的智能手术机器人的创新与挑战
+医学部　2024/8/6 16:24:00
+（钟沛基 2022280095）
+主讲嘉宾：
+窦琪
+时间：
+2024
+年
+08
+月
+09
+日（周五）下午
+14:30–15:15
+地点：
+深圳大学丽湖校区生物医学工程学院
+A2-517
+大会议室
+主持人：
+王毅
+主讲嘉宾简介：
+    窦琪教授是香港中文大学计算机科学与工程学系助理教授，港中文智能医学与扩展现实研究所副所长，天石机器人研究所和
+InnoHK
+医疗机械人创新技术中心成员。研究方向为医学影像分析和手术机器人智能化。荣获国家教育部自然科学二等奖，国家自然科学基金优秀青年基金（港澳），
+IEEE EMBS Early Career Achievement Award
+，香港科学会青年科学家奖。带领团队在
+IEEE TMI, Nature Communications, Nature Machine Intelligence, NEJM AI,
+MICCAI, NeurIPS, ICRA
+等医学影像
+/
+人工智能
+/
+机器人国际期刊和会议上发表论文百余篇，谷歌总引用
+25000
+余次，文章曾获
+MICCAI 2022
+青年科学家最佳论文奖，
+IJCARS-MICCAI 2021
+和
+2022
+最佳论文奖，
+IEEE ICRA 2021
+医疗机器人最佳论文奖
+, IEEE TBME 2021 Prize Paper
+Award, MedIA-MICCAI 2017
+最佳论文奖等。担任
+MICCAI 2024, IPCAI 2023,MICCAI
+2022, MIDL 2022
+大会程序主席成员，及
+IEEE TMI, Medical Image Analysis
+等国际期刊副编。
+报告简介（
+Abstract
+）：
+       With rapid advancements in
+medicine and engineering technologies, the operating room has evolved to a
+highly complex environment, where surgeons take advantage of computers,
+endoscopes and robots to perform procedures with more precision while less
+incision. Intelligence, together with its authorized cognitive assistance,
+smart data analytics, and automation, is envisaged to be a core fuel to
+transform next generation robotic surgery in numerous known or unknown exciting
+ways. In this talk, I will present ideas, methodologies and applications of
+image-based robotic surgery intelligence from three perspectives, i.e.,
+AI-enabled surgical situation awareness to improve surgical procedures,
+AI-powered large-scale data analysis to enhance surgical education, AI-driven
+multi-sensory perception to achieve surgical subtask automation.
+撰稿：王毅　审核：倪东
+
+超链接：
+- javascript:window.close()
+- https://www1.szu.edu.cn/board/print.asp?id=528139

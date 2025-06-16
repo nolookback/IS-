@@ -1,0 +1,62 @@
+标题：第752条公告
+
+正文：
+关闭窗口
+｜
+打印张贴版
+学术讲座：Robust Low-Rank Matrix Completion using Truncated...
+电子与信息工程学院　2023/2/14 14:57:00
+主题
+：Robust Low-Rank Matrix Completion using Truncated-Quadratic Loss Function
+演讲嘉宾
+：Hing Cheung So教授
+Department of Electronic Engineering
+,
+City
+University
+of
+Hong Kong
+邀 请 人
+：   黄磊 教授
+讲座时间
+：16号（周四）上午11：00-12：00
+地     点
+：致信楼N710
+Abstract:
+Robust matrix completion
+refers to recovering a low-rank matrix given a subset of the entries possibly
+corrupted by gross errors. It has wide applicability because many real-world
+signals can be modeled as low-rank matrices. Based on matrix factorization, we
+devise a robust matrix completion approach using the truncated-quadratic loss
+function. By exploiting half-quadratic optimization, this non-convex and
+non-smooth loss function is transformed into two tractable forms, namely,
+additive and multiplicative formulations, and block coordinate descent is then
+adopted as their solvers. Numerical simulations and experimental results of
+image inpainting and hyperspectral image recovery demonstrate that our
+algorithms are superior to the state-of-the-art methods in terms of restoration
+accuracy and runtime.
+Biography:
+Hing
+Cheung So
+was born in Hong Kong. He received the
+B.Eng. degree from the City University of Hong Kong and the Ph.D. degree from
+The Chinese University of Hong Kong, both in electronic engineering, in 1990
+and 1995, respectively. During 1995–1996, he was a Postdoctoral Fellow with The
+Chinese University of Hong Kong. From 1996 to 1999, he was a Research Assistant
+Professor with the Department of Electronic Engineering, City University of
+Hong Kong, where he is currently a Professor. His research interests include detection
+and estimation, fast and adaptive algorithms, multidimensional harmonic
+retrieval, robust signal processing, source localization, and sparse
+approximation. He has been on the editorial boards of IEEE Signal Processing
+Magazine, IEEE Transactions on Signal Processing, Signal Processing, and
+Digital Signal Processing. He was also Lead Guest Editor for IEEE Journal of
+Selected Topics in Signal Processing, special issue on “Advances in
+Time/Frequency Modulated Array Signal Processing” in 2017. In addition, he was
+an elected member in Signal Processing Theory and Methods Technical Committee
+of the IEEE Society.
+电子与信息工程学院
+2023年2月13日
+
+超链接：
+- javascript:window.close()
+- https://www1.szu.edu.cn/board/print.asp?id=488118

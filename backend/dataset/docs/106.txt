@@ -1,0 +1,87 @@
+标题：第106条公告
+
+正文：
+关闭窗口
+｜
+打印张贴版
+学术讲座（五）：Molecular Thermoelectricity
+化学与环境工程学院　2025/1/9 16:27:00
+主讲人：
+Prof. Hyo Jae Yoon
+时间：
+1
+月
+14
+日
+下
+午
+15
+:50
+地点：
+丽湖校区守信楼
+420
+会议室
+报告人简介：
+A
+cademic Records
+：
+2005
+Sogang University (B.S.)
+2010
+Northwestern University (Ph.D)
+Professional Career
+：
+2010-2014  Postdoctoral Fellow at Harvard University
+2014-2017
+Assistant Professor at Korea University
+2017-2021
+Associate Professor at Korea University
+2021-
+Professor at Korea University
+2023-
+Vice Director, BK21 Program for Chemistry, Korea University
+2023-
+Secretary of the Executive Committee, Natural Science Division,
+Young Korean Academy of Science and Technology (Y-KAST)
+2024-
+Department Chair, Department of Chemistry, Korea University
+2024-
+Associate Editor, ACS Applied Nano Materials
+2024-
+Director of Chemistry Graduate Program, Korea University
+Selected Publications:
+- “New Method for Large-Area Thermoelectric Junctions with a Liquid Eutectic Gallium-Indium Electrode” S. Park, H. J. Yoon, Nano Lett. 18, 7715-7718 (2018)
+- “Interstitially Mixed Self-Assembled Monolayers Enhance Electrical Stability of Molecular Junctions” G. D. Kong, H. Song, S. Yoon, H. Kang, R. Chang, H. J. Yoon, Nano Lett. 21, 3162-3169 (2021)
+- “Electronic Mechanism of In Situ Inversion of Rectification Polarity in Supramolecular Engineered Monolayer” G. D. Kong, S. E. Byeon, J. Jang, J. W. Kim, H. J. Yoon, J. Am. Chem. Soc. 144, 7966-7971 (2022)
+- “Thermopower of Molecular Junction in Harsh Thermal Environments” S. Park, S. Kang, H. J. Yoon, Nano Lett. 22, 3953-5963 (2022)
+- “Molecular Thermoelectricity in EGaIn-based Molecular Junctions”, J. Jang, P. He, H. J. Yoon, Acc. Chem. Res. 2023, 56, 1613-1622 (2023)
+- “Seebeck Effect in Molecular Wires Facilitating Long-Range Transport” J. Jang, J. W. Jo, T. Ohto, H. J. Yoon, J. Am. Chem. Soc. 146, 4922-4929 (2024)
+- “Long-Range Charge Transport in Molecular Wires” J. Jang, H. J. Yoon, J. Am. Chem. Soc. 146, 13202-13210 (2024)
+Awards
+& Honors
+：
+S-OIL Next-Generation Scientist Award (Korean Academy of Science and Technology, KAST)
+Young Korean Academy of Science and Technology (Y-KAST) Fellow
+讲座摘要
+：
+The field of molecular thermoelectricity focuses on the Seebeck effect occurring in electrode-molecule-electrode junction. The field is of fundamental interest to study structure-thermopower relationship at the atomic level and develop nanoscale thermoelectric devices.[1] Research in molecular thermoelectricity is highly challenging. This is because, among others, i) heat can dissipate in an uncontrollable manner through nearly all matters, ii) it is difficult to create and define reliably temperature differentials across ~1 nm gap, iii) organic molecules may undergo thermal degradation, iv) it is non-trivial to connect soft, floppy organic molecules with hard electrodes in a non-invasive manner with reproducibility, and v) charges move in a quantum-mechanical regime.
+This presentation will discuss our recent efforts in the field of molecular thermoelectricity. We have developed a new metrology technique for reliably measuring Seebeck coefficient over molecular monolayers.[2] Using this technique, we have begun to probe how thermopower is related to the structure of molecule and how to enhance the thermoelectric performance of molecular-scale device in a quantum-tunneling regime.
+References
+1.
+Gemma, A.; Gotsmann, B. A roadmap for molecular thermoelectricity.
+Nat. Nanotechnol.
+, 2021, 16, 1294-1301.
+2. Park, S.; Yoon, H. J. New approach for large-area thermoelectric junctions with a liquid eutectic gallium–indium electrode.
+Nano Lett.
+,
+2018
+,
+18
+, 7715-7718.
+欢迎有兴趣的师生参加！
+撰稿：郭凯　审核：何传新
+（更新于2025/1/10 13:09:00）
+
+超链接：
+- javascript:window.close()
+- https://www1.szu.edu.cn/board/print.asp?id=540536

@@ -1,0 +1,29 @@
+标题：第433条公告
+
+正文：
+关闭窗口
+｜
+打印张贴版
+【学术讲座】Learning Cognitive Control
+心理学院　2024/4/12 22:53:00
+讲座名称：
+Learning Cognitive Control
+讲座时间：
+2024年4月16日 星期二 下午15:00
+讲座地点：
+深圳大学沧海校区致理楼C座L3-1201
+主讲人：
+Tom Verguts教授
+讲座摘要：
+Traditionally, cognitive control was considered as the exact opposite of learning: cognitive control is whatever you apply when no learned action is available and you must do "something new". But this approach leaves unanswered how it is exactly that the agent should know then what to do in such situations. To address this problem, in recent years, we have argued that cognitive control actually also results from learning but learning at a higher (or meta) level. I will explain several studies based on this basic idea, in the domains of learning task switching, learning rates, attention, and learning strategies.
+个人简介：
+Tom Verguts，比利时根特大学（Ghent University）教授，2014-2018年华南师范大学客座教授。2001年在比利时KULeuven大学获得心理学博士学位；2002年到比利时根特大学实验心理学院（Department Of Experimental Psychology）工作。研究兴趣为cognitive neuroscience, computational modelling, cognitive control, learning。重点研究项目包括neural oscillations, learning and attention in biologically plausible network models, prediction (error) in declarative memory, curriculum learning。
+课题组网页：www.cogcomneurosci.com
+欢迎感兴趣的师生参加！
+深圳大学心理学院
+撰稿：张丽　审核：张丽
+（更新于2024/4/12 22:54:00）
+
+超链接：
+- javascript:window.close()
+- https://www1.szu.edu.cn/board/print.asp?id=517962

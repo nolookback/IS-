@@ -1,0 +1,50 @@
+标题：第854条公告
+
+正文：
+关闭窗口
+｜
+打印张贴版
+学术讲座：香港中文大学（深圳）张博辉教授—Fintech and Gender Discrimination
+经济学院　2022/6/20 9:44:00
+讲座题目：
+Fintech and Gender Discrimination
+讲座时间：
+2022
+年
+6
+月
+23
+日（周四）
+16:30-18
+：
+00
+讲座地点：明德楼
+503
+主讲嘉宾：张博辉教授
+香港中文大学（深圳）
+主讲嘉宾简介：
+张博辉教授研究成果多次发表在国际顶尖学术期刊上。张教授分别于
+2016
+年获得澳大利亚国家社会科学院授予的青年研究学者奖章和在
+2010
+年获得新南威尔士大学授予的青年研究学者奖章。他曾主持多项澳大利亚国家研究委员会基金项目、新南威尔士大学澳洲商学院研究基金、和参与中国国家自然科学基金面上项目。他现担任亚洲金融学会的副主席。
+讲座主要内容：
+Using
+data from a lending platform that switched from a human-based to a machine
+learning-based system, we find that FinTech enables lenders to price
+discriminate as the machine learning algorithms allow the platform to better
+decipher borrower preferences. Specifically, the platform assigned higher
+interest rates and better credit ratings to less price-sensitive female
+borrowers after the switch. The results are not driven by changes in borrower
+credit risk or lender preferences. Instead, the behavior is consistent with the
+platform trying to maximize origination and servicing fees using price
+discrimination.
+欢
+迎广大师生参加！
+经济学院
+2022年6月20日
+（更新于2022/6/23 10:57:00）
+
+超链接：
+- javascript:window.close()
+- https://www1.szu.edu.cn/board/print.asp?id=474449

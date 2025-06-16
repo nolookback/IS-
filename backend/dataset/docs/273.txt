@@ -1,0 +1,52 @@
+标题：第273条公告
+
+正文：
+关闭窗口
+｜
+打印张贴版
+【学术讲座】Sintered Silver as Die-Attach Materials in Electronics Packaging
+电子与信息工程学院　2024/9/18 10:41:00
+报 告  人：
+Kim S. Siow，
+National University of Malaysia
+邀  请 人：黄双武  教授
+时    间  ：9月23日，上午10：00-12：00
+地   点  ：致信楼N710
+报告摘要：
+This talk
+will explore the intersection of patent analysis and sintered metal technology
+for die-bonding in electronics packaging, leveraging advanced AI tools and TRIZ
+methodologies. We will begin with an introduction to patents, covering how to
+read and analyze key sections such as claims and detailed descriptions, which
+are crucial for understanding the legal and technical scope of innovations. The
+presentation will then demonstrate the use of a proprietary Large Language
+Model (LLM) via app.amplified.ai to analyze patents related to silver and
+copper paste formulations, identifying six key clusters of sintered bonding
+technologies. By mapping interconnections among patents and applying TRIZ's
+Trends of Engineering System Evolution, we will uncover significant patents,
+predict emerging trends, and identify opportunities for innovation in sintered
+technology, particularly in enhancing thermal management, mechanical integrity,
+and connection interfaces in power modules.
+个人简介：
+Kim S. Siow is a Senior Research
+Fellow and Associate Professor at the Institute of Microengineering and
+Nanoelectronics, National University of Malaysia (UKM). His research focuses on
+sintered silver bonding, plasma surface modification and TRIZ-related issues.
+He has held various roles, including materials engineer at Infineon
+Technologies and On Semiconductor, Research Engineer at the National University
+of Singapore, and Technology Transfer Officer at A*STAR in Singapore. He is
+actively involved in the IEEE community, contributing to international
+conferences. Kim holds a PhD in Engineering from the University of South
+Australia, a Master of Applied Science and Bachelor of Applied Science (Materials
+Engineering) from Nanyang Technological University, and a Master of Laws in
+Intellectual Property from the University of Turin-WIPO. He is also a certified
+Project Management Professional (PMP®) and a Level 3 MATRiZ Practitioner,
+blending technical expertise with intellectual property law.
+电子与信息工程学院
+2024年9月18日
+撰稿：高志杰　审核：周浩江
+（更新于2024/9/18 10:45:00）
+
+超链接：
+- javascript:window.close()
+- https://www1.szu.edu.cn/board/print.asp?id=530643

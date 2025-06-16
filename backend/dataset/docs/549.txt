@@ -1,0 +1,65 @@
+标题：第549条公告
+
+正文：
+关闭窗口
+｜
+打印张贴版
+【学术讲座】Meta-Networking: Empowering Communications with Multi-faceted Awareness
+电子与信息工程学院　2023/12/22 11:03:00
+讲座嘉宾：
+Celimuge
+Wu, The University of Electro-Communications, Japan
+邀  请 人：
+马嫄 副教授
+时  间：
+12
+月
+29
+日，星期五，
+10
+：
+00
+Beijing time
+会议链接
+：
+https://meeting.tencent.com/dm/OFAAT0jdxavn
+腾讯会议
+Meeting ID: 756-454-756
+讲座摘要
+：
+Abstract:
+This talk introduces Meta-networking: a revolutionary networking architecture
+that transmits beyond the Shannon capacity of communication channels by
+improving the information density in the network with collaboration among
+distributed network entities based on efficient service classification and data
+feature extraction. An overview of Meta-Networking is provided and the key
+principles and components of Meta-Networking, including the
+quality-of-experience characterization, AI-empowered semantic encoding, and
+information density improvement, are analyzed. It enables a groundbreaking
+communication system where a much larger amount of information is transmitted
+without increasing the size of binary digits. Furthermore, an application
+scenario for image transmission in the Internet of Vehicles is discussed, which
+shows significant performance improvement compared with conventional
+communications. It is believed that Meta-Networking has the potential for
+revolutionizing communication systems with higher efficiency, stronger
+reliability, and intelligence awareness.
+报告人简介：
+Celimuge
+Wu received his PhD degree from The University of Electro-Communications,
+Japan. He is currently a professor and the director of Meta-Networking Research
+Center, The University of Electro-Communications. His research interests
+include Vehicular Networks, Edge Computing, IoT, and AI for Wireless Networking
+and Computing. He serves as an associate editor of IEEE TCCN, IEEE TNSE, and
+IEEE TGCN. He is Vice Chair (Asia Pacific) of IEEE Technical Committee on Big
+Data (TCBD). He is a recipient of 2021 IEEE Communications Society Outstanding
+Paper Award, 2021 IEEE Internet of Things Journal Best Paper Award, IEEE
+Computer Society 2020 Best Paper Award and IEEE Computer Society 2019 Best
+Paper Award Runner-Up. He is an IEEE Vehicular Technology Society Distinguished
+Lecturer.
+电子与信息工程学院
+2023年12月22日
+（更新于2023/12/22 11:05:00）
+
+超链接：
+- javascript:window.close()
+- https://www1.szu.edu.cn/board/print.asp?id=511358

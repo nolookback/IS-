@@ -1,0 +1,64 @@
+标题：第1169条公告
+
+正文：
+关闭窗口
+｜
+打印张贴版
+【生物医学工程学院学术讲座】
+医学部　2021/1/18 15:57:00
+报告题目：
+Ultrafast Microfluidic Single Molecular Counting Assays towards Real-time Intervention of Cytokine Storms
+主讲嘉宾：
+宋豫京博士
+密歇根大学
+机械工程系博士后研究员
+时间：
+2021
+年
+1
+月
+20
+日 周
+三
+上午
+9:00
+地点：
+深圳大学丽湖校区
+A2-517
+主持人：
+李自达
+助理教授
+报告内容简介：
+The biomarker-guided precision medicine holds great promise to provide personalized therapy with a good understanding of the molecular or cellular data of an individual patient. However, implementing this approach in critical care uniquely faces enormous challenges as it requires obtaining “real-time” data with high sensitivity, reliability, and multiplex capacity near the patient’s bedside in the quickly evolving illness. Current immunodiagnostic platforms generally compromise assay sensitivity and specificity for speed or face significantly increased complexity and cost for highly multiplexed detection with low sample volume. Here, we present the development of three generations of a technology platform that incorporates single-molecule counting of immune-complex formation with microfluidics and machine learning to pave the way for near-real-time interventions of cytokine storms.
+报告嘉宾简介：
+宋豫京博士于
+2014
+年获得浙江大学能源与环境系统工程学士学位，
+2020
+年获得密歇根大学安娜堡分校机械工程系生物技术专业博士学位
+，现任
+密歇根大学
+机械工程系博士后研究员
+。宋博士主要从事超敏单分子免疫测定及自动化设备研发，并应用于新冠细胞因子风暴和癌症
+T
+细胞疗法实时免疫监测及单抗治疗等临床研究，在国际顶级工学、医学期刊以第一作者发文
+4
+篇（两篇
+IF > 10
+），顶级会议发文
+1
+篇，申请美国专利
+2
+项，获选
+2
+019
+年度
+“
+密歇根大学精准医疗学者
+”
+。
+（更新于2021/1/18 16:34:00）
+
+超链接：
+- javascript:window.close()
+- https://www1.szu.edu.cn/board/print.asp?id=442224

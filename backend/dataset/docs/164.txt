@@ -1,0 +1,74 @@
+标题：第164条公告
+
+正文：
+关闭窗口
+｜
+打印张贴版
+【学术讲座】Continuous-Aperture Array Based Wireless Communications: When Hertz Meets Leibniz
+电子与信息工程学院　2024/12/2 9:37:00
+演讲嘉宾
+: Professor Yuanwei Liu
+，
+The University of Hong Kong, Hong Kong
+邀 请 人：黄磊教授、张沛昌副教授
+时  间 ：
+12
+月
+17
+日下午
+16:00
+地  点 ：致信楼
+N710
+摘要
+:
+Multiple-antenna technologies are evolving toward larger aperture sizes, denser
+antenna deployments, higher frequencies, and more flexible aperture shapes.
+This evolution has led to the concept of continuous-aperture arrays (CAPA),
+which form a spatially continuous electromagnetic aperture. CAPA represents a
+significant shift from traditional spatially discrete arrays (SPDAs) by acting
+as a single electrically large antenna with a continuous current distribution.
+Compared with SPDAs, CAPA can achieve extreme spatial resolution and approach
+the upper limits of spatial degrees of freedom within a given spatial resource.
+In this talk, we provide a comprehensive overview of the state-of-the-art in
+CAPAs. We begin by introducing the fundamental principles of CAPA, including
+practical implementation and signal models. Next, we explore its
+information-theoretic limits in both uplink and downlink communications.
+Additionally, we perform a performance analysis for CAPA-based line-of-sight
+and fading channels, followed by a discussion on CAPA’s beamforming design.
+Throughout, we highlight the key differences between CAPA and conventional
+SPDAs. Finally, we conclude with an exploration of potential opportunities and
+unresolved challenges in the field of CAPA.
+个人简介
+：
+Yuanwei Liu is a
+tenured full Professor in Department of Electrical and Electronic Engineering
+(EEE) at The University of Hong Kong (HKU). He is IEEE Fellow, AAIA Fellow, web
+of Science Highly Cited Researcher (2021 to present). His research interests
+include next generation multiple access, integrated sensing and communications,
+reconfigurable intelligent surface, near-field communications and mobile edge
+generation. He is listed as one of 35 Innovators Under 35 China in 2022 by MIT
+Technology Review.
+He
+serves
+as an IEEE Communication Society Distinguished Lecturer, an IEEE Vehicular
+Technology Society Distinguished Lecturer, the academic Chair for the Next
+Generation Multiple Access Emerging Technology Initiative. He received IEEE
+ComSoc Outstanding Young Researcher Award for EMEA in 2020. He received the
+2020 IEEE Signal Processing and Computing for Communications (SPCC) Technical
+Committee Early Achievement Award, IEEE Communication Theory Technical
+Committee (CTTC) 2021 Early Achievement Award. He received IEEE ComSoc
+Outstanding Nominee for Best Young Professionals Award in 2021. He received
+four IEEE best paper awards. He serves Co-Editor-in-Chief of IEEE ComSoc Technical
+Newsletter, Area Editor of IEEE TCOM/CL, Editor of IEEE COMST/TWC/TCCN
+/TVT/TNSE, (leading) guest editor of Proceedings of IEEE/IEEE JSAC/JSTSP etc.,
+the rapporteur of ETSI Industry Specification Group on RIS Industry
+Specification Group Work Item 6, and the UK representative for the URSI
+Commission C on “Radio communication Systems and Signal Processing”.
+电子与信息工程学院
+2024年12月2日
+撰稿：高志杰　审核：周浩江
+（更新于2024/12/5 9:38:00）
+
+超链接：
+- javascript:window.close()
+- https://www1.szu.edu.cn/board/print.asp?id=537651

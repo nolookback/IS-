@@ -1,0 +1,110 @@
+标题：第614条公告
+
+正文：
+关闭窗口
+｜
+打印张贴版
+【学术讲座】Conductive and Dielectric Multimaterial 3D Printing for Metasurfaces and Microwave Circuits Designs
+电子与信息工程学院　2023/11/21 14:47:00
+讲座嘉宾
+：
+Dr. Yang
+the University of Technology Sydney (UTS), Australia
+邀
+请
+人
+：
+任雪
+特聘副研究员
+讲座时间
+：
+2023
+年
+11
+月
+22
+日下午
+4
+:
+0
+0
+讲座地点
+：深圳大学致信楼
+N
+710
+摘要：
+The race to develop next-generation wireless
+electronics is accelerating at a rapid pace. Thanks to advanced additive
+manufacturing technology, fast prototyping, low-entry-cost, and in-house
+short-run manufacturing empower millions of start-ups and companies with
+demanding confidentiality and accelerated innovation. We aim to build a new
+class of high-performance functional metasurfaces to advance the knowledge for
+future microwave devices. Compact and low-cost 3D-printed metasurfaces in
+millimetre-wave and terahertz bands will be comprehensively investigated to
+circumvent the limitations of traditional manufacturing technologies. The
+proposed 3D metasurfaces should be easily integrated into high-speed microwave
+and photonics systems in a dynamic environment. A/Prof. Yang’s group has
+demonstrated a new concept of 3D metasurfaces designed using emerging additive
+manufacturing technologies. The proposed designs are prototyped using silver
+and acrylate inks. The combination of 3D metasurface designs and multi-material
+additive manufacturing is new to the communities interested in emerging
+materials and manufacturing techniques for the dynamic manipulation of
+electromagnetic waves, from microwave to terahertz.
+嘉宾个人简介：
+Yang Yang
+(IEEE Senior Member) was born in Bayan Nur, Inner Mongolia, China and
+received the PhD degree in Electronic Engineering from Department of Electrical
+and Computer Systems Engineering, Monash University, Clayton, Australia, in
+2013.
+Dr Yang
+was with the
+State Key Laboratory of Terahertz and Millimeter Waves, City University of Hong
+Kong, in 2016. Since December 2016, he joined the University of Technology
+Sydney (UTS), Australia. He is currently an Associate Professor and a Group
+Leader of 3D Millimetre-Wave
+and
+Terahertz
+Circuits and Antennas in UTS Tech Lab. His research interests include emerging
+RF materials and additive manufacturing techniques for 3D millimetre-wave and
+terahertz device designs for 5G and biomedical applications. He has over 240
+international publications in microwave, millimetre-wave and terahertz circuits
+and antennas.
+In 2022, Dr Yang received the Linkage Infrastructure, Equipment and
+Facilities (LIEF) Award funded by the Australian Research Council to establish
+the national laboratory of Australian 3D Terahertz Beam Measurement Platform
+(500 GHz). Dr Yang
+is a current Associate
+Editor of
+IEEE T
+ransactions
+on Microwave Theory and Techniques
+, Associate Editor of
+IEEE Transactions on Materials for Electron
+Devices
+, Guest Editor of
+Proceedings of the IEEE
+(Special Session
+in Additively Manufactured Electronic Components in Multi-Material 3D and 4D
+Printing)
+and Area Editor of
+Microwave Optical Technology Letters
+. He is
+the current V
+ice
+Chair of
+IEEE MTT-S
+Education Committee
+,
+Chair of
+IEEE NSW AP-S/MTT-S Joint Chapter
+, and Inaugural Chair of
+IEEE
+MTT-S Technical Committee Microwave Materials and Processing Technologies
+.
+电子与信息工程学院
+2023年11月21日
+（更新于2023/11/21 17:03:00）
+
+超链接：
+- javascript:window.close()
+- https://www1.szu.edu.cn/board/print.asp?id=508443

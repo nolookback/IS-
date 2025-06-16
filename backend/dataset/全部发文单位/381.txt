@@ -1,0 +1,90 @@
+标题：第381条公告
+
+正文：
+关闭窗口
+｜
+打印张贴版
+【学术讲座】Sensor Motion Effect on Localization By TD and DFS Measurements
+电子与信息工程学院　2024/5/21 14:32:00
+（钟沛基 2022280095）
+主讲嘉宾
+：
+Prof. Dominic K. C. Ho,
+University of Missouri, USA
+邀 请 人
+:
+黄磊教授
+时  间
+:
+5
+月
+22
+日
+(
+周三
+)
+下午
+16:00-17:00
+地  点
+:
+致信楼电子与信息工程学院
+N723
+会议室
+Abstract
+:
+The sensor motion effect when performing
+localization of an object by monostatic sensor has often been neglected.
+Modern sensor platforms are dynamic and can
+move at high speeds, making the assumption invalid especially for underwater
+localization.
+This talk presents some
+recent progress on investigating the performance lost due to the ignorance of
+sensor motion, for locating an object by time delay and Doppler shifted
+frequencies.
+In particular, we derive
+the new measurement models by considering the sensor motion effect, analyze the
+model bias when ignoring the motion effect and develop localization algorithm
+using the new measurement models that can reach the CRLB performance.
+Insight on the localization geometries where
+the sensor motion effect is more significant will also be discussed.
+.
+Biography
+:
+Dr. Ho received the BSc degree
+with First Class Honors and the PhD degree in Electronic Engineering, both from
+the Chinese University of Hong Kong.
+He
+was a research associate at the Royal Military College of Canada, a member of
+scientific staff at the Bell-Northern Research, and a faculty at the University
+of Saskatchewan, Canada.
+Since 1997, he
+has been with the University of Missouri, where he is a professor in the
+Electrical Engineering and Computer Science Department.
+His research interests are in sensor array
+processing, source localization, subsurface object detection, and wireless
+communications.
+Dr. Ho has been active
+in the International Telecommunications Union (ITU) standard developments
+between 1995 and 2012.
+He was the
+rapporteur of one recommendation and the editor of several others.
+Dr. Ho was an Associate Editor of the IEEE
+Transactions of Signal Processing (2003-2006, 2009-2013) and the IEEE Signal
+Processing Letters (2004-2008).
+He served
+as the Chair of the IEEE Sensor Array Multichannel (SAM) Technical Committee
+from 2013 to 2014 and the Past Chair in 2015.
+He was Technical Co-Chair of the IEEE International Conference on
+Acoustics, Speech and Signal Processing (ICASSP) held in Shanghai, in 2016.
+He is an inventor of 22 patents in the United
+States, Canada, Europe and Asia on geolocation and signal processing for
+wireless communications.
+Dr. Ho is a
+fellow of the IEEE.
+电子与信息工程学院
+2024年5月21日
+撰稿：高志杰　审核：周浩江
+
+超链接：
+- javascript:window.close()
+- https://www1.szu.edu.cn/board/print.asp?id=521509

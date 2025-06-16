@@ -1,0 +1,95 @@
+标题：第938条公告
+
+正文：
+关闭窗口
+｜
+打印张贴版
+学术讲座：香港岭南大学商学院院长冷明明教授—Multi-Player Allocations in the Presen
+经济学院　2021/12/6 9:21:00
+讲座题目：
+Multi-Player Allocations in the
+Presence of Diminishing Marginal Contributions: Cooperative Game Analysis and
+Applications in Management Science
+讲座时间：
+2021
+年
+12
+月
+15
+日
+14:00-15:30
+讲座地点：腾讯会议（会议号：
+967-383-779
+）
+主讲嘉宾：冷明明教授
+香港岭南大学商学院
+主讲嘉宾简介：
+冷明明教授毕业于加拿大麦克马斯特大学，拥有管理科学
+/
+系统博士学位。目前为香港岭南大学商学院院长、终身教授、以及保险与风险管理研究所代理所长。他曾在岭南大学担任
+(1)
+计算机与决策科学学系的系主任（
+2014
+年
+8
+月至
+2017
+年
+8
+月），
+(2)
+全球数字经济与治理工商管理博士课程项目的创始主任（
+2021
+年
+1
+月至
+2021
+年
+8
+月），以及
+(3)
+电子商务和供应链管理硕士课程项目的创始主任（
+2015
+年
+8
+月至
+2017
+年
+8
+月）。
+冷教授目前的科研工作主要集中在运营和供应链管理，博弈论以及商科中的交叉科学。在国际顶级或重要期刊上发表了
+30
+余篇。包括
+Management Science, Operations
+Research, Production and Operations Management, IISE Transactions (
+原名为
+, IIE Transactions), Naval Research Logistics, European Journal of
+Operational Research, Operations Research Letters
+等等。担任国际顶尖期刊
+Production and Operations Management
+的编辑委员会成员。同时，也担任国内众多高校的特聘教授和客座教授职务。
+冷教授在本科和研究生多门商业课程的开发和教学方面拥有丰富的成功经验，主要包括运营管理、供应链管理、博弈论、项目管理、商业模拟、电子商务模型和创业等。除了学术经验外，他还拥有五年的企业管理工作经验。
+讲座主要内容：
+We use
+cooperative game theory to investigate multi-player allocation problems under
+the almost diminishing marginal contributions (ADMC) property. This property
+indicates that a player's marginal contribution to a non-empty coalition
+decreases as the size of the coalition increases. We develop ADMC games for
+such problems and derive a necessary and sufficient condition for the
+non-emptiness of the core. When the core is non-empty, at least one extreme
+point exists, and the maximum number of extreme points is the total number of
+players. The Shapley value may not be in the core, which depends on the gap of
+each coalition. A player can receive a higher allocation based on the Shapley
+value in the core than based on the nucleolus, if the gap of the player is no
+greater than the gap of the complementary coalition. We also investigate the
+least core value for ADMC games with an empty core. To illustrate the
+applications of our results, we analyze a code-sharing game, a group-buying
+game, and a scheduling profit game.
+欢迎广大师生参加！
+经济学院
+2021年12月6日
+（更新于2021/12/14 14:50:00）
+
+超链接：
+- javascript:window.close()
+- https://www1.szu.edu.cn/board/print.asp?id=463225

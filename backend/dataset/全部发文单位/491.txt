@@ -1,0 +1,38 @@
+标题：第491条公告
+
+正文：
+关闭窗口
+｜
+打印张贴版
+[学术讲座] Analyzing and Fusing Remotely Sensed Big Data as Curves in Frequency Domain
+建筑与城市规划学院　2024/3/11 17:25:00
+（钟沛基 2022280095）
+[
+学术讲座
+]
+ Analyzing and Fusing Remotely Sensed Big Data as Curves in Frequency Domain
+报告主题：
+Analyzing and Fusing Remotely Sensed Big Data as Curves in Frequency Domain
+主讲嘉宾：邱方
+教授
+报告主持：胡忠文副教授
+报告时间：
+2024
+年
+3
+月
+13
+日（星期三）
+10:15
+报告地点：深圳大学粤海校区汇文楼
+H2-303
+邱方
+,美国达拉斯得克萨斯大学（UTD）地理空间信息科学系教授。他2000年获美国南卡罗莱纳大学地理学遥感方向博士学位，1993年获中科院资源与环境信息系统国家重点实验室硕士学位，1990年华东师范大学地理学士学位。邱方教授主要研究方向为地理信息科学(GIS)，遥感，人工智能与深度学习,空间分析与建模等。他开发了一系列基于曲线的创新算法用于高光谱，高空分辨率，激光雷达，无人机热红外等多种新型传感器所收集的遥感大数据的分析及其融合，其研究成果被应用于城市变化，人口预测，环境监测，健康与灾害，野生动物保护等各领域。邱方教授曾主持并参与了美国国家科学基金委(NSF),宇航局(NASA),环保局(EPA)和疾病控制中心(CDC)等资助的多项研究项目。其研究团队有多项研究成果获得最优论文或研究奖，其中包括美国摄影测量与遥感协会（ASPRS）年度遥感最佳科学论文奖。邱方教授曾担任国际华人地理信息系统协会（CPGIS）主席，美国地理学会空间分析与建模专业委员会副主席，美国人口统计局研究顾问，以及UTD地理空间信息科学系主任（2013-2023）。
+报告内容摘要：
+ The latest improvement of sensor resolutions has led to the emergence of various remote sensing big data, which provides great potentials for extracting valuable geospatial information. However, traditional perceptions of these data could not fully capitalize their benefits. In pursuing better solutions to the challenges posed by the volume and variety of new remote sensing big data, we processed the data from different perspectives by transforming the data into curves in frequency domain. The derived curves enabled us to develop a new thinking about remote sensing big data, based on which a theoretical framework was established with new directions on forming commensurate variable types, compatible processing units, as well as matching strategies and algorithms to analyze and fuse big remote sensing data. The new thinking bears significant theoretical implication and will have widespread adoption with its easiness to be applied to different features of the emerging data.
+撰稿：胡忠文　审核：乐阳
+（更新于2024/3/11 17:27:00）
+
+超链接：
+- javascript:window.close()
+- https://www1.szu.edu.cn/board/print.asp?id=515172

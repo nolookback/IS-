@@ -1,0 +1,85 @@
+标题：第283条公告
+
+正文：
+关闭窗口
+｜
+打印张贴版
+【学术讲座】Enhancing MIMO Communications in the 6G Era: Advanced Learning and Optimization Techniques
+电子与信息工程学院　2024/9/2 14:26:00
+（钟沛基 2022280095）
+T
+it
+le:
+Enhancing MIMO Communications in the 6G Era: Advanced Learning and Optimization Techniques
+Invitee:
+P
+rof.
+CAI Yunlong
+,
+Zhejiang University
+Inviter:
+王朔遥副教授
+Date:
+September 6th
+, 2024 (
+Friday
+)
+Time:
+1
+0:
+00-1
+1
+:00
+Venue:
+L6-901
+，
+致真楼，深圳大学
+Abstract
+:
+In the 6G era, innovative MIMO technologies are crucial for enhancing system robustness, reliability, and transmission rates while addressing spectrum shortages, complexity, and network delays. This talk will present our recent advancements in machine learning and optimization techniques for next-generation MIMO systems.
+First, we introduce a deep-unfolding framework that uses an iterative algorithm-induced deep-unfolding neural network in matrix form to tackle communication system challenges. This approach maximizes the sum-rate in massive MIMO systems via beamforming design by transforming iterative algorithms into a layer-wise structure with trainable parameters. We extend this deep-unfolding algorithm to jointly design channel acquisition and hybrid analog-digital (AD) beamforming through end-to-end learning in mmWave MIMO systems.
+Second, we propose a double-reconfigurable intelligent surface (RIS)-assisted radar-communication coexistence system. Deploying two RISs enhances communication signals and reduces interference. Our goal is to optimize RIS and radar beamforming to maximize communication performance while preserving radar detection. We simplify this problem using auxiliary variables and develop a penalty dual decomposition (PDD)-based optimization algorithm.
+Lastly, we explore a semantic-centric MIMO system with our Feature Allocation for Semantic Transmission (FAST) framework. FAST addresses the mismatch between feature importance and wireless channels by integrating an importance evaluator, employing channel prediction for future CSI estimation, and allocating transmission time slots to features. This framework enhances semantic communication performance in image transmission, applicable to both precoding-free and precoding-based MIMO systems in the space-time domain.
+Brief Biography
+:
+蔡云龙
+于
+2010年在英国约克大学获得电子工程博士学位。2010年至2011年期间，他在法国
+C
+NAM
+大学
+电子与通信实验室担任博士后研究员。自
+2011年2月起，他在浙江大学信息与电子工程学院任职，现为教授。他曾在佐治亚理工学院、麦吉尔大学和加利福尼亚大学欧文分校进行学术访问。其研究兴趣包括通信中的信号处理与优化、多天线系统的收发器设计、无人机通信以及通信中的机器学习。在这些领域，他在
+J
+SAC、
+S
+PL
+、
+T
+WC、
+T
+COM、
+J
+STSP和
+T
+VT等著名IEEE期刊上发表了1
+3
+0多篇论文，其中若干篇被列为基本科学指标（ESI）前1%的高被引论文。此外，他还在
+国际
+会议上发表了超过
+100篇论文。蔡教授目前担任
+T
+COM期刊的副编辑，以及
+S
+PL的高级领域编辑。他曾担任IEEE JSAC特刊“Next Generation Advanced Transceiver Technologies”的
+首席客座编辑
+。他还曾担任
+2022年10月在杭州举办的第十八届IEEE
+I
+SWCS的大会主席。
+撰稿：黄泽端　审核：周浩江
+（更新于2024/9/2 14:28:00）
+
+超链接：
+- javascript:window.close()
+- https://www1.szu.edu.cn/board/print.asp?id=529096

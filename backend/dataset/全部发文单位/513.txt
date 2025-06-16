@@ -1,0 +1,73 @@
+标题：第513条公告
+
+正文：
+关闭窗口
+｜
+打印张贴版
+【学术讲座】Coordinated regulation of Na+ extrusion and long-distance transport in plant
+生命与海洋科学学院　2024/1/19 10:16:00
+（钟沛基 2022280095）
+报告题目：
+Coordinated regulation of Na
++
+extrusion and long-distance transport in plant
+报告时间：
+202
+4
+年
+01
+月
+22
+日（星期
+一
+）上午
+10
+:30 -
+12
+:
+00
+地点：
+深圳大学丽湖校区守慧楼
+(A6)-501
+主讲嘉宾
+：
+Dae-Jin Yun
+(
+尹大珍
+)
+，
+Ph
+.D
+ .
+Professor, Department of Biomedical Science & Engineering, Konkuk University, Korea
+Member of Korean Academy of Science and Technology
+摘要
+：
+To control net sodium (Na
++
+) uptake, Arabidopsis plants utilize the plasma membrane Na
++
+/H
++
+ antiporter SOS1 that catalyzes Na
++
+ efflux at the root and promotes Na
++
+ loading into the xylem, and the channel-like HKT1;1 protein that mediates the reverse flux of Na
++
+ unloading at the xylem. Together, these opposing transport systems govern the partition of Na
++
+ within the plant, yet they must be finely co-regulated to prevent a futile cycle of xylem loading and unloading. Here we show that the Arabidopsis SOS3 protein acts as the molecular switch governing these Na
++
+ fluxes by favoring the recruitment of SOS1 to the plasma membrane and its subsequent activation by the SOS2/SOS3 kinase complex under salt stress, while commanding HKT1;1 protein degradation upon acute salt stress. SOS3 achieves this novel role by direct and SOS2-independent binding to previously unrecognized functional domains of SOS1 and HKT1;1. These results evidence that roots first retain moderate amounts of salts to facilitate osmoregulation. When sodicity exceeds the stress set point, activation of SOS3 switches the balance towards Na
++
+ export out of the root via the xylem. Thus, SOS3 functionally links and co-regulates the two major Na
++
+ transport systems operating in vascular plants controlling plant tolerance to salinity.
+欢迎感兴趣的师生与会交流！
+生命与海洋科学学院
+2024年1月19日
+
+超链接：
+- javascript:window.close()
+- https://www1.szu.edu.cn/board/print.asp?id=513344

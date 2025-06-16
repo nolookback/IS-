@@ -1,0 +1,40 @@
+标题：第235条公告
+
+正文：
+关闭窗口
+｜
+打印张贴版
+学术讲座（七十二）：Metal chalcogenides for Robust Electronics
+化学与环境工程学院　2024/10/31 16:30:00
+主讲人：
+Prof. Johnny C. HO
+时间：
+11
+月
+1
+日下午
+15:20
+地点：
+丽湖校区综合服务大厅会议室
+报告人简介：
+Professor Johnny HO is currently Associate Vice-President (Enterprise), a Professor in the Department of Materials Science and Engineering, a core member in the State Key Laboratory of Terahertz and Millimeter Waves at the City University of Hong Kong (CityU), and a Professor (joint appointment) in Institute for Materials Chemistry and Engineering at the Kyushu University, Japan. He received his BS, MSc, and PhD degrees at the University of California, Berkeley, USA, in 2002, 2005, and 2009, respectively. Due to his outstanding academic performance, Professor Ho was selected for the Intel Foundation PhD Fellowship (2007-2009). Before moving to Hong Kong, he got his postdoctoral training from Lawrence Livermore National Laboratory, California, USA (2009-2010). Professor Ho
+’
+s research interests focus on the synthesis, characterization, and applications of nanoscale materials for electronic, optoelectronic, sensor, and energy-harvesting devices. Professor Ho has authored over 30 US/China patents and published over 300 journal articles with an H-index of 72 and a total citation of ~20,000 (Google Scholar Oct 2024). He has trained over 20 PhD graduates and 10 postdoctoral fellows, half serving as academic faculty in universities in China or overseas.
+报告摘要
+：
+High synthesis temperatures and specific growth substrates are typically required to obtain crystalline or oriented inorganic functional thin films, posing a significant challenge for their utilization in large-scale, low-cost (opto-)electronic applications on conventional flexible substrates. This talk will discuss our recent developments using various enhanced techniques to prepare metal chalcogenides-based thin films on different polymeric substrates for robust electronics.
+In one example, the unique multi-scale van der Waals (vdWs) interactions are explored in one-dimensional tellurium (Te) systems, enabled by the vdWs bonds between Te atomic chains and the spontaneous misfit relaxation at quasi-vdWs interfaces. Wafer-scale Te vdWs nanomeshes composed of self-welding Te nanowires are laterally vapor grown on arbitrary surfaces at a low temperature of 100
+°
+C, bringing greater integration freedoms for enhanced device functionality and broad applicability. The prepared Te vdWs nanomeshes can be patterned at the microscale and exhibit high field-effect hole mobility of 145 cm2/Vs, ultrafast photoresponse below 3
+μ
+s in paper-based infrared photodetectors, as well as controllable electronic structure in mixed-dimensional heterojunctions.
+For another example, we explored a pulse irradiation synthesis (PIS) to prepare thermoelectric metal chalcogenide (e.g., Bi2Se3, SnSe2, and Bi2Te3) films on multiple polymeric substrates. The self-propagating combustion process enables PIS to achieve a synthesis temperature as low as
+150°C
+, with an ultrafast reaction completed within one second. Beyond the photothermoelectric (PTE) property, the thermal coupling between polymeric substrates and bismuth selenide films is also examined to enhance the PTE performance, resulting in a responsivity of 71.9 V/W and a response time of less than 50 ms at 1550 nm, surpassing most of its counterparts. This PIS platform offers a promising route for realizing flexible PTE or thermoelectric devices in an energy-, time-, and cost-efficient manner.
+All these device metrics of metal chalcogenides-based thin film electronics are promising to meet emerging technological demands.
+欢迎有兴趣的师生参加！
+撰稿：郭凯　审核：何传新
+
+超链接：
+- javascript:window.close()
+- https://www1.szu.edu.cn/board/print.asp?id=534840

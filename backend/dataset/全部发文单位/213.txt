@@ -1,0 +1,63 @@
+标题：第213条公告
+
+正文：
+关闭窗口
+｜
+打印张贴版
+讲座预告 | 日本理化学研究所葛一君博士学术讲座
+心理学院　2024/11/7 14:55:00
+（钟沛基 2022280095）
+讲座名称：
+Exploring hierarchical visual processes by
+integrating machine learning with neuroimaging
+讲座时间：
+2024
+年
+11
+月
+12
+日下午
+3
+：
+00
+讲座地点：
+深圳大学致理楼
+C
+座
+L3-1336
+主讲人：
+葛一君
+讲座简介：
+The human visual system effortlessly
+interprets complex scenes, yet the neural mechanisms underlying this ability
+remain incompletely understood. This research investigates the intricate
+hierarchical processing of visual information within the brain, using a
+combination of neuroimaging techniques (7T fMRI, EEG) and machine learning. We
+explore three key aspects: 1) The role of the lateral prefrontal cortex (LPFC)
+in achieving visual uniformity, demonstrating its capacity to integrate
+disparate visual inputs and generalize to naturalistic movie scenes; 2) The
+interplay of feedforward and feedback mechanisms in sensory adaptation,
+focusing on the Flash Grab Effect and demonstrating that adaptation is driven
+by perceived, rather than retinal input; 3) The neural representation of 3D
+body pose, revealing a distributed cortical network with the posterior superior
+temporal sulcus (pSTS) encoding 3D view-independent pose information,
+showcasing the complex transformation of visual features from 2D to 3D. These
+findings advance our understanding of visual perception and awareness,
+highlighting the crucial roles of high-level brain regions and feedback
+mechanisms in constructing a coherent and adaptive visual experience.
+主讲人简介：
+葛一君，美国明尼苏达大学认知心理学博士，目前在日本理化学研究所脑科学研究中心担任特别研究员。先后以第一作者或通讯作者身份在
+Nature Communications
+、
+PNAS
+、
+Neuroscience
+等高水平期刊上发表多篇研究成果。
+欢迎感兴趣的师生参加！
+深圳大学心理学院
+撰稿：俎亚男　审核：张丽
+（更新于2024/11/7 14:57:00）
+
+超链接：
+- javascript:window.close()
+- https://www1.szu.edu.cn/board/print.asp?id=535466

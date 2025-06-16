@@ -1,0 +1,71 @@
+标题：第376条公告
+
+正文：
+关闭窗口
+｜
+打印张贴版
+【学术讲座】Unlocking the Potential of Federated Learning: A Path to Future Network Intelligence
+电子与信息工程学院　2024/5/22 10:40:00
+（钟沛基 2022280095）
+主讲嘉宾：
+Prof. Tony Q.S. Quek
+新加坡工程院院士，
+IEEE FELLOW
+新加坡科技设计大学
+邀请人：冯大权
+副教授
+讲座时间：
+2024
+年
+5
+月
+22
+日
+ 15
+：
+00-16
+：
+00
+讲座地点：致真楼
+L6-901
+会议室
+Abstract:
+Machine learning, particularly distributed learning, stands as the
+cornerstone in the vision of future network intelligence, owing to its
+remarkable capability of addressing intricate computational tasks and modeling
+complexities. In this talk, we provide a comprehensive coverage of a
+distributed learning paradigm rooted in federated learning. Specifically, we
+start with a brief overview of federated learning and some recent advances in
+this topic.
+Biography:
+Tony Q.S. Quek received the B.E. and M.E. degrees in Electrical and
+Electronics Engineering from Tokyo Institute of Technology, respectively. At
+Massachusetts Institute of Technology, he earned the Ph.D. in Electrical
+Engineering and Computer Science. Currently, he is the Cheng Tsang Man Chair
+Professor with Singapore University of Technology and Design (SUTD) and ST
+Engineering Distinguished Professor. He also serves as the Head of ISTD Pillar,
+Director for Future Communications R&D Programme, Sector Lead for SUTD AI
+Program, and the Deputy Director of SUTD-ZJU IDEA. His current research topics
+include wireless communications and networking, 6G, network intelligence,
+non-terrestrial networks, and open radio access network.
+Dr. Quek has been actively involved in organizing and chairing sessions and
+has served as a TPC member in numerous international conferences. He is
+currently serving as an Area Editor for the IEEE Transactions on Wireless
+Communications. He was an Executive Editorial Committee Member of the IEEE
+Transactions on Wireless Communications, an Editor of the IEEE Transactions on
+Communications, and an Editor of the IEEE Wireless Communications Letters.
+Dr. Quek received the 2008 Philip Yeo Prize for Outstanding Achievement in
+Research, the 2012 IEEE William R. Bennett Prize, the 2016 IEEE Signal
+Processing Society Young Author Best Paper Award, the 2017 CTTC Early
+Achievement Award, the 2017 IEEE ComSoc AP Outstanding Paper Award, the 2020
+IEEE Communications Society Young Author Best Paper Award, the 2020 IEEE
+Stephen O. Rice Prize, the 2020 Nokia Visiting Professorship, and the the 2022
+IEEE Signal Processing Society Best Paper Award. He is a Fellow of IEEE and a
+Fellow of the Academy of Engineering Singapore.
+欢迎各位师生积极参加！
+撰稿：高志杰　审核：周浩江
+（更新于2024/5/22 10:41:00）
+
+超链接：
+- javascript:window.close()
+- https://www1.szu.edu.cn/board/print.asp?id=521648

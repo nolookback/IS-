@@ -1,0 +1,118 @@
+标题：第762条公告
+
+正文：
+关闭窗口
+｜
+打印张贴版
+【学术讲座】Antennas Amplify Capacity of Wireless Systems
+电子与信息工程学院　2022/12/13 10:27:00
+讲座嘉宾：
+Prof.
+Zhi Ning Chen
+（陈志宁）
+,
+新加坡国立大学教授，新加坡工程院院士，
+IEEE Fellow
+邀请人：何业军
+教授
+讲座时间：
+2022.12.17
+（周六）上午
+10:00
+讲座地点：深圳大学粤海校区电子与信息工程学院——致信楼
+N710
+摘要（
+Abstract
+）
+：
+Antenna is the most historical wireless
+device technology. The antenna technology has experinced many revolutionary
+step with the fast development of wireless systems. The antenna technology has
+directly and significantly contributed to the enhancement of capacity of
+wireless systems as well. The antenna technology is facing revolutionary
+innovation for future wireless systems. This talk will briefly review the
+history, milestone development, and impact of antenna technology. Then the
+challenges and development trends of antenna technology will be addressed. The
+talk will end with updating the success stories of new antenna technology such
+as metantennas and the applications of a machine-learning based synthesis
+method to metalens antennas.
+个人简历（
+BIO
+）：
+Zhi Ning Chen (Fellow IEEE
+，
+2007) received the B.Eng., M.Eng., and Ph.D. degrees in electrical
+engineering from the Institute of Communications Engineering (ICE), Nanjing,
+China, in 1985, 1988, and 1993, respectively, and the second Ph.D. degree from
+the University of Tsukuba, Tsukuba, Japan, in 2003. From 1988 to 1995, he
+worked as a Lecturer and later an Associate Professor with ICE and a
+Post-Doctoral Fellow and later an Associate Professor with Southeast
+University, Nanjing. From 1995 to 1997, he joined the City University of Hong
+Kong, Hong Kong, as a Research Assistant and later a Research Fellow. In 1997,
+he was awarded the Japan Society for the Promotion of Science (JSPS) Fellowship
+to conduct his research at the University of Tsukuba. From 1999 to 2016, he
+worked with the Institute for Infocomm Research (I2R), Singapore, as a
+Principal Scientist, the Head of the RF and Optical Department, and a Technical
+Advisor. In 2012, he joined the Department of Electrical and Computer
+Engineering, National University of Singapore, Singapore, as a tenured Full
+Professor, where he is currently the Program Director (Industry). He is
+holding/held the concurrent guest professorships at Southeast University
+(Changjiang Chair Professor); Nanjing University, Nanjing; Tsinghua University,
+Beijing, China; Shanghai Jiaotong University, Shanghai, China; Tongji
+University, Shanghai; the University of Science and Technology of China, Hefei,
+China; Fudan University (Outstanding Visiting Professor), Shanghai; Dalian
+Maritime University, Dalian, China; Chiba University, Chiba, Japan; the
+National Taiwan University of Science and Technology, Taipei, Taiwan, Shanghai
+University (Ziqiang Professor), Shanghai; the Beijing University of Posts and
+Telecommunications, Tohoku University, Beijing; and the City University of Hong
+Kong (Adjunct Professor), Hong Kong. He is also serving as the members of State
+Key Laboratory of Millimeter-waves, Southeast University, and the City
+University of Hong Kong. He is interested in electromagnetic engineering and
+antennas/sensors for communication, radar, imaging, and sensing systems. He has
+published more than 660 academic papers and five books entitled Broadband
+Planar Antennas (Wiley 2005), UWB Wireless Communication (Wiley 2006), Antennas
+for Portable Devices (Wiley 2007), Antennas for Base Stations in Wireless
+Communications (McGraw-Hill 2009), and Handbook of Antenna Technologies with 76
+chapters (by Springer References in 2016 as an Editor-in-Chief). He has also
+contributed the chapters to the books entitled UWB Antennas and Propagation for
+Communications, Radar, and Imaging (Wiley 2006), Antenna Engineering Handbook
+(McGraw-Hill 2007), Microstrip and Printed Antennas (Wiley 2010), and
+Electromagnetics of Body Area Networks (Wiley 2016). He is holding 28 granted/
+filed patents with 35 licensed deals with industry. Dr. Chen was elevated to a
+fellow of the IEEE for the contribution to small and broadband antennas for
+wireless applications in 2007. He was elevated to a Fellow of the Academy of
+Engineering Singapore in 2019. He was a recipient of the International
+Symposium on Antennas and Propagation Best Paper Award 2010, the CST University
+Publication Awards 2008 and 2015, the ASEAN Outstanding Engineering Achievement
+Award in 2013, the Institution of Engineers Singapore Prestigious Engineering
+Achievement Awards 2006, 2013(2), and 2014, the I2R Quarterly Best Paper Award
+2004, the IEEE iWAT 2005 Best Poster Award, several technology achievement
+awards from China during 1990 to 1997, as well as more than 19 academic awards
+by the students he supervised. He is the Founding General Chair of the
+International Workshop on Antenna Technology (iWAT in 2005), the International
+Symposium on InfoComm and Mechatronics Technology in Bio-Medical and Healthcare
+Application (IS 3Tin3A in 2010), the International Microwave Forum (IMWF in
+2010), and the Asia–Pacific Conference on Antennas and Propagation (APCAP in
+2012). He also involved in many international events as the General Chair, the
+Chair, and a member for technical program committees and international advisory
+committees. He has served IEEE Council on RFID as a Vice President and a
+Distinguished Lecturer since 2015. He served on the IEEE TRANSACTION ON
+ANTENNAS AND PROPAGATION as an Associate Editor and the IEEE Antennas and
+Propagation Society as a Distinguished Lecturer. In 2021, Prof. Chen
+obtained
+John
+Kraus Antenna Award
+for
+outstanding contributions to translational research of electromagnetic
+metamaterials for antenna engineering.
+（
+https://cde.nus.edu.sg/ece/staff/chen-zhining/
+）
+欢迎广大师生参加！
+电子与信息工程学院
+2022年12月13日
+
+超链接：
+- javascript:window.close()
+- https://www1.szu.edu.cn/board/print.asp?id=486584
+- https://aps.ieee.org/awards/winners-of-2021-ap-s-awards-announced

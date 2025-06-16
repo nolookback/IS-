@@ -1,0 +1,79 @@
+标题：第290条公告
+
+正文：
+关闭窗口
+｜
+打印张贴版
+【学术讲座】The Pursuit of Excellence in Antenna Research
+电子与信息工程学院　2024/8/27 10:41:00
+报告题目
+：
+The Pursuit of Excellence in Antenna
+Research
+报告人：张跃平教授，
+新加坡南洋理工大学
+邀请人：孙宇祥
+助理教授
+报告时间：
+2024
+年
+8
+月
+30
+日，星期五，
+10:10-10:50
+报告地点：致信楼
+N107
+报告厅
+报告摘要
+：
+The pursuit of excellence in antenna research by the speaker over the
+years will be reviewed. First and foremost, the genesis of fundamental
+knowledge that has deepened our understanding of antennas will be presented.
+Special emphasis will be given to the impedance relations between differential
+antennas and their single-ended counterparts. It will be shown that there exist
+(1) simple quantitative relations, which may be used to determine one impedance
+from the other whose solution is already known; (2) the antenna structures in
+which the Babinet’s principle does not hold but their product of impedances is
+always constant and independent of frequency. Second, the story behind the
+development of antenna-in-package (AiP) technology from academic curiosity to
+industrial mainstream will be unravelled. Third, the invention of microbump
+antennas and arrays for terahertz (THz) wireless system-on-chip will be
+disclosed. An analogy between antennas and transistors will be described to
+highlight the importance of microbump antennas. It is envisioned that the
+development of antenna-on-chip (AoC) technology based on microbump antennas will
+pave the antenna way for future THz wireless communication and sensing.
+Finally, some conclusions will be drawn.
+报告人简历：
+Yueping ZHANG
+(M’03-SM’07-F’10) is currently Professor with the School of Electrical and
+Electronic Engineering at Nanyang Technological University, Singapore. He was
+Distinguished Lecturer of the IEEE Antennas and Propagation Society (IEEE AP-S)
+(2018 -2022) and Associate Editor of the IEEE Transactions on Antennas and
+Propagation (IEEE TAP) (2010 - 2016).
+Prof.
+Zhang has published numerous papers, including two invited and one regular
+papers in the Proceedings of the IEEE and one invited paper in the IEEE TAP. He
+is the Chinese radio scientist who has published a historical article in an
+English learned journal such as the IEEE Antennas and Propagation Magazine. He
+received the 2012 IEEE AP-S Sergei A. Schelkunoff Prize Paper Award.
+Prof.
+Zhang has been invited to deliver plenary, keynote, and invited speeches at the
+flagship conferences organized by national and international learned societies
+since 2000. He received a few Best Paper Awards from the International
+Conferences held in the United Kingdom and China.
+Prof.
+Zhang holds seven US patents. He has made pioneering and significant
+contributions to the development of AiP technology that have had a profound
+impact on antennas and electronic packaging. He received the 2020 IEEE AP-S
+John Kraus Antenna Award. He also received the 2022 Exceptional Technical
+Achievement Award from the IEEE Electronics Packaging Society. His current
+research interests include the development of AoC technology for very
+large-scale antenna integration and characterization of chip-scale propagation
+channels at terahertz for wireless chip area network (WCAN).
+撰稿：黄泽端　审核：周浩江
+（更新于2024/8/27 10:42:00）
+
+超链接：
+- javascript:window.close()
+- https://www1.szu.edu.cn/board/print.asp?id=528673

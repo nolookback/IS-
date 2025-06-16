@@ -1,0 +1,62 @@
+标题：第12条公告
+
+正文：
+关闭窗口
+｜
+打印张贴版
+【金科学术讲座】Jump risk premia in the currency market: evidence from quanto forwards
+金融科技学院　2025/6/5 9:36:00
+主讲人
+Speaker:
+方翔
+助理教授
+香港大学经济管理学院
+时间
+Date & Time:
+202
+5
+年
+6
+月
+13
+日
+（周
+五
+），
+上
+午
+10
+:
+00
+--1
+1
+:
+30
+地点
+Venue:
+粤海校区
+汇星楼
+565
+会议室
+内容简介
+/ Abstract:
+We develop a novel approach to quantify the risk premia compensation for exposure to cojumps in foreign exchange rates and stock market indices. Utilizing currency quanto contract, we construct a self-financing portfolio that is only exposed to the exchange rate and stock market cojump risks and measure the average return of this portfolio as the associated risk premia. We find that the difference between high- and low-interest-rate currencies' cojump risk premia is small compared to currency risk premia, in sharp contrast to the implications of standard rare disaster models
+.
+主讲人介绍
+/Biography of the speaker
+：
+方翔，香港大学经济管理学院金融学助理教授。
+2019
+年获得宾夕法尼亚大学经济学博士学位，他的研究领域涵盖国际金融、资产定价及其与宏观经济的关联，尤其关注金融中介机构在经济运行中的关键作用
+。他的研究成果发表在
+Journal of Financial Economic
+、
+Journal of Banking & Finance
+等国际一流期刊上。
+当天下午将开展学术交流活动，
+欢迎感兴趣的老师和同学参加！
+撰稿：雷雄风　审核：葛锐
+
+超链接：
+- javascript:window.close()
+- https://www1.szu.edu.cn/board/print.asp?id=550291

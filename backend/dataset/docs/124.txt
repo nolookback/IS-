@@ -1,0 +1,66 @@
+标题：第124条公告
+
+正文：
+关闭窗口
+｜
+打印张贴版
+【学术讲座】Intelligent Synchronization Techniques for Effective Digital Twin Construction
+电子与信息工程学院　2024/12/23 15:45:00
+主讲嘉宾
+：
+Dr.
+Pengyi Jia
+,Western University
+邀  请 人
+：
+冯大权 教授
+时     间：
+24号上午10:00
+地      点
+：
+致真楼L6-901
+Abstract:
+Achieving holistic
+characterization of large-scale Internet of Things (IoT)
+systems through digital twin
+modeling is crucial for optimizing system operations. However, time
+misalignment among distributed data inputs can significantly undermine the
+accuracy of digital twin models. Therefore, synchronizing large-scale data
+collection is fundamental to ensuring precise digital twin development. Conventional
+synchronization methods, which rely on routine
+"observing-and-calibrating" over the Internet, suffer from
+unpredictable accuracy, low efficiency, and a lack of contextual awareness, all
+of which hinder modeling performance. This presentation will begin with an
+introduction to digital twins and their applications, highlighting the needs
+for time synchronization in supporting accurate digital twin construction. It
+will then provide an intelligent and low-overhead synchronization solution to
+support digital twin modeling. A novel digital twin framework will be
+introduced, leveraging end-to-end synchronization and multi-attribute
+resampling for accurate and efficient modeling in industrial IoT systems.
+The discussion will conclude
+by showcasing the application of synchronized digital twins in orchestrating 6G
+heterogeneous networks, demonstrating their potential to enhance network
+performance and operational effectiveness.
+Speaker:
+Dr.
+Pengyi
+Jia received his M.Eng. and Ph.D. degrees from the Department of Electrical and
+Computer Engineering, Western University, London, ON, Canada, in 2016 and 2021,
+respectively. He is currently a Postdoctoral Associate at Western University.
+His research interests include intelligent network
+synchronization, digital twin, and machine learning, as well as their
+applications in vertical IoT systems and wireless networks. One focus of his
+recent research is to develop goal-oriented digital twin paradigms for
+optimized network operation and service provisioning by exploring
+spatial-temporal correlations behind the massive sampling data.
+Dr. Jia has been involved in organizing IEEE CCECE
+2021 and served as a TPC member for many conferences. He is serving as the Vice
+Chair of ComSoc Chapter in IEEE London Section.
+电子与信息工程学院
+2024年12月23日
+撰稿：高志杰　审核：周浩江
+（更新于2024/12/23 15:48:00）
+
+超链接：
+- javascript:window.close()
+- https://www1.szu.edu.cn/board/print.asp?id=539235

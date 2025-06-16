@@ -1,0 +1,36 @@
+标题：第282条公告
+
+正文：
+关闭窗口
+｜
+打印张贴版
+【学术讲座】How Momentary Mood Mirrors Normal and Pathological Behavior
+心理学院　2024/9/3 14:02:00
+（钟沛基 2022280095）
+讲座名称：
+The Visual Cortex as a Cognitive Sketchpad: Perception, Learning, and Attention
+讲座时间：
+2024年9月5
+日
+15:
+00
+讲座地点：
+深圳大学心理学院深圳大学沧海校区致理楼C座L3-1336
+主讲人：
+王志豪 博士 法国国家科学研究中心和索邦经济中心副研究员
+讲座摘要：
+Mood is a central component of human life. People indeed act to maximize their well-being, while dysfunctions in mood dynamics trigger symptoms like depression and anxiety, and may result in suicide. Given the importance of maintaining positive mood states for mental health, understanding the factors that influence mood is essential. In particular, cooperation and altruistic acts are ubiquitous and crucial to live in society. Thus, it has long been thought that altruism is rewarding and as such promotes high mood. Yet, recent literature shows mixed evidence in that regard. Such diverging results may be explained by social preferences, with altruistic people being happier after a donation unlike selfish people.
+In this talk, I will present experimental results showing how mood dynamics are impaired in psychopathologies and how mood relates to our social preference and altruistic decisions. Specifically, I will try to answer the following questions:
+1) how do decision-based mood fluctuations relate to mental health problems, such as suicide, depression and anxiety, and what are their underlying affective computational mechanisms? The transition from choice to mood has often been overlooked, as most studies focus solely on choice; yet, mood is at the core of mental health.
+2) how does social preference shape mood, and what are the corresponding computational mechanisms?
+3) how to promote our happiness through altruistic acts like donations?
+个人简介
+：王志豪博士现为法国国家科学研究中心和索邦经济中心副研究员。其博士毕业于荷兰格罗宁根大学认知神经科学专业，并获优秀博士毕业论文，以第一作者或通讯作者在PLoS Biology, Neuroscience & Biobehavioral Reviews, Cerebral Cortex, Neuroimage 等国际高水平期刊发表9篇论文，并荣获2021国家优秀自费留学生奖学金。王志豪博士主要采用认知情感计算建模，大数据和脑成像技术等多种方法相结合的手段研究情感，学习和决策。重点关注：1）行为（比如预期误差）如何影响心境（mood）或主观幸福感，及其潜在的计算神经机制；2）如何应用这些计算神经机制来提升人的主观幸福感；3）建立这些计算神经机制和情感障碍之间的关联。
+深圳大学
+心理学院
+撰稿：张丽　审核：张丽
+（更新于2024/9/3 14:03:00）
+
+超链接：
+- javascript:window.close()
+- https://www1.szu.edu.cn/board/print.asp?id=529199

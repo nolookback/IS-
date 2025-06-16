@@ -1,0 +1,75 @@
+标题：第93条公告
+
+正文：
+关闭窗口
+｜
+打印张贴版
+学术讲座：Quantum Beam Analysis for Tribology Study（面向摩擦学研究的量子束分析）
+机电与控制工程学院　2025/3/6 14:23:00
+讲座题目
+：
+Quantum Beam Analysis for Tribology Study
+（面向摩擦学研究的量子束分析）
+讲座嘉宾
+：
+Professor Tomoko Hirayama(Kyoto University
+，
+Japan)
+平山朋子
+教授（京都大学工学部机械理工专业）
+讲座时间
+：
+2025
+年
+3
+月
+10
+日（星期一）上午
+10:00
+讲座地点
+：深圳大学沧海校区致信楼
+S630B
+会议室
+邀
+请
+人
+：刁东风
+教授
+主
+持
+人：
+范雪
+副教授
+讲座内容简介：
+Boundary lubrication is one of the most interesting
+topics in the field of tribology, and a lot of studies have been conducted from
+the past for understanding the characteristics of boundary lubrication layers.
+General boundary lubrication layers are formed by the adsorption of additives
+mixed into lubricant, and then the tribological performances are drastically
+improved in many cases. However, there is still room for discussion on the
+‘actual’ structure of adsorbed additive layer at the solid-liquid interface.
+This talk will introduce the recent approaches using neutron reflectometry (NR)
+and frequency-modulation atomic force microscope (FM-AFM) for in-situ
+structural analysis of adsorbed additive layer, especially focsing on a fatty
+acid as a typical oiliness additive and developed additives for advanced engine
+oil, and the relationship between the structure and friction coefficient
+measured by colloidal-probe AFM under boundary lubricated condition will be
+discussed1,2). In addition, “mechano-operando” analysis with NR and its results
+will be introduced as a new trial.
+（边界润滑是摩擦学领域中最有趣的话题之一，过去已经开展了大量研究，以了解边界润滑层的特性。通常，边界润滑层是通过润滑油中添加的添加剂吸附形成的，许多情况下，其摩擦学性能会显著提高。然而，关于固体
+-
+液体界面处吸附添加剂层的“实际”结构，仍有讨论的空间。本次报告将介绍最近使用中子反射（
+Neutron Reflectometry, NR
+）和频率调制原子力显微镜（
+Frequency-Modulation Atomic Force Microscope, FM-AFM
+）进行吸附添加剂层原位结构分析的方法。特别关注脂肪酸这种典型的油性添加剂，以及为先进发动机油开发的添加剂。此外，还将讨论在边界润滑条件下，通过胶体探针原子力显微镜（
+Colloidal-Probe AFM
+）测量的摩擦系数与结构之间的关系。此外，报告还将介绍“机械操作原位”（
+Mechano-Operando
+）分析与中子反射结合的最新尝试及其结果。）
+撰稿：范雪　审核：马将、郑纯
+（更新于2025/3/6 14:26:00）
+
+超链接：
+- javascript:window.close()
+- https://www1.szu.edu.cn/board/print.asp?id=542421

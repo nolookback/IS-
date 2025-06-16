@@ -1,0 +1,120 @@
+标题：第109条公告
+
+正文：
+关闭窗口
+｜
+打印张贴版
+学术讲座（二）：Ion transport within van der Waals crystals
+化学与环境工程学院　2025/1/9 16:22:00
+主讲人：
+Prof.
+Wooyoung Shim
+时间：
+1
+月
+14
+日
+下
+午
+1
+4
+:
+0
+0
+地点：丽湖校区守
+信
+楼
+420
+会议室
+报告人简介：
+A
+cademic Records
+:
+1996-2004  Yonsei University (B.S.)
+2004-2006  Yonsei University (M.S.)
+2007-2012  Northwestern University (Ph.D)
+2012-2014  Harvard University (Postdoctoral fellow)
+Professional Career
+:
+2014-2018  Assistant Professor
+2018-2024  Associate Professor
+2024-present  Professor
+2025-present  Associate Editor, Nano Letters, ACS
+2018-present  Director, Center for Multi-dimensional Materials
+2018-present  IBS Professor, IBS Center for Nanomedicine
+2023-present  Councilor, Faculty Senate, Yonsei University
+2024-present  Associate Dean, College of Engineering, Yonsei University
+2020-2022 　 Head, Department Graduate, Yonsei University
+2022-2024 　 Deputy Director, Yonsei Engineering Research Center
+Selected
+Publications
+:
+1. “Anomalous in-plane electrical anisotropy in elemental metal nanosheets” Kim, T. & Shim, W.* and coworkers, Nature Synthesis (2024), DOI: https://doi.org/10.1038/s44160-024-00669-4
+2. “Cation-eutaxy enabled III-V-derived van der Waals crystals as memristive semiconductors” Bae, J., Won, J. & Shim, W.* and coworkers, Nature Materials 23, 1402 (2024)
+3. “Polytypic two-dimensional FeAs with high anisotropy” Won, J. & Shim, W.* and coworkers, Nano Letters 23, 23 (2023)
+4. “Nontypical Wulff-shaped silicon nanosheets with high catalytic activity” Lee, M. & Shim, W.* and coworkers, J. Am. Chem. Soc. 145, 22620 (2023)
+5. “Three-dimensional touch device with two-terminals” Cho, Y. & Shim, W.* and coworkers, Advanced Materials 35, 2305697 (2023)
+6. “Extreme Ion Transport Inorganic 2D Membranes for Nanofluidic Applications” Kim, S. & Shim, W.* and coworkers, Advanced Materials 35, 2206354 (2022)
+7. “Binary-state Scanning Probe Microscopy for Parallel imaging” Kim, G. & Shim, W.* and coworkers, Nature Communications 13, 1438 (2022)
+8. “Enhancing Li Ion Battery Performance by Mechanical Resonance” Jin, D., & Shim, W.* and coworkers, Nano Letters 21, 5345 (2021)
+9. “Kinetic 2D Crystals via Topochemical Approach” Bae, J. & Shim, W.* and coworkers, Advanced Materials 33, 2006043 (2021)
+10. “Layered Aluminum for electromagnetic wave absorber with near-zero reflection” Kim, T. & Shim, W.* and coworkers, Nano Letters 21, 1132 (2021)
+11. “Neuromorphic van der Waals crystals for substantial energy generation” Kim, S. & Shim, W.* and coworkers, Nature Communications 12, 47 (2021)
+12. “Near-field sub-diffraction photolithography with an elastomeric photomask” Paik, S. & Shim, W.* and coworkers, Nature Communicaions 11, 805 (2020)
+Awards
+& Honors
+:
+- Material Matters, Contribution Plaque, MeRCK (2023)
+- President Award, National Research Foundation (2022)
+- SKC Solmics Award, The Korean Ceramic Society (2022)
+-
+Nano Convergence Academic Award, Springer Nature (2021)
+- National TOP 10 Nanotechnology Award, Ministry of Science and ICT & Ministry of Trade (2020)
+- National Research Top 50 Excellency Award, Ministry of Education (2018)
+- National Research and Development Top 100 Excellency Award, Ministry of Science and ICT (2018)
+讲座摘要：
+The force-flux relationship is a fundamental concept in explaining mass transport under a driving force in non-equilibrium conditions. This relationship is captured by the Onsager relation, which describes how gradients in concentration, temperature, and voltage drive the transport of mass, heat, and charge, while also considering cross-effects. In this presentation, I will explore how ion transport driven by a voltage gradient varies depending on the diffusion medium, and how this transport can be harnessed in various technological applications. Specifically, I will focus on layered materials with van der Waals gaps, which facilitate ion movement along pathways with low diffusion energy barriers. These materials hold significant potential in semiconductors, metals, and insulators, where they could serve as memory devices, switching devices, and ion-sieving membranes.
+References
+:
+1.
+“
+Anomalous in-plane electrical anisotropy in elemental metal nanosheets
+”
+Kim, T. & Shim, W.* and coworkers,
+Nature Synthesis (2024), DOI: https://doi.org/10.1038/s44160-024-00669-4
+2.
+“
+Cation-eutaxy enabled III-V-derived van der Waals crystals as memristive semiconductors
+”
+Bae, J., Won, J. & Shim, W.* and coworkers,
+Nature Materials 23, 1402 (2024)
+3.
+“
+Polytypic two-dimensional FeAs with high anisotropy
+”
+Won, J. & Shim, W.* and coworkers,
+Nano Letters 23, 23 (2023)
+4.
+“
+Nontypical Wulff-shaped silicon nanosheets with high catalytic activity
+”
+Lee, M. & Shim, W.* and coworkers,
+J. Am. Chem. Soc. 145, 22620 (2023)
+5.
+“
+Layered Aluminum for electromagnetic wave absorber with near-zero reflection
+”
+Kim, T. & Shim, W.* and coworkers,
+Nano Letters 21, 1132 (2021)
+6.
+“
+Neuromorphic van der Waals crystals for substantial energy generation
+”
+Kim, S. & Shim, W.* and coworkers,
+Nature Communications 12, 47 (2021)
+欢迎有兴趣的师生参加！
+撰稿：郭凯　审核：何传新
+
+超链接：
+- javascript:window.close()
+- https://www1.szu.edu.cn/board/print.asp?id=540532

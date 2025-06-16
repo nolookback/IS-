@@ -1,0 +1,99 @@
+标题：第354条公告
+
+正文：
+关闭窗口
+｜
+打印张贴版
+【40周年院庆系列活动】之学术活动第18场暨2024深圳大学工业化建造与绿色安全运维系列学术讲座第2场: 基于计算机视觉的施工安全管理与基础设施健康监控
+土木与交通工程学院　2024/6/4 9:29:00
+讲座题目
+：基于计算机视觉的施工安全管理与基础设施健康监控
+英文题目
+：
+Computer Vision Aided Construction Safety
+Management and Civil Infrastructure Health Monitoring
+报告人
+：香港城市大学
+王明珠
+助理教授
+讲座时间
+：
+2024
+年
+6
+月
+5
+日（星期三）
+15:00-
+16
+00
+讲座地点
+：深圳大学沧海校区致工楼二楼
+BIM
+会议室
+报告人简介：
+王明珠博士目前担任香港城市大学建筑与土木工程系的助理教授。她于
+2019
+年获得香港科技大学（
+HKUST
+）的博士学位。她曾在伦敦帝国理工学院系统工程与创新中心（
+CSEI
+）担任研究助理，并于
+2021
+年加入拉夫堡大学，担任建筑、建筑与土木工程学院的施工管理讲师（助理教授），在
+2024
+年晋升为高级讲师（副教授）。王明珠老师的研究兴趣包括智能建造、智能基础设施检测与管理、施工安全、计算机视觉与机器学习、建筑信息模型（
+BIM
+）、数字孪生和施工机器人。王明珠老师已在相关领域的高排名期刊和会议论文集中发表了多篇论文。她的研究得到了多个资助来源的支持，包括
+InnovateUK
+、联合国教科文组织、
+Skanska
+和
+Oval Partnership
+等。
+Dr. Mingzhu Wang
+is an Assistant Professor at the Department of Architecture and Civil
+Engineering at City University of Hong Kong. She earned her PhD degree from the
+Hong Kong University of Science and Technology (HKUST) in 2019. Following her
+doctoral studies, she worked as a Research Associate at the Centre for Systems
+Engineering and Innovation (CSEI) at Imperial College London. In 2021, Dr. Wang
+joined Loughborough University as a Lecturer (Assistant Professor) in
+Construction Management within the School of Architecture, Building and Civil
+Engineering and she was promoted to Senior Lecturer (Associate Professor) in
+2024. Dr. Wang’s research focus on smart construction, intelligent
+infrastructure inspection and management, construction safety, computer vision
+and machine learning, Building Information Modelling (BIM), digital twin, and
+construction robotics. She has authored and co-authored numerous publications
+in high-ranking journals and conference proceedings. Her research has received
+funding from various sources, such as InnovateUK, UNESCO, Skanska and the Oval
+Partnership.
+报告摘要：
+The concept of
+smart cities is being promoted globally to address the challenges of
+urbanization and enhance the efficiency of city operations and services. A
+critical component of smart city development is the construction and
+maintenance of the built environment. However, the construction industry faces
+significant challenges, including high hazard rates and low productivity,
+primarily due to inadequate digitalization. The successful application of
+digital technologies and advanced computing methods in various industries
+demonstrates their potential to address these challenges in construction. This
+talk will focus on the development of computer vision techniques for
+construction safety management and civil infrastructure inspection and
+monitoring.
+The talk will
+begin with research on monitoring onsite workers, construction equipment, and
+their interactions using data fusion and deep learning techniques. This segment
+will cover the detection and tracking of onsite entities, the evaluation of
+their safety compliance, and the prediction of potential safety hazards.
+Following this, the talk will introduce research on inspecting and assessing
+various civil infrastructures, such as sewer pipes, bridges, and sidewalks,
+using visual data. The talk will also discuss our preliminary efforts to
+address challenges related to data scarcity and varying environmental
+conditions.
+智慧城市的概念正在全球范围内推广，以应对城市化的挑战并提高城市运营和服务的效率。智慧城市发展的一个关键组成部分是建筑环境的建设和维护。然而，建筑行业面临着重大挑战，包括高危害率和低生产力，主要原因在于数字化不足。各种行业中数字技术和先进计算方法的成功应用展示了它们在解决建筑行业这些挑战方面的潜力。这次演讲将重点介绍计算机视觉技术在建筑安全管理和土木基础设施检测与监测中的发展。
+演讲将首先介绍关于利用数据融合和深度学习技术对现场工人、建筑设备及其相互作用进行监测的研究。这一部分将涵盖现场实体的检测和跟踪、安全合规性的评估以及潜在安全隐患的预测。接下来，演讲将介绍利用视觉数据对各种土木基础设施（如下水道、桥梁和人行道）进行检测和评估的研究。演讲还将讨论我们在应对数据稀缺和环境条件变化相关挑战方面的初步努力。
+撰稿：谭毅　审核：包小华
+
+超链接：
+- javascript:window.close()
+- https://www1.szu.edu.cn/board/print.asp?id=523094

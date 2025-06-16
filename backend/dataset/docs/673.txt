@@ -1,0 +1,30 @@
+标题：第673条公告
+
+正文：
+关闭窗口
+｜
+打印张贴版
+生工学术讲座：Visual quality assessment using crowdsourcing
+医学部　2023/10/24 14:58:00
+报告人：
+Hanhe Lin 讲师，邓迪大学
+主持
+人：
+岳广辉
+副教授
+时
+间：
+10月25日上午10:00
+地
+点：
+丽湖校区守道楼
+517室
+报告摘要：
+Recently, deep learning has achieved promising results in a number of computer vision tasks such as object detection, medical image analysis, etc. State-of-the-art CNNs (convolutional neural networks) usually have many parameters requiring massive amounts of data to train from scratch, whereas the existing visual quality assessment datasets are usually small due to assessing the quality of a very large number of stimuli in a lab setting would require too many participants and too much time for preparing and running the experiment. In this talk, I will give a brief introduction how we designed a reliable and efficient framework for conducting subjective visual quality assessment via crowdsourcing, based on that a few large-scale benchmarking datasets have been created for various visual quality assessment tasks, such as image/video quality assessment and just noticeable difference for image compression.
+报告人简介
+：
+Hanhe Lin received his PhD degree at the University of Otago in 2016. From 2016 to 2021, he was a postdoc in the multimedia signal processing group at the University of Konstanz. Currently, he is a lecturer in the School of Science and Engineering at the University of Dundee. Lin’s research interests include visual quality assessment, machine learning, deep learning, and computer vision. He has been involved in some significant projects, funded by German Research Foundation (DFG). He has published over 50 peer-reviewed machine learning and computer vision articles such as IEEE TIP, TMM, and TCSVT. He serves as a member of the technical program committee or a reviewer in a number of conferences/journals, e.g., QoMEX, IEEE TPAMI/TIP.
+
+超链接：
+- javascript:window.close()
+- https://www1.szu.edu.cn/board/print.asp?id=505766

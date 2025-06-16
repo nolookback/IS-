@@ -1,0 +1,90 @@
+标题：第552条公告
+
+正文：
+关闭窗口
+｜
+打印张贴版
+【学术讲座】Facilitating Security and Trust among Multiple Parties through Blockchain Techniques
+电子与信息工程学院　2023/12/18 16:01:00
+讲座嘉宾
+：
+Dr. Yuhong Liu
+Santa Clara University
+邀 请 人
+：张
+鹏
+副
+教授
+时  间
+：
+12
+月
+22
+日
+上午
+10
+:00
+地  点
+：
+致信楼
+N710
+摘要：
+With the rapid evolvement of
+edge computing, massive users and devices at the edge of the computer networks
+are more actively involved in the networks, pushing the information collection,
+computation, storage, and communications more towards end users. In these more
+decentralized systems, how to enable efficient and trustworthy interactions
+among different parties becomes an essential issue.
+Blockchain has been considered
+as a promising approach to facilitate the establishment of decentralized
+trustworthy computing systems with non-repudiated information records. With the
+emergence of Bitcoin, blockchain has attracted wide attention as a secure and
+decentralized platform to enable peer-to-peer exchanges of digital currency.
+However, Bitcoin can only support simple scripts, which limit its major
+applications to only decentralized finance. Ethereum is the most well-known
+permissionless blockchain platform that generalizes the system as a state
+machine and enables smart contracts, a piece of code that can support complex
+logic and be self-executed when certain conditions are met. Such generalization
+enables blockchain to potentially serve as a computing infrastructure to
+facilitate secure and decentralized interactions among any parties without
+making high trust assumptions about them.
+In this talk, we will discuss
+some key characteristics of blockchain and a few promising applications of
+blockchain that can facilitate security and trust among multiple parties. Some
+examples include applying blockchain to secure software updates for
+resource-constrained IoT networks and facilitating fair trading for transactive
+energy market.
+嘉宾个人简介：
+Yuhong
+Liu
+,
+Associate Professor at Department
+of Computer Science and Engineering, Santa Clara University, received her B.S.
+and M.S. degree from Beijing University of Posts and Telecommunications in 2004
+and 2007 respectively, and the Ph.D. degree from University of Rhode Island in
+2012. She is the recipient of the 2019 Researcher of the Year Award at School
+of Engineering, Santa Clara University, and the 2013 University of Rhode Island
+Graduate School Excellence in Doctoral Research Award. Her research interests
+include trustworthy computing and cyber security of emerging applications, such
+as online social media, Internet-of-things and Blockchain. She has published
+over 90 papers on prestigious journals and peer reviewed conferences. She has
+contributed as an organizing committee member for over 10 international
+conferences and a TPC member for over 20 conferences. She is actively
+contributing to professional societies including IEEE and Asia-Pacific Signal
+and Information Processing Association (APSIPA). She is currently serving as an
+IEEE Computer Society Distinguish Visitor (2022-2023), the Chair of IEEE
+Computer Society Special Technical Communities (STC) Executive Committee Board
+(2022-2023), the IEEE Computer Society Member & Geographic Activities (MGA)
+Board Vice Chair for STC, the Chair of the IEEE Computer Society Technical
+Meeting Request Committee and the IEEE Computer Society Region 6 Area 4 coordinator.
+She is also a member of the Multimedia Security and Forensics (MSF) TC for
+APSIPA, Associate Editor of APSIPA Transactions on Signal and Information
+Processing, and
+an APSIPA Distinguished Lecturer
+(2021-2022).
+电子与信息工程学院
+2023年12月18日
+
+超链接：
+- javascript:window.close()
+- https://www1.szu.edu.cn/board/print.asp?id=510995

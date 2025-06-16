@@ -1,0 +1,94 @@
+标题：第1042条公告
+
+正文：
+关闭窗口
+｜
+打印张贴版
+医学部学术讲座
+医学部　2021/9/6 15:58:00
+题目：
+华为全场景
+AI
+计算框架
+MindSpore
+及其开源社区介绍
+主讲嘉宾：
+黄之鹏
+时间：
+2021
+年
+9
+月
+8
+日（周三）上午
+10:00 – 11:30
+地点：
+深圳大学丽湖校区
+A2-517
+会议室
+主持人：
+杨鑫
+主讲嘉宾简介：
+黄之鹏，华为昇腾开源生态总监。华为
+MindSpore
+开源社区运营负责人，担任启智
+OpenI
+社区、
+Linux
+基金会旗下基金会
+Linux Foundation
+Artificial Intelligence (LFAI)
+、私密计算论坛等开源组织的技术委员会委员
+, Kubernetes Policy
+工作组以及
+CNCF
+基金会安全兴趣组
+Policy
+团队负责人
+, OpenStack Cyborg
+项目创始人，带领团队深入参与
+ONNX, Kubeflow, Akraino
+等开源社区。曾经在
+OpenStack Summit
+、
+Cloud Native Con/KubeCon
+等国际顶级开源峰会进行过
+Keynote
+主题演讲，此外也在
+LinuxCon
+、
+RISC-V Summit
+等多个国际峰会进行议题分享。
+报告简介（
+Abstract
+）：
+AI
+计算框架对人工智能的基础研究与应用尤为关键，也得到了众多研究机构与企业的重点关注和投入，其中佼佼者如谷歌
+TensorFlow
+、脸书
+PyTorch
+、亚马逊
+MXNet
+等。作为国产后起之秀，
+MindSpore
+是华为全新开源的全场景
+AI
+计算框架，旨在实现易开发、高效执行、全场景覆盖三大目标，支持终端、边缘、云端的全场景灵活部署。经过
+10
+个版本的快速迭代，
+MindSpore
+具备了支撑千亿参数超大稠密模型的自动并行等优势能力，如「盘古」自然语言处理
+NLP
+超大模型。通过打造服务
+50
+万开发者的开源创新联合体，
+MindSpore
+已服务千行百业的
+AI
+研究与应用落地。在本次演讲中，将重点介绍
+MindSpore
+的技术特性，重要的应用案例，以及开源社区的运作等内容。
+
+超链接：
+- javascript:window.close()
+- https://www1.szu.edu.cn/board/print.asp?id=456701

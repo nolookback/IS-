@@ -1,0 +1,89 @@
+标题：第1059条公告
+
+正文：
+关闭窗口
+｜
+打印张贴版
+学术讲座：美国杜兰大学佛里曼商学院谭寅亮助理教授—When to Play Your Advertisement? Op
+经济学院　2021/6/15 9:02:00
+讲座题目：
+When to Play Your Advertisement? Optimal Insertion Policy of
+Behavioral Advertisement
+讲座时间：
+2021
+年
+6
+月
+16
+日
+10:00-11:00
+讲座地点：腾讯会议（会议号：
+737551616
+）
+主讲嘉宾：谭寅亮
+美国杜兰大学佛里曼商学院
+主讲嘉宾简介：
+谭寅亮是美国杜兰大学弗里曼商学院管理科学方向助理教授，戈德林国际教育中心行政主任。谭寅亮博士毕业于美国佛罗里达大学，学习运营管理及信息系统。他拥有丰富的商业分析方面的教学经验，获得过弗里曼商学院最佳教师奖。其研究兴趣主要集中在科技管理与创新，电子产品定价，以及人工智能领域。他在国际顶级期刊
+Management Science, MIS Quarterly, Information Systems Research,
+Production and Operations Management
+多次发表论文。现在担任
+Production
+and Operations Management
+的资深编辑以及
+Decision Science
+的副编辑。他于
+2019
+年被评为世界最佳
+40
+名
+40
+岁以下的商学院教授，也是杜兰大学历史上第一个获此殊荣的教授。
+讲座主要内容：
+Digital advertisements offer
+a full spectrum of behavioral customization for timing and content capabilities.
+The existing research in display advertising has predominantly concentrated on the
+content of advertising; however, our focus is on optimizing the timing of
+display advertising. In practice, users are constantly adjusting their
+engagement with content as they process new information continuously. The
+recent development of emotional tracking and wearable technologies allows
+platforms to monitor the user
+’
+s
+engagement in real time. We model the user
+’
+s continuous engagement process through a Brownian
+motion. The proposed optimal policy regarding the timing of behavioral
+advertising is based on a threshold policy with a trigger threshold and target
+level. Specifically, the platform should insert the advertisement when the user
+’
+s engagement level reaches the trigger threshold,
+and the length of the advertisement should let the user
+’
+s engagement level drop to the target level.
+Analogous to the familiar idea of
+“
+price
+discrimination,
+”
+the
+methods we propose in this study allow the platforms to maximize their revenue
+by
+“
+discriminatory
+”
+customization of the timing and length of the
+advertisement based on the behavior of individual users. Finally, we quantify
+the benefits of the proposed policy by comparing it with the practically
+prevalent policies (i.e., pre-roll, mid-roll and a mix of the two) through a
+simulation study. Our results reveal that for a wide range of settings, the
+proposed policy not only significantly increases the platform
+’
+s profitability, but also improves the completion
+rate at which consumers finish viewing the advertisement.
+欢迎广大师生参加！
+经济学院
+2021年6月15日
+
+超链接：
+- javascript:window.close()
+- https://www1.szu.edu.cn/board/print.asp?id=452954

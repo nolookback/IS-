@@ -1,0 +1,73 @@
+标题：第939条公告
+
+正文：
+关闭窗口
+｜
+打印张贴版
+【学术讲座】super deep learning for computer vision
+电子与信息工程学院　2021/12/13 17:02:00
+学术报告：
+super deep learning for computer vision
+主讲嘉宾：
+陶大程教授
+京东探索研究院
+院长
+邀请人：
+张胜利
+教授
+报告时间：
+2021
+年
+12
+月
+14
+日（周二）下午
+3:00
+报告地点：
+深圳大学沧海校区致腾楼
+938
+会议室
+摘要：
+Deep learning has witnessed remarkable success in many application
+domains and is now shifting towards training super deep models with extremely
+large scale labeled or unlabeled data on expensive computational resources. In
+this talk, I will present some of the recent progress. Specifically, I will
+first show the PAC-Bayes generalization bounds and present some practical
+implications for new algorithm designs. Then, I will propose an efficient
+architecture design for visual transformers, named ViTAE, by exploring the
+intrinsic inductive biases. Next, he will introduce a novel self-supervised
+training method called RegionCL, which uses a simple region swapping strategy
+to build effective supervisory signals from rich positive/negative pairs at
+both the instance level and the region level. It greatly advances the ability
+of representative self-supervised leaning frameworks including MoCo, SimCLR,
+and SimSam. Finally, some promising applications of visual transformers and
+self-supervised leaning will be presented, including image classification,
+object detection, semantic segmentation, and pose estimation.
+嘉宾简介：
+陶大程，京东探索研究院院长、京东集团高级副总裁，同时兼任悉尼大学数字科学研究所顾问、清华大学卓越访问教授、中国科学技术大学大师讲席教授。他主要从事可信人工智能领域的研究，在权威杂志和重要会议上发表了
+200
+余篇论文；论文被引用
+7
+万余次，
+h-index
+：
+135
+，并多次荣获顶级国际会议最佳论文奖、时间检验奖。
+2020
+年荣获澳大利亚尤里卡奖以及悉尼大学校长研究贡献奖、
+2021
+年荣获
+IEEE
+计算机协会
+Edward
+J McCluskey
+技术成就奖。他先后当选
+IEEE/AAAS/ACM
+Fellow
+、以及澳大利亚科学院院士。
+欢迎各位师生积极参加！
+（更新于2021/12/13 17:03:00）
+
+超链接：
+- javascript:window.close()
+- https://www1.szu.edu.cn/board/print.asp?id=463951

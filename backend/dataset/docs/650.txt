@@ -1,0 +1,52 @@
+标题：第650条公告
+
+正文：
+关闭窗口
+｜
+打印张贴版
+【学术讲座】Explore the Potential of GAI for Personal Tutor
+电子与信息工程学院　2023/11/5 10:55:00
+讲座嘉宾：Dr. Y.M. Tang 香港理工大学
+邀  请 人：张勇 教授
+讲座时间：2023年11月8日下午2:30
+讲座地点：汇星楼1504
+摘要：
+The utilization of General Artificial Intelligence
+(GAI) as a personal intelligent tutor has the potential to revolutionize
+teaching and learning. By leveraging GAI's vast knowledge and computational
+power, learners can benefit from personalized guidance, adaptability, and continuous
+feedback throughout their educational journeys. This seminar explores the
+development of employing GAI in the role of an intelligent virtual tutor.
+Personalized learning has long been recognized as
+an effective approach to cater to the diverse needs and preferences of
+learners. GAI's ability to analyze extensive amounts of data and adapt to
+individual learning styles offers unprecedented opportunities for customized
+instruction. By employing sophisticated algorithms and machine learning
+techniques, GAI can assess learners' strengths, weaknesses, and learning
+patterns, enabling the development of tailored curricula and adaptive learning
+pathways.
+The integration of GAI as a personal intelligent
+tutor goes beyond the mere delivery of content. It encompasses a range of
+interactive features that enhance the learning experience. GAI can engage
+learners through conversational interfaces, simulating human-like interactions
+and fostering a supportive learning environment. Moreover, GAI's continuous
+monitoring and assessment capabilities enable real-time feedback, swiftly
+identifying misconceptions and providing targeted interventions to address
+learning gaps.
+嘉宾个人简介：
+Dr. YM Tang
+received his B.Eng. and
+M.Phil. from CUHK. He was awarded a Ph.D. degree from the same university.
+Currently, he is a Senior Teaching Fellow in the Department of Industrial and
+Systems Engineering, PolyU. Dr. Tang is the Lab-in-charge of Integrated Product
+Design (IPD) in the department. His research interests include virtual reality
+(VR)/ mixed reality (MR), artificial intelligence (AI), blockchain technology,
+digital twin, sustainable technology in industry 4.0 and healthcare
+applications. Dr. Tang has published over 10 books/ book chapters and over 60
+renowned journal articles.
+电子与信息工程学院
+2023年11月5日
+
+超链接：
+- javascript:window.close()
+- https://www1.szu.edu.cn/board/print.asp?id=506901

@@ -1,0 +1,25 @@
+标题：第1034条公告
+
+正文：
+关闭窗口
+｜
+打印张贴版
+高等研究院系列学术讲座一百三十七
+高等研究院　2021/9/24 16:25:00
+Optimal Investment and Reinsurance Problems under Mean-Variance and Game Framework
+Speaker Jiannan Zhang
+University of Melbourne
+About the Speaker
+Jiannan Zhang, a Ph.D student from the University of Melbourne. The major is actuarial studies and the research area is stochastic control and game theory. She obtained a bachelor degree and master degree in Jilin University. She has three papers published in international peer-review journals.
+Talk Introduction
+This paper studies time-consistent investment problems in a dynamic environment from different perspectives. Under different settings, we derive explicit expressions for the optimal strategies and the corresponding objective functions. Firstly, we consider a continuous-time mean-variance portfolio selection problem based on a log-return model. Then, we take into consideration a liability to the mean-variance problem. Since the financial market is complicated and the insurance industry consists of different institutions, the insurer should consider the strategic interaction when determining strategies. We introduce the game theory with reinsurance-investment problems to reflect the cooperation and competition among insurers. We focus on the time-consistent non-zero-sum reinsurance-investment stochastic differential game problem between two insurers under mean-variance criteria with state-dependent risk aversions.
+时间：2021年9月28日下午4:00-5:00
+地点：汇元楼103会议室
+All are welcome！
+附件：
+·高等研究院系列学术讲座一百三十七.jpg
+
+超链接：
+- javascript:window.close()
+- https://www1.szu.edu.cn/board/print.asp?id=457923
+- https://www1.szu.edu.cn/board/down1oad.asp?fn=2021924613606高等研究院系列学术讲座一百三十七.jpg

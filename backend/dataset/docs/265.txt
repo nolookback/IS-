@@ -1,0 +1,108 @@
+标题：第265条公告
+
+正文：
+关闭窗口
+｜
+打印张贴版
+【学术讲座】Dispersive Material Antennas
+电子与信息工程学院　2024/10/8 9:49:00
+讲座嘉宾：
+Yi Huang,
+英国利物浦大学（
+IEEE Fellow
+）
+邀  请 人：何业军 教授
+时      间：
+2024.10.9
+（周三）下午
+2:30
+地     点：致信楼
+N710
+摘要
+:
+Antennas
+are an essential device of a radio system. How to make them wideband but with a
+compact side has been a tough question for decades. In this talk, we are going
+to explore a new method to solve such a problem – using a dispersive material.
+A dispersive
+material has a refractive index (the square root of permittivity) varying with
+the frequency. Different colours of light will be refracted, or bent, by
+different amounts when they pass through such a material. It is commonly used
+in optics, especially in lenses and prisms, to control the dispersion of light.
+In telecommunications, the dispersion properties of materials can also impact
+signal quality and data transmission rates, which is an important consideration
+in fibre optic communication systems. For RF/microwave antennas, dielectric
+materials have been used to make dielectric resonate antennas (DRAs), where
+non-dispersive materials (such as ceramics) are utilized to ensure stable
+performance over the operational frequency. However dispersive materials have
+not been employed for antennas since this topic has not been properly studied
+before and their suitability has been a question.
+If the permittivity
+of a composite material could be configured as a special function of frequency
+(a dispersive material), such as the permittivity inversely proportional to the
+frequency square – this means that the wavelength of an EM wave in the material
+becomes a constant! We can therefore make antennas (such as a half-wave
+antenna) to be of an ultrawide bandwidth but compact in size which is extremely
+attractive. We are going to share the latest development of this work at
+Liverpool (the success and problems) and hopefully, you will get some
+inspiration to work in this new area.
+个人简介：
+Prof Yi Huang
+received DPhil in Communications from the University of Oxford, UK
+in 1994. He has been conducting research in the areas of wireless
+communications, applied electromagnetics, radar, and antennas since 1987. His
+experience includes 3 years spent with NRIET (China) as a
+Radar Engineer
+and various periods with the Universities of
+Birmingham, Oxford, and Essex in the UK as a member of research staff. He
+worked as a
+Research Fellow
+at
+British Telecom Labs in 1994 and then joined the Department of Electrical
+Engineering & Electronics, the
+University
+of Liverpool
+, UK as a
+Faculty
+in
+1995, where he is now a full
+Professor in
+Wireless Engineering
+, the
+Head of
+High Frequency Engineering Group
+.
+Dr Huang has published over 500
+refereed papers in leading international journals and conference proceedings
+and authored books on
+Antennas: from Theory to Practice
+(John Wiley,
+2008, and 2021) and
+Reverberation Chambers
+(Wiley 2016, and 2019). He
+has received over 10 awards (e.g. the IET Premium Award 2022 for Best Paper,
+EuCAP2023 Best Antenna Paper, the IET Innovation Award 2018, and BAE Systems
+Chairman's Award 2017) and many research grants from research councils,
+government agencies, charities, the EU, and industry, acted as a consultant to
+various companies, and served on a number of national and international
+technical committees (such as the IET, EPSRC, European ACE, COST-IC0603, and
+COST-IC1102, and EurAAP) and been an Editor, Associate Editor or Guest Editor
+of four of international journals (including IEEE AWPL 2016-2022). He has been
+a keynote/invited speaker and organiser of many international conferences and
+workshops (e.g. EuCAP2018/2024, IEEE iWAT, WiCom, and LAPC). He was the
+Editor-in-Chief of Wireless Engineering and Technology and IEEE AWPL, is now an
+Associate Editor of IEEE Trans on Antennas and Propagation, a College member of
+EPSRC, the UK/Ireland Delegate to EurAAP (2016-2020, 2022-date), a member IEEE
+APS New Technology Directions Committee, a Distinguished Lecturer of IEEE APS,
+and a Fellow of IEEE.
+More information can be found from:
+https://www.liverpool.ac.uk/electrical-engineering-and-electronics/staff/yi-huang/
+电子与信息工程学院
+2024年10月8日
+撰稿：高志杰　审核：周浩江
+（更新于2024/10/8 15:04:00）
+
+超链接：
+- javascript:window.close()
+- https://www1.szu.edu.cn/board/print.asp?id=532122
+- https://www.liverpool.ac.uk/electrical-engineering-and-electronics/staff/yi-huang/

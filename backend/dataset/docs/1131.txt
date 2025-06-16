@@ -1,0 +1,25 @@
+标题：第1131条公告
+
+正文：
+关闭窗口
+｜
+打印张贴版
+高等研究院系列学术讲座一百二十九
+高等研究院　2021/4/8 14:24:00
+Investigation of the posttranslational modifications in the GTP-binding domain of KRAS
+Speaker  Dr. Guowei Yin
+The Seventh Affiliated Hospital, Sun Yat-sen (Zhongshan) University
+About the Speaker
+Dr. Yin is an associate professor in the Seventh Affiliated Hospital, Sun Yat-sen University. He completed his Ph.D. thesis in biophysics and protein NMR at the Max-Planck-Institute for Biophysical Chemistry, Goettingen, Germany, where his research was focused on the Parkinson's disease protein alpha-Synuclein. He moved to the United States for postdoctoral training at the University of North Carolina at Chapel Hill and studied the novel regulation mechanisms of oncogenic KRAS and G-proteins using NMR and other biochemical/biophysical methods. Then, he worked at Columbia University as an associate research scientist and studied the mechanisms of substrate transport and drug actions for the neurotransmitter transporters (NSSs) by developing new methods to tackle the challenging transmembrane systems. He published more than 20 scientific papers with h-index 13.
+Talk Introduction
+KRAS is one of the most frequently mutated oncogenic proteins in human cancers, the inhibitors targeting the KRAS mutants are lackingin the clinic treatments. In recent years, a number of posttranslational modifications (PTMs) were found in the core GTP-binding domain of KRAS, the functional roles of these PTMs remain elusive. This talk will be focused on the monoubiquitination and acetylation at Lysine 104.Lysine 104 is a hot spot for PTMs and a highly conserved residue interacting with the switch II region. We found that mutation at 104 attenuates interaction with guanine nucleotide exchange factors (GEFs), whereas ubiquitination at lysine 104 retains GEF regulation. To elucidate how ubiquitination modulates RAS function, we generated monoubiquitinated KRAS at 104 using chemical biology approaches and conducted biochemical, NMR, and computational analyses. We find that ubiquitination promotes a new dynamic interaction network and alters RAS conformational dynamics to retain GEF function. These findings reveal a mechanism by which ubiquitination can regulate protein function and K104 is a unique site modulating KRAS structure and function.
+时间：2021年4月15日11:00-12:00
+地点：汇典楼二楼会议室
+All are welcome！
+附件：
+·高等研究院系列学术讲座一百二十九.jpg
+
+超链接：
+- javascript:window.close()
+- https://www1.szu.edu.cn/board/print.asp?id=446934
+- https://www1.szu.edu.cn/board/down1oad.asp?fn=202148541591高等研究院系列学术讲座一百二十九.jpg

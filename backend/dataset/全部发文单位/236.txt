@@ -1,0 +1,40 @@
+标题：第236条公告
+
+正文：
+关闭窗口
+｜
+打印张贴版
+学术讲座（七十一）：Manipulation of Symmetry Breaking through Chiral Nano-Inorganics
+化学与环境工程学院　2024/10/31 16:24:00
+（钟沛基 2022280095）
+主讲人：
+ Prof. Zhifeng HUANG
+时间：
+11
+月
+1
+日
+下
+午
+14:30
+地点：
+丽湖校区综合服务大厅会议室
+报告人简介：
+Prof. Zhifeng HUANG, Associate Professor at The Chinese University of Hong Kong, is Member of The Hong Kong Young Academy of Sciences, and Vice President of HK Materials Research Society. Prof. Huang is devoted to fabricating inorganic nanopillar arrays to study chiral nanoplasmonics, surface-enhanced chiroptical spectroscopies, asymmetric (photo)catalysis, optoelectronics and cell culture. He contributed two book chapters, and published his studies in high-impact journals, such as Nat. Chem., Nat. Nanotechnol., Nat. Commun., Adv. Mater., Adv. Funct. Mater., JACS, and so on. Prof. Huang co-founded a spin-off, Mat-A-Cell Ltd., to commercialize a new-generation medical nano-device for cell culture. The invention, patented in US and China, was awarded 2019 TechConnect Innovation Award and Gold Medal with Congratulations of Jury (the 46th International Exhibition of Inventions of Geneva, 2018).
+报告摘要
+：
+Many of life’s building blocks (e.g., amino acids and sugars) exhibit homochirality, with one stereoisomeric configuration preferentially existing over its mirror image, leading to chirality-dependent interactions and functions in biological systems. The existence of biochemical homochirality raises a fundamental yet unanswered question about the origin of molecular enantiopreference on Earth. One of the keys to answer this question is to understand external chiral forces to trigger symmetry breaking, which has been believed to induce the homochirality through chirality amplification. Symmetry breaking usually occurs in a stochastic manner in an achiral environment, and chiral stimulations to trigger and control the symmetry breaking is ambiguous and under debate. Some external chiral forces have been proposed, including asymmetric mechanical forces, chiral electromagnetic fields and enantiospecific interactions. It is well known that organic life existed on the Earth made of inorganic minerals, so whether inorganic chiral materials could manipulate the symmetry breaking to obtain homochiral molecules? The investigation to answer this question is in its infancy.
+We are devoting ourself to answering this crucial question using chiral nano-inorganics without attachment of chiral organic molecules, which are fabricated by glancing angle physical vapor deposition.1 Chiral nano-inorganics, with the atomic and nano-scale chirality, are made of metals, alloys, and semiconductors.2, 3 Four kinds of external chiral triggers, associated with chiral nano-inorganics, are being under investigation, including chiral inorganic-organic enantiospecific interactions,4, 5 chirality transmission from circularly polarized light,6 chirality transmission enhanced by superchiral near fields,5 and chiral-induced spin selectivity. Our works open a new door to disclose the origins of biochemical homochirality (or life), stemming from the chiral nano-inorganics on the prebiotic Earth.
+References:
+(1) Yang, L.; Liu, J. J.; Sun, P.; Ni, Z. Y.; Ma, Y. C.; Huang, Z. F. Chiral Ligand-Free, Optically Active Nanoparticles Inherently Composed of Chiral Lattices at the Atomic Scale. Small 2020, 16, 2001473.
+(2) Liu, J. J.; Ni, Z. Y.; Nandi, P.; Mirsaidov, U.; Huang, Z. F. Chirality Transfer in Galvanic Replacement Reactions. Nano Lett. 2019, 19, 7427-7433.
+(3) Liu, J. J.; Yang, L.; Qin, P.; Zhang, S. Q.; Yung, K. K. L.; Huang, Z. F. Recent Advances in Inorganic Chiral Nanomaterials. Adv. Mater. 2021, 33, 2005506.
+(4) Yang, L.; Kwan, C. S.; Zhang, L. L.; Li, X. H.; Han, Y.; Leung, K. C. F.; Yang, Y. G.; Huang, Z. F. Chiral Nanoparticle-Induced Enantioselective Amplification of Molecular Optical Activity. Adv. Funct. Mater. 2019, 29, 1807307.
+(5) Wei, X. Q.; Liu, J. J.; Xia, G. J.; Deng, J. H.; Sun, P.; Chruma, J. J.; Wu, W. H.; Yang, C.; Wang, Y. G.; Huang, Z. F. Enantioselective photoinduced cyclodimerization of a prochiral anthracene derivative adsorbed on helical metal nanostructures. Nat. Chem. 2020, 12, 551-559.
+(6) Ni, Z. Y.; Qin, P.; Liu, H. S.; Chen, J. F.; Cai, S. Y.; Tang, W. Y.; Xiao, H.; Wang, C.; Qu, G. P.; Lin, C.; Fan, Z. Y.; Xu, Z. X.; Li, G. X.; Huang, Z. F. Significant Enhancement of Circular Polarization in Light Emission through Controlling Helical Pitches of Semiconductor Nanohelices. ACS Nano 2023, 17, 20611-20620.
+欢迎有兴趣的师生参加！
+撰稿：郭凯　审核：何传新
+
+超链接：
+- javascript:window.close()
+- https://www1.szu.edu.cn/board/print.asp?id=534838

@@ -1,0 +1,39 @@
+标题：第806条公告
+
+正文：
+关闭窗口
+｜
+打印张贴版
+学术讲座（二十二）：Alternating Current Electrolysis (ACE)Transfer Fut
+化学与环境工程学院　2022/10/27 10:12:00
+Alternating Current Electrolysis (ACE)Transfer Future
+主讲人：雷爱文
+教授
+时间：
+10月28日上午9:20–9:55
+地点：丽湖校区守信楼（原
+B1栋）一楼报告厅
+报告人简介：
+雷爱文，
+1995年于淮北师范大学获学士学位，2000年于中国科学院上海有机化学研究所获理学博士学位。2000年至2003年月，美国宾夕法尼亚州州立大学博士后，2003年至2005年美国斯坦福大学研究助理。自2005年起，在武汉大学化学与分子科学学院开展研究工作。2010年获国家杰出青年基金。现任武汉大学高等研究院副院长。雷爱文教授团队围绕氧化偶联反应方法学，反应机理和光电纳米催化开展了一系列的研究工作。迄今在Nat. Chem.、Nat. Catal.、J. Am. Chem. Soc.、Angew. Chem. Int. Ed.等学术刊物上发表论文三百余篇。雷爱文教授还获得了一系列国内外奖项及荣誉，例如2012 年湖北省自然科学一等奖，2014年知名学者特聘教授，2014 年中国化学会-英国皇家化学会青年化学家奖，2017 年高等学校科学研究优秀成果奖自然科学一等奖(第一完成人)，2019年吉田奖(Yoshida Prize)。
+讲座摘要：
+Alternating current (AC) electrolysis also can tune additional parameters such as the waveform, frequency, duty ratio and so on, which could lead to some advances in reaction development. Herein we present two AC electrolysis strategies aiming at different organic synthesis scenarios. One is AC-promoted metal-catalyzed electrolysis.
+1
+The long-standing challenge of noble metal catalyst reduction on the cathode during undivided electrolysis has been successfully addressed by utilized asymmetric-waveform alternating current electrolysis. Electrode types, current, AC frequency and duty ratio are important factors in regenerating the catalyst and adjusting the selectivity during AC electrolysis. Another is controlling
+reactive intermediates existence
+.
+2,3
+Due to the fast sine-waveform frequency,
+both oxidation and reduction processes could take place at the same electrode and even almost the
+same time along with the electrode polarity reversal. Therefore, AC electrolysis can control the formation of certain reactive intermediates via adjusting the frequency. Overall, AC electrolysis will pave new avenues to innovation in organic synthesis
+Two alternating current (AC) electrolysis strategy
+参考文献
+[1] Aiwen Lei* et.al, Nat. Synth. 2022, accepted.
+[2] Aiwen Lei* et.al, Angew. Chem. Int. Ed. 2022, 61, e202201543.
+[3] Aiwen Lei* et.al, CCS Chem. 2021, 3, 3027.
+欢迎有兴趣的师生参加！
+（更新于2022/10/27 11:09:00）
+
+超链接：
+- javascript:window.close()
+- https://www1.szu.edu.cn/board/print.asp?id=482300

@@ -1,0 +1,33 @@
+标题：第298条公告
+
+正文：
+关闭窗口
+｜
+打印张贴版
+【学术讲座】法国原子能署NeuroSpin中心詹旻野博士和马赛大学谭玉菲博士学术讲座
+心理学院　2024/7/27 11:57:00
+讲座名称：
+法国原子能署NeuroSpin中心詹旻野博士和马赛大学谭玉菲博士学术讲座
+讲座时间：
+2024年7月29日上午9:30
+讲座地点：
+深圳大学沧海校区致理楼C座L3-1336
+主讲人：
+詹旻野 法国原子能署NeuroSpin中心
+principal investigator
+；谭玉菲 马赛大学博士
+讲座一
+报告题目：The challenges of 7T fMRI and higher: facing the broken assumptions at 3T
+报告人：詹旻野，毕业于荷兰Maastricht University，认知神经科学博士。目前是法国原子能署NeuroSpin成像中心principal investigator，为NeuroSpin中心7T fMRI的主要用户以及11.7T fMRI实验负责人。研究专长是针对人类被试进行高分辨率fMRI实验，聚焦于枕叶皮层的物体表征（特别是人脸与文字）以及皮层的可塑性机制。
+摘要：With its superior signal-to-noise ratio and spatial resolution, functional scanning at 7T and higher has been increasingly used in studying human brain functions. However, this high-SNR high-resolution scheme is completely different from the low-SNR low-resolution scheme in previous studies at 3T and lower fields, and poses multiple conceptual- and analysis-related challenges to the assumptions and conventions established since the time of PET studies. Using our recent 7T bilingual fMRI study as an example, I will present the 3T assumptions, and the challenges that high-resolution fMRI raises. I hope this presentation will trigger discussions, and a rethinking of fMRI in the high-SNR high-resolution scheme.
+讲座二
+报告题目：The role of neural noise in explaining dyslexia and predicting reading achievement
+报告人：谭玉菲，毕业于法国Aix-Marseille University，获得认知科学博士学位。研究方向为文字阅读与发展性阅读障碍，主要的工作是运用EEG和fMRI技术探究发展性阅读障碍的原因和早期预测指标，研究成果已在国外权威期刊发表。
+摘要：文字阅读是人类生活中不可或缺的能力。然而，有些智力正常、接受了适当教育且没有明显感觉或认知障碍的儿童，在学习阅读时却遇到很大的困难。这种困难被称为发展性阅读障碍（Developmental Dyslexia）。如果能尽早干预这种障碍，就能有效提高儿童的阅读能力，并预防更严重的问题。因此，研究阅读障碍的原因和寻找可靠的早期诊断指标非常重要。神经噪音假说认为，阅读相关的脑区内过多的“神经噪音”可能是导致阅读障碍的根本原因。为了验证这一假说，我们分别采集了成人和儿童的数据，比较了阅读障碍者与对照组的神经噪音水平。虽然在成人中未发现明显差异，但我们发现阅读障碍儿童的神经噪音水平不仅显著高于年龄匹配的对照组，还显著高于阅读能力匹配的对照组。这表明神经噪音可能是导致阅读障碍的原因。为了进一步确认神经噪音是否能够作为阅读障碍的早期诊断指标，我们进行了纵向研究。结果显示，儿童早期的神经噪音水平可以预测两年后的阅读水平。这些发现支持了阅读障碍的神经噪音理论，表明神经噪音有可能成为识别阅读障碍的早期指标。
+深圳大学
+心理学院
+撰稿：张丽　审核：张丽
+
+超链接：
+- javascript:window.close()
+- https://www1.szu.edu.cn/board/print.asp?id=527960

@@ -1,0 +1,71 @@
+标题：第517条公告
+
+正文：
+关闭窗口
+｜
+打印张贴版
+【学术讲座】Single-cell gene fusion detection by scFusion
+电子与信息工程学院　2024/1/17 16:06:00
+讲座嘉宾
+：
+席瑞斌研究员 北京大学
+邀 请人
+：欧阳乐
+副教授
+报告时间
+：
+2024
+年
+1
+月
+19
+日（周五）上午
+10:00-11:00
+报告地点
+：腾讯会议
+会议链接：
+https://work.weixin.qq.com/webapp/tm/GWOTIKFIfrjlYNvUuKpiba
+报告摘要：
+Gene fusions can play important roles in tumor initiation and progression.
+While fusion detection so far has been from bulk samples, full-length
+single-cell RNA sequencing (scRNA-seq) offers the possibility of detecting gene
+fusions at the single-cell level. However, scRNA-seq data have a high noise
+level and contain various technical artifacts that can lead to spurious fusion
+discoveries. Here, we present a computational tool, scFusion, for gene fusion
+detection based on scRNA-seq. We evaluate the performance of scFusion using
+simulated and five real scRNA-seq datasets and find that scFusion can
+efficiently and sensitively detect fusions with a low false discovery rate. In
+a T cell dataset, scFusion detects the invariant TCR gene recombinations in
+mucosal-associated invariant T cells that many methods developed for bulk data
+fail to detect; in a multiple myeloma dataset, scFusion detects the known
+recurrent fusion IgH-WHSC1, which is associated with overexpression of the
+WHSC1 oncogene. Our results demonstrate that scFusion can be used to
+investigate cellular heterogeneity of gene fusions and their transcriptional
+impact at the single-cell level.
+报告人：
+席瑞斌，北京大学数学科学学院、统计科学中心研究员。
+2014
+年入选国家级重大人才青年计划，中国现场统计协会理事、青年统计学家协会副会长、中国现场统计研究会计算统计分会常务理事，
+Statistics theory and related fields
+编委。
+2009
+年毕业于美国圣路易斯华盛顿大学，
+2009-2012
+年在哈佛大学医学院从事生物医学信息学方面的研究。
+2012
+年
+9
+月加入北京大学。席瑞斌的主要研究方向是生物统计、生物信息、生物大数据的统计分析、图模型、高维统计等。席瑞斌近年来有
+50
+多篇文章发表于
+Nature, Nature Genetics, PNAS,
+Science Translational Medicine, Nature Communications, Nucleic Acids Research,
+Journal of Hepatology, Bioinformatics, Biometrika, IEEE Transactions on
+Knowledge and Data Engineering
+等顶级或权威学术期刊。
+电子与信息工程学院
+2024年1月17日
+
+超链接：
+- javascript:window.close()
+- https://www1.szu.edu.cn/board/print.asp?id=513184

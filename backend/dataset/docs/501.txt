@@ -1,0 +1,52 @@
+标题：第501条公告
+
+正文：
+关闭窗口
+｜
+打印张贴版
+【学术讲座】Cyclostationarity in Communications and Radar
+电子与信息工程学院　2024/3/5 16:49:00
+报告人：
+Prof. Antonio Napolitano, University of Napoli "Parthenope"
+邀请人：
+黄磊教授
+时 间：
+3
+月
+13
+日
+15:00-16:30
+地 点：
+致信楼
+N710
+报告摘要：
+In this lecture, applications of the
+theory of cyclostationarity  to
+communications and radar/sonar are presented. The following problems will be
+addressed: Wiener filtering, synchronization,
+signal parameter and waveform estimation, channel identification and
+equalization, signal detection, cycle frequency estimation, modulation format
+classification.
+报告人简介：
+Antonio Napolitano
+(IEEE Fellow) received the Ph.D. in
+Electronic Engineering and Computer Science in 1994, from the University of
+Napoli Federico II. He has been Assistant Professor (1995–2001) and Associate
+Professor (2001–2005) at the University of Napoli Federico II. Since 2005 he is
+Full Professor of Telecommunications at the University of Napoli Parthenope.
+Since 2020 he is Affiliate with the James Watt School of Engineering, University
+of Glasgow, UK. He held visiting appointments at Universities in the USA,
+Mexico, France, Poland, Australia, China, and Saudi Arabia. He has been
+Associate Editor of the IEEE Transactions on Signal Processing (2006–2009 and
+2011–2015). He is in the Editorial Board of Signal Processing (Elsevier) since
+2008 and Digital Signal Processing (Elsevier) since 2015. He has been Elected
+Member of the IEEE Signal Processing Theory and Method Technical Committee
+(SPTM-TC) (2008–2013 and 2022–present) and of the IEEE Sensor Array and
+Multichannel Technical Committee (SAM-TC) (2017–2022).
+电子与信息工程学院
+2024年3月5日
+撰稿：陈新竹　审核：李强
+
+超链接：
+- javascript:window.close()
+- https://www1.szu.edu.cn/board/print.asp?id=514724

@@ -1,0 +1,52 @@
+标题：第459条公告
+
+正文：
+关闭窗口
+｜
+打印张贴版
+【学术讲座】Lifelong Learning Meets Industrial Processes: An Enabling Adaptive Process Modeling Framework with Delayed Process
+电子与信息工程学院　2024/4/8 9:06:00
+主讲嘉宾：
+Prof. Sheng Chen
+，南安普顿大学
+邀请人：张沛昌副教授
+时间：
+2024
+年
+04
+月
+11
+日（周四）下午
+15:00-16:00
+地点：深圳大学粤海校区致信楼
+N723
+会议室
+摘要：
+Many industrial processes
+operate continuously batch by batch. During online operation, predicting the
+plant output is needed for monitoring and control of the industrial process. The
+predictor model can be constructed from historical plant operational data. But
+during the plant operation, the underlying process characteristics change, and
+the predictor model must adapt in order to track the plant’s time-varying
+characteristics, which requires the actual process output as desired target.
+However, the process output measurement for these batch-by-batch streaming
+processes is typically seriously delayed. Without the timely process output
+measurement, applying standard adaptive algorithms to adapt the predictor model
+is impossible. How to address this challenge motivates this work.
+个人简介：
+Sheng Chen is Professor
+of Intelligent Systems and Signal Processing in School of Electronics and Computer
+Science, University of Southampton, UK. He is a Fellow of the United Kingdom
+Royal Academy of Engineering, a Life Fellow of IEEE, a Fellow of Asia-Pacific
+Artificial Intelligence Association, and a Fellow of IET. He is one of the
+original ISI most highly cited researchers in engineering (March 2004).
+Professor Chen’s research
+interests include machine learning, neural networks, and wireless communications.
+He has 19,000 plus Web of Science citations with h-index 61, and 38,000 plus
+Google Scholar citations with h-index 83.
+撰稿：袁翔　审核：周浩江
+（更新于2024/4/8 9:37:00）
+
+超链接：
+- javascript:window.close()
+- https://www1.szu.edu.cn/board/print.asp?id=517428

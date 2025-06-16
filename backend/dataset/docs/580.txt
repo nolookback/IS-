@@ -1,0 +1,71 @@
+标题：第580条公告
+
+正文：
+关闭窗口
+｜
+打印张贴版
+【学术讲座】Security of Edged Deep Neural Networks
+电子与信息工程学院　2023/12/7 14:57:00
+讲座 嘉宾：
+Professor
+Chip Hong Chang ,
+Nanyang Technological University, Singapore
+邀  请 人：
+赵晓锦 教授
+时     间：
+12月20号（周三）上午10.30-11.45
+地     点：
+致信楼N710
+摘要：
+The flourishing Internet of Things (IoT)
+has rekindled on-premises computing to allow data to be analyzed closer to the
+source. Neural architecture search, open-source deep neural network (DNN) model
+compilers and commercially available toolkits have evolved to facilitate rapid
+development and deployment of Artificial Intelligence (AI) applications. This
+“model once, run anywhere” paradigm shift in deep learning computations introduces
+new attack surfaces and threat models that are methodologically different from
+existing software-based attacks. Model integrity is a primary pillar for AI
+trust to ensure that the system delivers and maintains the desirable quality of
+service and are free from unauthorized deliberate or inadvertent manipulation
+of the system throughout the lifetime of their deployment. A superior and
+well-trained DNN classifier is not only an intellectual property (IP) of high
+market value but also consists of private and sensitive information.
+Unfortunately, existing DNN hardware implementations mainly focus on throughput
+and energy efficiency optimization, which can unintentionally introduce
+exploitable vulnerabilities. The situation is aggravated by the trend of outsourcing
+model training, renting cloud computing platforms, and deploying partially or
+fully trained third-party models for AI application development and edge
+inference. This talk will present some of our research works on the attacks and
+defenses of DNNs.
+简介：
+Chip Hong Chang
+is a Professor at the
+School of Electrical and Electronic Engineering of Nanyang Technological
+University, Singapore. He held joint appointments as Assistant Chair of Alumni
+of the School of EEE from 2008 to 2014, Deputy Director of the Center for High
+Performance Embedded Systems from 2000 to 2011, and Program Director of the
+Center for Integrated Circuits and Systems from 2003 to 2009. He has coedited
+six books, published 13 book chapters, more than 120 international journal
+(more than 80 are IEEE) papers and around 200 refereed international conference
+papers (mostly IEEE). His current research interests include hardware security,
+AI security, biometric security, trustworthy sensing and hardware accelerators
+for post-quantum cryptography and edge computational intelligence. He has
+delivered more than 60 keynotes, plenary, tutorials and invited seminars. Dr.
+Chang was conferred the 2022 VISTA award of excellence in hardware security. He
+serves as the Senior Editorial Board member of the IEEE Journal on Emerging and
+Selected Topics in Circuits and Systems (JETCAS), Senior Area Editor of the
+IEEE Transactions on Information Forensic and Security (TIFS), and Associate
+Editor of the IEEE Transactions on Circuits and Systems-I (TCAS-I) and IEEE
+Transactions on Very Large Scale Integration (TVLSI) Systems. He has held key
+appointments in the organizing and technical program committees of more than 80
+international conferences (mostly IEEE). He is the 2018-2019 IEEE CASS
+Distinguished Lecturer, a member of the International Artificial Intelligence
+Industry Alliance (AIIA) World's Top Industry Scientist, a Fellow of the IEEE,
+IET and AAIA.
+电子与信息工程学院
+2023年12月7日
+（更新于2023/12/7 15:08:00）
+
+超链接：
+- javascript:window.close()
+- https://www1.szu.edu.cn/board/print.asp?id=510265

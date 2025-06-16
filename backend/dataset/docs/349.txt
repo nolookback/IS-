@@ -1,0 +1,27 @@
+标题：第349条公告
+
+正文：
+关闭窗口
+｜
+打印张贴版
+【学术讲座】Adaptive Templates in Visual Search: Rethinking Veridical Representations
+心理学院　2024/6/9 19:46:00
+讲座名称：
+Adaptive Templates in Visual Search: Rethinking Veridical Representations
+讲座时间：
+2024年6月12日 周三下午15:00
+讲座地点：
+深圳大学沧海校区致理楼C座L3-1201
+主讲人：
+余星儿，美国范德堡大学博士后
+报告简介
+：Locating specific objects in visually cluttered environments, such as finding our car in a crowded parking lot, often poses significant challenges. Theories of attention suggest that we hold a veridical copy of the target—akin to a mental photograph—in memory, guiding our attention to objects that precisely match this template (e.g., an exact shade of blue). In a series of studies, I challenge this notion by demonstrating that the templates guiding our search may contain only a subset of target features or even a distorted representation of the target. I propose that these flexible and dynamic templates are designed to optimize search efficiency, operating on a "good enough" principle to swiftly identify probable target locations. Once potential targets are identified, they are brought into foveal vision for detailed evaluation against more precise template information. This adaptive approach highlights the sophisticated mechanisms underlying human visual search, emphasizing efficiency and adaptability over strict accuracy.
+个人简介
+：余星儿，美国范德堡大学博士后。她在马里兰大学帕克分校获得心理学学士学位，后于加州大学戴维斯分校获得心理学博士学位。研究方向包括通过行为学、眼动追踪、EEG和fMRI探究人类视觉搜索与工作记忆的行为与神经机制。她以第一作者或通讯作者身份在《Psychological Science》、《Journal of Experimental Psychology: General》、《Trends in Cognitive Sciences》、《Journal of Experimental Psychology: Human Perception and Performance》等期刊发表论文。
+深圳大学
+心理学院
+撰稿：张丽　审核：张丽
+
+超链接：
+- javascript:window.close()
+- https://www1.szu.edu.cn/board/print.asp?id=523590

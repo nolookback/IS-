@@ -1,0 +1,33 @@
+标题：第145条公告
+
+正文：
+关闭窗口
+｜
+打印张贴版
+【学术讲座】Title: Single-mode Dual-band Metantenna Using Lorentz-Type Dispersive Metamaterials
+电子与信息工程学院　2024/12/12 17:48:00
+（钟沛基 2022280095）
+演讲人
+:
+陈志宁教授  新加坡工程院院士
+邀请人
+:
+何业军 教授
+时   间
+ :
+13日16：00
+地   址
+:
+致理楼L3-1115会议室
+摘要：Materials form the foundation of antenna design, and their characteristics can provide new opportunities for innovation. This talk illustrates the creation of an antenna operating in a single mode at dual frequencies by leveraging Lorentz-type dispersive metamaterials. The methodology is inspired by the observation that materials described by the Lorentz model exhibit a higher refractive index at lower frequencies and a lower refractive index at higher frequencies relative to their resonance frequency. This property enables an antenna loaded with Lorentz-type dispersive material substrates to operate with the same electrical size at both lower and higher frequencies. This phenomenon opens the possibility for an antenna to generate single-mode radiation across both lower and higher frequency bands. To achieve the dispersive permeability of Lorentz-type metamaterials, single-layer dual-split resonance rings (SRRs) are proposed. Subsequently, a single-mode dual-band patch antenna is designed to validate the proposed method within the Sub-6 GHz bands.
+嘉宾简介：
+新加坡国立大学电子与计算机工程系Provost’s Chair Professor，新加坡国立大学工学院先进研究与技术创新中心创始人和总裁。新加坡工程院院士（Fellow of Academy of Engineering, Singapore 2019）国际电子电气工程师学会会士（Fellow of IEEE 2007）亚太人工智能学会会士和副主席 （Fellow and Vice President of Asia-Pacific Artificial Intelligent Association 2021）国际电子电气工程师学会天线与传播学会John Kraus天线奖获得者（2021）已发表了六百六十余篇英文论文（其中一百六十余篇发表在IEEE Transactions）及四十余篇中文论文。他主撰写、主编和出版了六本英文专著。四十项专利的发明人，并成功地实现超过四十多项次技术转让。
+目前的研究兴趣包括微波、毫米波、亚毫米波及太赫兹通信、雷达及成像系统中的天线与传播，以及机器学习和优化工具在天线研究与设计中的应用。
+电子与信息工程学院
+2024年12月12日
+撰稿：高志杰　审核：周浩江
+（更新于2024/12/12 17:58:00）
+
+超链接：
+- javascript:window.close()
+- https://www1.szu.edu.cn/board/print.asp?id=538653

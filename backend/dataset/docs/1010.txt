@@ -1,0 +1,80 @@
+标题：第1010条公告
+
+正文：
+关闭窗口
+｜
+打印张贴版
+学术讲座：基于深度学习的毫米波波束管理和信号处理
+电子与信息工程学院　2021/10/18 17:28:00
+讲座嘉宾
+：王昭诚，清华大学教授，
+IEEE
+Fellow
+、
+IET Fellow
+邀 请 人
+：
+何业军
+教授
+讲座时间
+：
+2021.10.19
+（周二）下午
+3:00
+讲座地点
+：深圳大学沧海校区电子与信息工程学院——致信楼
+N710
+摘要：
+针对高效、鲁棒毫米波波束管理带来的技术挑战，提出了基于深度学习的低频辅助毫米波波束预测和跟踪方法，能降低波束管理开销；针对毫米波通信高速
+ADC
+带来的技术挑战，提出了基于深度学习的毫米波单比特接收机，能降低实现复杂度。
+BIO：
+王昭
+诚，清华大学长聘教授，
+IEEE Fellow
+、
+IET Fellow
+，科睿唯安全球高被引科学家，
+IEEE Transactions on Communications
+、
+Digital Communications and Networks
+、
+IEEE Systems Journal
+、
+IEEE Open Journal of Vehicular Technology
+国际期刊编委（
+Associate Editor
+）。研究领域包括面向
+6G
+的毫米波
+/
+太赫兹无线通信、面向智能交通的可见光通信以及人工智能在无线通信中的应用。获授权欧美发明专利
+46
+项（其中
+23
+项作为第一发明人）、授权中国发明专利
+45
+项，多项授权欧美专利被国际标准采纳；发表
+SCI
+论文
+180
+余篇，
+Google
+Scholar
+他引
+13000+
+次；出版中英文专著
+5
+本；获国家科学技术进步奖一等奖、北京市科学技术奖一等奖、中国电子学会科学技术奖一等奖、
+IEEE Scott Helt Memorial Award
+、
+IET Premium Award
+、
+IEEE ComSoc Leonard G. Abraham Prize
+等奖项。
+电子与信息工程学院
+2021年10月18日
+
+超链接：
+- javascript:window.close()
+- https://www1.szu.edu.cn/board/print.asp?id=459729

@@ -1,0 +1,47 @@
+标题：第153条公告
+
+正文：
+关闭窗口
+｜
+打印张贴版
+【学术讲座】Sugar acid based biorefinery
+生命与海洋科学学院　2024/12/10 14:47:00
+（钟沛基 2022280095）
+报告题目：
+Sugar acid based biorefinery
+主讲嘉宾：
+Zhiliang Fan
+教授
+报告主持：
+刘刚
+教授
+报告时间：
+2024
+年
+1
+2
+月
+18
+日（星期
+三
+）上午
+10:
+15
+报告地点：
+深圳大学丽湖校区守慧楼
+A6-501
+主讲嘉宾简介：
+Professor
+Zhiliang Fan, University of California, Davis, USA
+Dr. Fan received her B.E. from Zhejiang University, her M.S. from the Institute of Process Engineering, CAS, and Iowa State University, and her Ph.D. from Dartmouth College. Her research is focused on advancing technologies for producing fuels and chemicals from renewable resources. Her areas of expertise include metabolic engineering, biocatalyst development, fermentation process development, and modeling.
+报告简介：
+One significant obstacle impeding the large-scale production of fuels and chemicals from cellulosic biomass is the lack of a low-cost processing technology. Conventional cellulosic biorefinery involves five steps: pretreatment, cellulase production, enzymatic hydrolysis, fermentation, and product recovery. Sugars are produced as the reactive intermediate for the subsequent fermentation. The purchase or on-site production of cellulase is usually needed to produce sugars from pretreated cellulosic biomass, representing a substantial processing cost.
+Herein, we report a novel biochemical route for fuels and chemical production. Cellulolytic microorganism(s) that can secrete all the enzymes needed to hydrolyze cellulose and hemicellulose were modified to convert most carbohydrates in the cellulosic biomass to sugar aldonates. In the second step, sugar aldonates were utilized as the carbon source to produce fuels and chemicals. The new route can potentially lower the cost of cellulosic bioprocessing substantially. Our study has revealed cellulose can be diverted to sugar aldonate production using a Neurospora crassa strain, which knocks out multiple copies of the beta-glucosidase gene. Over-expression laccase and deletion of cellobionate phosphorylase improved the cellobionate yield to 90%. The hydrolysis product of cellobionate (glucose and gluconate) can be fermented to ethanol by an engineered Klebsiella oxytoca strain. Co-fermenting cellobionate and glycerol by engineered K. oxytoca strain achieved more than 95% of the theoretical yield. Engineered K. oxytoca can ferment gluconate to 2,3-butanediol at a high yield (90%) under anaerobic conditions.
+欢迎感兴趣的师生与会交流！
+生命与海洋科学学院
+2024年12月10日
+撰稿：张榕榕　审核：谢宁
+
+超链接：
+- javascript:window.close()
+- https://www1.szu.edu.cn/board/print.asp?id=538410

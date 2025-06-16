@@ -1,0 +1,29 @@
+标题：第267条公告
+
+正文：
+关闭窗口
+｜
+打印张贴版
+【医学部学术讲座】Towards Developing Generalist Models for Healthcare
+医学部　2024/9/25 9:53:00
+（钟沛基 2022280095）
+主讲嘉宾：
+谢伟迪 副教授
+时    间：
+ 2024年9月26日 上午9:30~11:00
+地    点：
+ 深圳大学丽湖校区医学部A6-811
+主 持 人：
+ 黄若冰
+主讲嘉宾简介：
+谢伟迪，上海交通大学长聘副教授，上海人工智能实验室青年科学家。国家级青年人才
+(海外)，上海市（海外）高层次人才计划获得者，科技部科技创新 2030 —“新一代人工智能”重大项目青年项目负责人，国家基金委面上项目负责人。 博士毕业于牛津大学视觉几何组（Visual Geometry Group，VGG），师从Professor Andrew Zisserman，Professor Alison Noble，是首批 Google-DeepMind 全额奖学金获得者，China Oxford Scholarship Fund（Magdalen Award）奖学金获得者，获得牛津大学工程系杰出奖（Oxford Excellence Award）。主要研究领域为计算机视觉，医学人工智能，共发表论文超 60篇，包括CVPR，ICCV, NeurIPS, ICML, IJCV, Nature Communications等，Google Scholar累计引用超 11000余次，多次获得国际顶级会议研讨会的最佳论文奖和最佳海报奖，最佳期刊论文奖；担任Nature Medicine，Nature Communications审稿人，计算机视觉和人工智能领域的旗舰会议CVPR ，NeurIPS，ECCV的领域主席。
+报告简介（
+Abstract）：
+近年来，基础大模型（
+Foundation Models）在计算机视觉和自然语言处理领域取得了前所未有的成功。然而，尽管医疗领域具有巨大的潜力，基础大模型在该领域的发展仍然相对滞后。该报告中，我将从以下几个方面介绍我们在医疗人工智能（AI4Health）方面的一些努力和尝试，包括：(1) 开源数据集的构建，例如 PMC-OA、RP3D，RadMD 等；(2) 训练医学专用的语言模型或视觉-语言模型，例如 PMC-LLaMA、MMedLLaMA、PMC-CLIP、RadFM 等；（3）增强医学知识的表示学习和通用分割模型，例如在 X 光、病理或更广泛的放射影像等方面，例如 KAD，KEP，SAT。在以上工作中，团队旨在弥合通用人工智能的进展与医疗应用之间的差距，为医疗领域提供更加健壮和多功能的人工智能解决方案。更多信息，请查阅这里的论文：https://weidixie.github.io/research.html
+撰稿：黄若冰　审核：倪东
+
+超链接：
+- javascript:window.close()
+- https://www1.szu.edu.cn/board/print.asp?id=531343

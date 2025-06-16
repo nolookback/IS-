@@ -1,0 +1,122 @@
+标题：第175条公告
+
+正文：
+关闭窗口
+｜
+打印张贴版
+【深圳大学机电与控制工程学院40周年院庆学术报告第28场】学术讲座：Approximations for Kemeny’s Constant for Several Families of Graphs and Real-World等2场
+机电与控制工程学院　2024/11/28 17:57:00
+讲座题目
+：（讲座
+1
+）
+Approximations for Kemeny’s Constant for Several Families of Graphs
+and Real-World Networks
+（讲座
+2
+）
+Does GPT-4 Play Dice? (
+大模型掷骰子吗）
+演讲嘉宾
+：（报告人
+1
+）
+Robert Kooij
+教授，荷兰代尔夫特理工大学量子计算学院院长
+（报告人
+2
+）刘强
+腾讯高级研究员
+讲座时间
+：
+11
+月
+29
+日（星期五）
+14:00
+讲座地点
+：深圳大学沧海校区致信楼
+S630B
+会议室
+邀
+请
+人
+：王向荣
+特聘副研究员
+讲座内容简介：
+（讲座
+1
+）
+The linear relation between Kemeny’s constant, a graph metric
+directly linked with random walks, and the effective graph resistance in a regular
+graph has been an incentive to calculate Kemeny’s constant for various
+networks. In this paper we consider complete bipartite graphs, (generalized)
+windmill graphs and tree networks with large diameter and give exact
+expressions of Kemeny’s constant. For nonregular graphs we propose two
+approximations for Kemeny’s constant by adding to the effective graph
+resistance term a linear term related to the degree heterogeneity in the graph.
+These approximations are exact for complete bipartite graphs, but show some
+discrepancies for generalized windmill and tree graphs. However, we show that a
+recently obtained upper-bound for Kemeny’s constant in based on the pseudo
+inverse Laplacian gives the exact value of Kemeny’s constant for generalized
+windmill graphs. Next, we have evaluated Kemeny’s constant, its two
+approximations and its upper bound, for 243 moderate sized real-world networks.
+This evaluation reveals that the upper bound is tight, with average relative
+error of only 0.73%. In most cases the upper bound clearly outperforms the
+other two approximations.
+For the upper bound based on the pseudo inverse of the Laplacian, we
+show that for a certain class of bimodal networks with diameter two, the upper
+bound is also tight. This generalizes previous results for bipartite and
+(generalized) windmill graphs. Moreover, we show numerically that also for
+large real-world networks this bound can be used to find good numerical
+approximations for Kemeny’s constant. For certain graphs consisting of up to
+100K nodes, we find a speed up of a factor 30 can be achieved, depending on the
+accuracy of the approximation. For networks consisting of over 500K nodes the
+approximation can be used to estimate values for Kemeny’s constant, where exact
+calculation is no longer feasible within reasonable computation time.
+（讲座
+2
+）
+OpenAI’s Generative Pre-trained Transformer 4 (GPT-4) is a powerful
+large language model with a certain degree of intelligence in understanding and
+generating coherent text. We are exploring whether GPT-4 is capable of acting
+as a die, i.e. generating random numbers. We show that GPT-4 does not appear to
+generate independent and identically distributed random numbers. Examples imply
+that GPT-4 tries to compensate for the uniformity of random numbers by
+sacrificing independence when acting as a die.
+大模型目前的能力已经非比寻常，让人们对通用人工智能
+AGI
+的未来愈加乐观。所谓的
+AGI
+到底应该是什么样的？是应该更像人还是不像人？我们通过一个简单的掷骰子实验来观察大模型的应对。我们发现大模型在产生随机数的时候，更加类似人类的本能行为（
+GPT-4
+产生连续随机数的时候会牺牲随机数之间的独立性来补偿数字分布的随机性），却不像训练有素的算法专家，那么问题来了：通用的人工智能应该更像前者还是后者呢？
+演讲嘉宾简介：
+Robert Kooij has a background in
+mathematics: he received both his MSc and PhD degree cum laude at Delft
+University of Technology, in 1988 and 1993, respectively. From 1997 until 2003
+he was employed at the research lab of KPN, the largest telecom operator in the
+Netherlands. From 2003 until 2018 he was employed at the ICT Unit of TNO, the
+Netherlands Organization of Applied Scientific Research. In 2011 he became
+principal scientist, conducting and managing research on Critical ICT
+Infrastructures. Since 2005 Robert is part-time affiliated with the Delft
+University of Technology, at the faculty of Electrical Engineering, Mathematics
+and Computer Science. Since 2010 he is a part-time full professor with the
+chair “Robustness of Complex Networks”. From 2018 until 2020 professor Kooij
+lived in Singapore, where he got a position as principal research scientist at
+the Singapore University of Technology and Design, working on a project related
+to cyber resilience for critical infrastructures. Currently he is the head of
+the department of Quantum and Computer Engineering (QCE) at Delft University of
+Technology.
+刘强，腾讯高级研究员，
+2008-2015
+年获电子科技大学通信工程学士和密码学硕士学位，
+2019
+年获荷兰代尔夫特理工大学博士学位，博士期间从事网络上的传播过程研究。博士毕业后在腾讯游戏工作，主要从事应用于游戏设计和运营中的社交网络、用户推荐、数据科学等方面的算法和工程研究。研究兴趣包括机器学习，强化学习，大语言模型，复杂网络，随机过程等相关的科学和应用问题。
+欢迎大家参加！
+撰稿：任露洋　审核：马将、郑纯
+（更新于2024/11/28 18:07:00）
+
+超链接：
+- javascript:window.close()
+- https://www1.szu.edu.cn/board/print.asp?id=537489

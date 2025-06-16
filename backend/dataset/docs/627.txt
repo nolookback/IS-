@@ -1,0 +1,75 @@
+标题：第627条公告
+
+正文：
+关闭窗口
+｜
+打印张贴版
+【学术讲座】Towards Robust Autonomous Driving Systems
+电子与信息工程学院　2023/11/17 9:53:00
+讲座嘉宾
+：
+Xi Zheng
+副教授
+Macquarie University, Australia
+邀 请 人
+： 张胜利教授
+时
+间
+：
+11
+月
+23
+日上午10
+:00
+地
+点
+： 致信楼
+N710
+报告摘要：
+Autonomous driving, while promising, raises
+concerns about safety and reliability. Unlike traditional software, autonomous
+driving systems (ADSs) merge deep neural networks with logic-based modules,
+presenting unique software testing challenges. Despite new ADS testing
+techniques, the practical needs of ADS practitioners are yet to be fully
+met.
+Our series of
+works aim to address this. We first conducted a comprehensive study to
+understand current testing practices in ADS (FSE’22), followed by a project to
+streamline testing for multi-module ADSs (FSE’22). Additionally, we developed a
+method to generate test cases from traffic rules for testing autonomous driving
+models (TSE’22). Future work will build on
+analyzing
+robustness issues in deep learning driving models (PerCom’20),moving towards
+incorporating formal guarantee in ADS testing.
+报告人简介：
+Dr. Xi Zheng received the Ph.D. in Software
+Engineering from the University of Texas at Austin in 2015. From 2005 to 2012,
+he was the Chief Solution Architect for Menulog Australia. He is currently the
+Director of Intelligent Systems Research Group (ITSEG.ORG),Director of
+International engagement in the School of Computing, Senior Lecturer
+(equivalent to
+Associate Professor US) and Deputy Program Leader in Software Engineering,
+Macquarie University, Australia. His research interests include Cyber-Physical
+Systems Testing and Verification, Safety Analysis, Distributed Learning,
+Internet of Things, and Software Engineering in general. He has secured more
+than $1.2 million competitive funding　n Australian Research
+Council (Linkage and Discovery) and Data61 (CRP) projects on safety analysis,
+model testing and verification, and trustworthy AI on autonomous vehicles. He
+also won a few awards including Deakin Industry Researcher (2016) and MQ
+Earlier Career Researcher (Runner-up 2020). He has a number of highly cited
+papers and best conference papers. He served as PC members for Software and
+System flagship conferences including FSE (2022,2024) and Per Com (2017-2024).
+He also served as the PC chairs of IEEE CPSCom-2021, IEEE Broadnets-2022 and
+associate editor for ACM Distributed Ledger Technologies.
+电子与信息工程学院
+2023
+年
+11
+月
+17
+日
+（更新于2023/11/17 10:36:00）
+
+超链接：
+- javascript:window.close()
+- https://www1.szu.edu.cn/board/print.asp?id=508098

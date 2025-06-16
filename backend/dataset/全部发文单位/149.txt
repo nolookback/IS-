@@ -1,0 +1,76 @@
+标题：第149条公告
+
+正文：
+关闭窗口
+｜
+打印张贴版
+学术讲座（九十三）：Exploiting new electrochemistry and photochemistry: from bipolar hydrogenation to two-photon absorption
+化学与环境工程学院　2024/12/11 17:49:00
+（钟沛基 2022280095）
+主讲人：
+Prof. Yujie Sun
+时间：
+12
+月
+13
+日
+上
+午
+10:30
+地点：
+丽湖校区守信楼
+420
+会议室
+报告人简介：
+Yujie Sun (
+孙宇杰
+) received a B.S. degree in Chemistry from Fudan University in 2005. He then pursued graduate studies in inorganic photochemistry with Prof. Claudia Turro at The Ohio State University and obtained his Ph.D. degree in 2010. After a postdoctoral training in the group of Prof. Christopher J. Chang at UC Berkeley, Yujie started his independent career as an Assistant Professor at Utah State University in 2013, moved to the University of Cincinnati as an Associate Professor in 2018, and was promoted to Professor in 2023. His group is interested in developing and understanding inexpensive materials and complexes for energy catalysis and biomedical applications
+.
+讲座摘要：
+Exploring renewable carbon and energy resources is essential for our sustainable development. Biomass, as the most abundant renewable carbon source, and solar energy, as a clean and inexhaustible energy source, offer promising avenues for advancement. Our research focuses on developing novel electrochemical and photochemical systems to maximize the efficient utilization of biomass and solar energy. This presentation will highlight our recent achievements, including hybrid electrocatalytic systems for biomass valorization via bipolar hydrogenation and two-photon-absorbing photocatalysts designed for diverse organic transformations under red and near-infrared light irradiation.
+References:
+(
+1
+)
+Han, C.; Kundu, B. K.; Liang, Y.; Sun, Y.
+“Near-infrared light-driven photocatalysis with an emphasis on two-photon excitation: concepts, materials, and applications”,
+Advanced Materials
+,
+2024
+, 36, 2307759.
+(
+2
+)
+Han, G.; Li, G.; Sun, Y. “Electrocatalytic dual hydrogenation of organic substrates with a Faradaic efficiency approaching 200%”,
+Nature Catalysis
+​,
+2023
+, 6, 224-233.
+(3)
+Kundu, B. K.; Han, G.; Sun, Y. “Derivatized benzothiazoles as two-photon-absorbing organic photosensitizers active under near infrared light irradiation”,
+Journal of the American Chemical Society
+,
+2023
+, 145, 3535-3542.
+(
+4
+)
+Li, G.; Han, G.; Wang, L.; Cui, X.; Moehring, N. K.; Kidambi, P. R.; Jiang, D.-e.; Sun, Y. “Dual hydrogen production from electrocatalytic water reduction coupled with formaldehyde oxidation via a copper-silver electrocatalyst”,
+Nature Communications
+,
+2023
+, 14, 525.
+(
+5
+)
+Han, G.; Li, G.; Huang, J.; Han, C.; Turro, C.; Sun, Y. “Two-photon-absorbing ruthenium complexes enable near infrared light-driven photocatalysis”,
+Nature Communications
+,
+2022
+, 13, 2288.
+欢迎有兴趣的师生参加！
+撰稿：郭凯　审核：何传新
+
+超链接：
+- javascript:window.close()
+- https://www1.szu.edu.cn/board/print.asp?id=538546

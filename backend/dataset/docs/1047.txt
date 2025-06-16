@@ -1,0 +1,25 @@
+标题：第1047条公告
+
+正文：
+关闭窗口
+｜
+打印张贴版
+高等研究院系列学术讲座一百三十五
+高等研究院　2021/7/11 20:04:00
+Ocean Color Remote Sensing Atmospheric Correction and Water Quality Retrievals
+Speaker Dr. Huizeng Liu
+Shenzhen University
+About the Speaker
+Dr. Liu obtained his Ph.D. degree from Hong Kong Baptist University, now a postdoc in Prof. Qingquan Li’s Lab and a Shenzhen Overseas High Level Talent (Level C). His research interests are mainly focused on ocean color remote sensing. He has authored and co-authored over 30 scientific papers.
+Talk Introduction
+Ocean color remote sensing is the most effective technique to retrieve spatiotemporal biogeochemical properties of the World Ocean. However, accurate ocean color remote sensing applications are still challenging in coastal areas under the coupled conditions of complex aerosols and water properties. Here, I will discuss our efforts on improving atmospheric correction and water quality retrievals, especially in coastal complex waters. This talk mainly includes our academic contributions in (1) improving oceanic particulate organic carbon concentration retrieval in productive marginal seas; (2) proposed an applicable framework for estimating ultraviolet ocean color remote sensing reflectance; and (3) identifying the ineffectiveness of the currently applied switching scheme for NIR-SWIR atmospheric correction method, and developing a framework for determining the switching scheme for atmospheric correction over complex waters. Besides, I will brief my future research plan in moon-based earth observation and its applications in earth energy budget.
+时间：2021年7月13日上午11:00-12:00
+地点：汇元楼103会议室
+All are welcome！
+附件：
+·高等研究院系列学术讲座一百三十五.jpg
+
+超链接：
+- javascript:window.close()
+- https://www1.szu.edu.cn/board/print.asp?id=454922
+- https://www1.szu.edu.cn/board/down1oad.asp?fn=2021711489365高等研究院系列学术讲座一百三十五.jpg

@@ -1,0 +1,56 @@
+标题：第528条公告
+
+正文：
+关闭窗口
+｜
+打印张贴版
+学术讲座：Modeling and Parameters Learning of Dielectric Elastomer Enabled Soft Robots via Data-In-Loop Approach
+机电与控制工程学院　2024/1/9 12:29:00
+报告题目
+: Modeling and Parameters Learning of Dielectric Elastomer Enabled Soft Robots via Data-In-Loop Approach
+报告人：
+苏春翌
+,
+广东工业大学
+报告时间：
+2024年1月10日（周
+三
+）
+下
+午
+3:00
+报告地点：
+南校区机电大楼
+S630会议室
+邀请人：吴宗泽
+报告内容
+:
+This talk describes the basic research in the new area of bioinspired soft robotics, with an emphasis on modeling and parameters learning. The developments in soft robotic research incorporate smart materials, flexible electronics, and 3D printing to emulate both the physical flexibility and the versatility of animals such as fish, caterpillars, snakes, and worms. Potentially applications include tissue engineering and biology; control engineering; additive manufacturing; biomedical engineering; medical devices. This talk is intended to discuss a newly proposed modeling and parameters learning of dielectric elastomer enabled soft robots via data-in-loop approach, showing the status of the art of the current research for modeling of the smart-material based soft robots.
+报告人简历：
+苏春翌教授自
+1990年在华南理工大学控制工程专业获得博士学位后，曾在
+加拿大
+维多利亚大学工作七年。
+1998年加入
+加拿大
+康考迪亚大学，
+担任
+教授及
+Honorary Concordia University Research Chair。他的研究覆盖控制理论及其在各种机械系统中的应用，近期重点关注软机器人的建模与控制。
+发表包括期刊、著作、会议等
+5
+00
+余篇（本）
+。自
+2019年起一直
+被评为
+Clarivate
+高被引学者
+。
+苏教授曾担任多个期刊的副主编，包括
+IEEE Transactions on Automatic Control, IEEE Transactions on Control Systems Technology, IEEE Transactions on Cybernetics等。他是IEEE RA学会的Distinguished Lecturer。他还在许多会议中担任组织委员会成员，包括总主席和程序主席等职务。
+（更新于2024/1/9 12:51:00）
+
+超链接：
+- javascript:window.close()
+- https://www1.szu.edu.cn/board/print.asp?id=512537

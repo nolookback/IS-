@@ -1,0 +1,74 @@
+标题：第371条公告
+
+正文：
+关闭窗口
+｜
+打印张贴版
+【生物医学工程学院学术讲座】跨越神经元和硅：关于不寻常的电子电路与神经科学之间关系的一些想法
+医学部　2024/5/24 11:26:00
+（钟沛基 2022280095）
+主讲嘉宾
+：
+LUDOVICO MINATI
+教授
+时
+间
+：
+202
+4
+年
+5
+月
+28
+日
+周二下午
+2:00-4:00
+，
+A2-517
+地
+点
+：
+深圳大学丽湖校区
+A
+2
+-
+517
+主持
+人
+：
+梁臻
+副
+教授
+报告内容简介：
+究竟是什么让大脑独一无二，从物理角度来看，它到底有什么独特之处？为了解决这些问题，我将首先强调两个方面。第一，与当今计算机的深刻差异。第二，大自然如何利用一些现象来构建大脑，这些现象实际上是普遍存在的，在其他系统中普遍存在，因此有可能在某种程度上以电子方式复制。我将讨论如何在相当不同的系统中观察到类似的紧急行为，以及将大脑活动与一些相当不寻常的电子电路进行比较对于神经生理学和电子工程如何具有启发性。我将简要概述我最近的研究，试图用简单的电子电路（主要是所谓的混沌振荡器）来
+“
+总结
+”
+其他生物和物理场景中出现的一些现象，特别是在大脑动力学中。首先，我将介绍这些相当不寻常的电路，调查一些基于晶体管、气体放电管和其他电子元件的振荡器。其次，将考虑这些电路的简单网络，证明神经记录中常见现象的自发出现，例如社区结构、远程相互依存等。第三，将讨论一些应用，包括创建物理而不是模拟的计算机模拟疾病模型、仿生模式生成以及分布式传感等工程应用。虽然这个演讲绝不是对这个年轻的多学科领域的全面介绍，但希望能提供一些关于工程学和神经科学如何相互启发的想法。
+What makes the brain unique, and what exactly is unique about it from a physical perspective, after all? I will try to approach these questions by first highlighting two aspects. One, the profound differences with respect to present-day computers. Two, how Nature has leveraged, to construct brains, some phenomena that are actually universal, pervasive in other systems, and thus possible to replicate electronically at some level. I will discuss how similar emergent behaviors can be observed across rather diverse systems, and how comparing brain activity to some rather unusual electronic circuits could be inspiring, both for neurophysiology and for electronic engineering. I will briefly overview my recent research attempting to “summarize” in simple electronic circuits, mainly so-called chaotic oscillators, some phenomena arising in other biological and physical scenarios, especially in brain dynamics. Firstly, a gallery of these rather unusual circuits will be walked through, surveying some oscillators based on transistors, gas-discharge tubes, and other electronic components. Secondly, simple networks of these circuits will be considered, demonstrating the spontaneous emergence of phenomena commonly observed in neural recordings, such as community structures, remote interdependences, and so on. Thirdly, some applications will be discussed, comprising the creation of physical instead of simulated in-silico disease models, bio-inspired pattern generation, and engineering applications such as in distributed sensing. While by no means a comprehensive introduction to this young multidisciplinary field, this presentation should hopefully provide some ideas regarding how engineering and neuroscience can provide mutually inspire each other.
+报告嘉宾简介：
+LUDOVICO MINATI
+（
+IEEE
+高级会员）于
+2012
+年获得英国布莱顿和苏塞克斯医学院神经科学博士学位，并于
+2017
+年获得波兰克拉科夫波兰科学院核物理研究所物理学
+D.Sc
+学位。他曾在学术机构和私人实体担任研究和咨询职务，包括日本东京工业大学、波兰科学院核物理研究所、意大利米兰卡洛贝斯塔神经学研究所以及英国布莱顿和苏塞克斯医学院。他撰写了
+150
+多篇文章，被引用超过
+4000
+次，并获得了多项专利。他目前是中国成都电子科技大学（
+UESTC
+）的教授和杰出国家青年人才（海外）。他目前的研究兴趣包括非线性动力系统，特别是脑动力学、混沌振荡器、同步、可重构模拟和数字计算、功能磁共振成像、生物信号分析的先进技术、脑机
+/
+计算机接口和机器人技术。
+LUDOVICO MINATI (Senior Member, IEEE) received the Ph.D. degree in Neuroscience from the Brighton & Sussex Medical School, UK, in 2012, and the D.Sc. degree in Physics from the Institute of Nuclear Physics, Polish Academy of Sciences, Krakow, Poland, in 2017. He has held research and consulting roles across academic institutions and private entities, including the Tokyo Institute of Technology, Japan, the Institute of Nuclear Physics-Polish Academy of Sciences, the Carlo Besta Neurological Institute, Milan, Italy, and the Brighton and Sussex Medical School, U.K. He has authored more than 150 articles, cited more than 4000 times, and several patents. He is currently a Professor and Outstanding National Young Talent (Overseas) at the University of Electronic Science and Technology of China (UESTC), Chengdu, China. His present research interests include non-linear dynamical systems, particularly brain dynamics, chaotic oscillators, synchronization, reconfigurable analog and digital computing, functional magnetic resonance imaging, advanced techniques for bio-signal analysis, brain-machine/computer interfaces, and robotics.
+撰稿：梁臻　审核：陈芋如
+（更新于2024/5/24 11:27:00）
+
+超链接：
+- javascript:window.close()
+- https://www1.szu.edu.cn/board/print.asp?id=521958

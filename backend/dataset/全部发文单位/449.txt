@@ -1,0 +1,93 @@
+标题：第449条公告
+
+正文：
+关闭窗口
+｜
+打印张贴版
+学术讲座（二十六）：Unlocking scalable high-areal-capacity Li battery cathodes
+化学与环境工程学院　2024/4/9 17:27:00
+（钟沛基 2022280095）
+主讲人：
+Prof.
+Sang-Young Lee
+时间：
+4
+月
+1
+0
+日
+下
+午
+1
+6
+:
+0
+0
+地点：丽湖校区守
+正
+楼
+212
+会议室
+报告人简介：
+Research Statement
+Sang-Young Lee is an underwood distinguished professor of Department of Chemical and Biomolecular Engineering at Yonsei University. He received BA in Chemical Engineering from Seoul National University in 1991, MS, and PhD in Chemical Engineering from KAIST in 1993 and 1997. He served as a postdoctoral fellow at Max-Planck Institute for Polymer Research from 2001 to 2002. Before joining UNIST, he worked at Batteries R&D, LG Chem as a principal research scientist.
+Research Carrier
+2022 -
+2022 –
+2022 -
+2021 -
+2012 - 2020
+2008 - 2012
+1997 - 2008
+Director, Yonsei Battery Research Center, Yonsei University
+Member, The National Academy of Engineering of Korea
+Director of BK21 Plus Program, Yonsei University
+Underwood Disting. Prof., Dep. of Chem. & Biomol. Eng. Yonsei Univ.
+Professor, School of Energy & Chemical Engineering, UNIST
+Assoc. Prof., Department of Chemical Engineering, Kangwon Nat. Univ.
+Principal researcher at Batteries R&D, LG Chem
+Research Interest
+Prof. Lee’s group explores new battery materials and architectures, with a focus on addressing issues on energy density and safety. For the pursuit of higher energy density, his research interests include high-mass-loading electrodes based on new binder chemistry, processing solvent-free dry electrodes, environmentally benign electrode fabrication based on aqueous processing solvents, and metal anodes based on ion rectification and ion flux uniformity. To achieve higher cell safety, his group develops organic-based solid-state electrolytes, thermoresistant battery separators based on functional nanomaterials, nonflammable structured electrolytes, thermodynamically immiscible biphasic electrolytes, and aqueous Zn battery materials/systems. In addition, form factor-free power sources for forthcoming IOT era, such as printed batteries, flexible/wearable batteries, and nanocellulose-based batteries are under investigation.
+讲座摘要
+：
+Achieving high-energy-density Li batteries is of paramount importance in expediting the advent of smart energy era. Major research approaches implemented to achieve this goal have focused on the synthesis and modification of electrode active materials and electrolytes. In addition to these materials-based works, much attention should be devoted to designing high-areal-capacity (leading to high-energy-density) electrode sheets as a facile architectural strategy. Notable benefits of high-areal-capacity electrode sheets include the increase in the cell energy density without the synthesis of new electrode active materials and the simplification of cell configurations by reducing electrode layer numbers. To achieve the high areal-capacity electrode sheets (= areal-mass-loading
+×
+specific capacity of electrode active materials), the areal-mass-loading should be maximized while stably maintaining the specific capacity of electrode active materials. A formidable challenge facing the
+high-areal-mass-loading electrode sheets is the inhomogeneous redox reaction in their through-thickness direction, which is considerably affected by the electrode binders.
+Therefore, exploring new binder chemistry that can be compatible with commercial slurry-cast electrode fabrication is urgently needed to develop scalable high-areal-capacity electrodes.
+To address this issue, here, we briefly overview the current status and challenges of high-areal-capacity Li battery cathode sheets based on a slurry-cast manufacturing process. Based on this fundamental understanding, we present our new binder approaches beyond a conventional PVdF binder, which include the amphiphilic bottlebrush polymeric binders and cationic polymeric binders. Particularly, the cationic polymer binders suppressed the solvent-drying-induced crack evolution of electrodes and improved the dispersion state of electrode components owing to its surface charge-driven electrostatic repulsion and mechanical toughness,
+ thus enabling the fabrication of high-areal-capacity cathodes (20 mAh cm
+–
+2
+) with 5 times the capacity of a conventional PVdF-based cathode (4 mAh cm
+–
+2
+).
+This new
+binder chemistry strategy proposed herein opens a new route toward scalable high-mass-loading electrodes with
+redox homogeneity, which lie far beyond those achievable with previously reported electrode sheets based on conventional neutral binders
+.
+References
+1.
+Sang-Young Lee et al., “Amphiphilic bottlebrush polymeric binders for high-mass-loading cathodes in Lithium-ion batteries”,
+Adv. Energy. Mater.
+2021
+, 2102109.
+2.
+Sang-Young Lee et al., “Redox-homogeneous, gel electrolyte-embedded high-mass-loading cathodes for high-energy lithium metal batteries”,
+Nat. Commun.
+2022
+, 13, 2541.
+3.
+Sang-Young Lee et al., “
+Regulating electrostatic phenomena by cationic polymer binder: Toward scalable high-areal-capacity Li battery electrodes
+”,
+Nat. Commun.
+2023
+, accepted.
+欢迎有兴趣的师生参加！
+撰稿：郭凯　审核：何传新
+
+超链接：
+- javascript:window.close()
+- https://www1.szu.edu.cn/board/print.asp?id=517622

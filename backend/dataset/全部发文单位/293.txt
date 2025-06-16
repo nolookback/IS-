@@ -1,0 +1,76 @@
+标题：第293条公告
+
+正文：
+关闭窗口
+｜
+打印张贴版
+学术讲座（六十二）：High Temperature Solid Oxide Electrolysers for Green Fuel Production
+化学与环境工程学院　2024/8/19 10:35:00
+（钟沛基 2022280095）
+主讲人：
+陈铭
+教授
+时间：
+8
+月
+2
+1
+日
+下
+午
+1
+4
+:
+3
+0
+地点：丽湖校区守
+信
+楼
+420
+会议室
+报告人简介：
+陈铭博士是丹麦技术大学能源转化与储存系的正教授，并兼任丹麦电化学学会副会长。他在固体氧化物电池（
+SOCs
+）领域拥有超过
+25
+年的研究经验，研究领域涵盖单电池和电堆开发与测试、微观结构表征、微观结构演化建模等方面。带领其项目团队在用于高温电解的固体氧化物单电池及电池堆部件的制备，电化学性能和微观结构表征，性能和长期稳定性的优化等方面做出了突出贡献。在
+Chemical Reviews, Energy & Environmental Science, npj Computational Materials, Chemical Engineering Journal, Acta Materialia
+等国际期刊或会议论文集上发表了论文
+170
+余篇文，出版英文专著章节
+3
+篇，获中国专利授权
+2
+项，欧盟或国际专利授权
+3
+项。负责或参与主持了近
+20
+项丹麦或欧盟科研课题。基于其在计算材料学领域做出的突出贡献，被美国陶瓷学会授予
+2005
+年度
+Spriggs
+相平衡奖。基于其在高温电解和项目管理方面的杰出贡献，被丹麦国家电网公司
+(Energinet.dk)
+授予
+2016
+研究大奖
+(ForskEL-prize 2016)
+。个人主页：
+https://orbit.dtu.dk/en/persons/ming-chen
+。
+报告摘要
+：
+Globally the amount of electricity generated from renewable energy sources is increasing. To integrate high amount of fluctuating energy into the existing energy grid, efficient and cost competitive conversion of electricity into other kinds of energy carriers is needed. Solid oxide electrolysis (SOE) has the potential to become a key technology in enabling this integration. With solid oxide electrolysis cells (SOECs), electrical energy can be converted to chemical energy and stored as H2 or synthesis gas (syngas, CO+H
+2
+) via high temperature electrolysis of steam or co-electrolysis of steam and CO
+2
+. H
+2
+and syngas can be further processed to a variety of synthetic fuels, which may be stored and later either reconverted into electricity or used in the transportation sector. Within the last decade, we have coordinated and participated in a number of projects on developing the SOEC technology. In this presentation results from the recently completed projects will be given. The focus will be on performance and durability of different generations of SOEC cells and stacks, together with post-mortem analysis results. Latest results on using SOEC stacks for grid balancing based on real-world wind profile will be highlighted. Potential problems in terms of life time limiting degradation phenomena in SOEC operation (both at the cell level and at the stack level) will be discussed in detail based on own findings as well as literature. Finally, some of the challenges faced in the future development of SOEC cells, stack components and stacks will be presented.
+欢迎有兴趣的师生参加！
+撰稿：郭凯　审核：何传新
+
+超链接：
+- javascript:window.close()
+- https://www1.szu.edu.cn/board/print.asp?id=528386
+- https://orbit.dtu.dk/en/persons/ming-chen%E3%80%82

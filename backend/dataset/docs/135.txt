@@ -1,0 +1,72 @@
+标题：第135条公告
+
+正文：
+关闭窗口
+｜
+打印张贴版
+【学术讲座】Presentation Attack via Face-Spoofing
+电子与信息工程学院　2024/12/17 11:09:00
+主讲嘉宾
+：
+Professor Alex Kot， Nanyang Technological University
+邀 请 人
+：   陈昌盛 副教授
+地    点
+：   致信楼N723
+时   间 :
+12月30日 10 am
+摘要
+:
+Face recognition has become a widely
+adopted biometric for convenient identity verification. However, its
+application is compromised by presentation attacks, a significant security
+threat. Face presentation attack detection (PAD) serves as a critical
+anti-spoofing measure, distinguishing genuine attempts from spoofed ones to
+secure face recognition systems. Despite the effectiveness of current methods
+in intra-domain testing, these methods often struggle in new target domains. In
+this talk, we review existing approaches and introduce our recent work on
+unsupervised domain adaptation for face anti-spoofing. We also propose an
+asymmetric modality translation technique to enhance generalization in face
+PAD. Additionally, our one-class knowledge distillation approach leverages only
+bona fide examples, enabling efficient fine-tuning in target domains. Lastly,
+we present a rehearsal-free, domain-continual face anti-spoofing strategy that
+allows a pre-trained model to adapt to continuous domain-specific challenges
+without requiring previous domain data.
+Furthermore, as the former Vice Dean
+of School of EEE and former Associate Dean of the College of Engineering at NTU,
+Prof. Kot discuss the skill sets and strategies required for applying to
+overseas PhD positions. Students are welcome to raise any related questions.
+报告人简介：
+Professor Alex Kot has been with
+Nanyang Technological University (NTU), Singapore, since 1991, amassing over 30
+years of research and academic experience. He has published more than 400
+technical papers in biometrics recognition, authentication, image forensics,
+machine learning, computer vision, and AI. At NTU, he has held numerous
+leadership roles, including Head of Division, Vice Dean of the School of EEE,
+and Associate Dean of the College of Engineering. Since 2012, Professor Kot has
+served as the Director of the ROSE (Rapid-Rich Object SEarch) Lab, and since
+2015, he has also directed the NTU-PKU Joint Research Institute (JRI). Over
+this period, he has led and supported numerous international, national, and
+industry-funded projects totalling over SGD 21 million. Key funding includes a
+SGD 10 million grant from Singapore's National Research Foundation (NRF) for the
+ROSE Lab.
+Professor Kot has contributed
+extensively to IEEE, serving as an Associate Editor for multiple IEEE
+Transactions, including IEEE TSP, IMM, TCSVT, TCAS-I & II, TIP, SPM, SPL,
+JSTSP, JASP, TIFS, among others. He has been a member of several IEEE Technical
+Committees within SPS and CASS. Additionally, he served as General Co-Chair for
+the 2004 IEEE International Conference on Image Processing and was a Vice
+President in the IEEE Signal Processing Society. His accolades include NTU’s
+Best Teacher of the Year Award, the Microsoft MSRA Award, and co-authoring
+several award-winning papers. He was named an IEEE CAS Distinguished Lecturer
+and IEEE SPS Distinguished Lecturer and has served on the IEEE Fellow Election
+Committee. Professor Kot is a Life Fellow of IEEE and a Fellow of the Academy
+of Engineering, Singapore.
+电子与信息工程学院
+2024年12月17日
+撰稿：高志杰　审核：周浩江
+（更新于2024/12/17 14:33:00）
+
+超链接：
+- javascript:window.close()
+- https://www1.szu.edu.cn/board/print.asp?id=538926

@@ -1,0 +1,84 @@
+标题：第389条公告
+
+正文：
+关闭窗口
+｜
+打印张贴版
+【学术讲座】Antenna Technologies and Challenges for “Human x Car x Home” smart ecosystem
+电子与信息工程学院　2024/5/20 14:29:00
+（钟沛基 2022280095）
+报告人：
+魏鲲鹏
+小米集团手机部首席天线专家
+邀请人：袁涛 教授
+时间：
+2024
+年
+6
+月
+3
+日
+10:00-11:00
+地点：深圳大学沧海校区致信楼
+N710
+报告摘要：
+The "Human x Car x Home" smart ecosystem is a rapidly growing
+field that aims to seamlessly integrate technology into our daily lives.
+Antenna technologies play a crucial role in this ecosystem, enabling
+communication between devices and providing connectivity to the internet.
+However, there are several challenges that must be addressed in order to fully
+realize the potential of this ecosystem, such as satellite direct to cell, 5.5G
+Communication, Digital wireless car key. These challenges include the need for
+antennas that are small, low-cost, and capable of operating in a wide range of
+frequencies. Additionally, antennas must be able to operate in complex
+environments, such as inside buildings and vehicles, where signal interference
+and multipath propagation can be significant. This report will explore the
+current state of antenna technologies for the "Human x Car x Home"
+smart ecosystem, as well as the challenges that must be overcome to enable
+widespread adoption of these technologies.
+报告人简介：
+魏鲲鹏博士，毕业于清华大学电子工程系，现任小米集团手机部首席天线专家，天线技术预研负责人，
+IET Fellow
+，中国信通院特级外聘专家，深圳大学校外博导。目前研究的重点是人车家全生态的无线通信技术，包括终端
+MIMO
+多天线技术，终端卫星通信技术，
+5.5G/
+毫米波技术，
+UWB
+无线技术及探索电磁波与人体之间的相互影响。现担任
+IEEE Open Journal
+of Antennas and Propagation
+副主编，
+IET Electronics Letter
+副主编，中国通信协会天线与射频分委会委员，已发表论文
+50
+余篇，包括
+IEEE TAP
+、
+IEEE
+AWPL
+等本领域高水平期刊，参编著作
+1
+部，获得授权发明专利
+60
+余项，其中美国专利
+20
+余项。拥有
+10
+多年消费电子无线通信研发经验，先后在华为、荣耀、小米等公司担任高级技术专家或总监职务，曾提出
+meta-loop
+、
+meta-line
+、多天线多频解耦等终端天线技术，在
+5G
+智能手机、平板
+/PC
+和家庭路由器等几十余款产品中商用。
+电子与信息工程学院
+2024年5月20日
+撰稿：高志杰　审核：周浩江
+（更新于2024/5/20 14:31:00）
+
+超链接：
+- javascript:window.close()
+- https://www1.szu.edu.cn/board/print.asp?id=521336

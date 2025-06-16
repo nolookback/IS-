@@ -1,0 +1,109 @@
+标题：第353条公告
+
+正文：
+关闭窗口
+｜
+打印张贴版
+【40周年院庆系列活动】之学术活动第17场暨2024深圳大学工业化建造与绿色安全运维系列学术讲座第1场: 以人为本的室内环境智能管理与控制
+土木与交通工程学院　2024/6/4 9:26:00
+讲座题目
+：以人为本的室内环境智能管理与控制
+英文题目
+：
+Advancing Management and Control of Indoor
+Environments through Human-Centered Artificial Intelligence
+报告人
+：德州理工大学
+邓民
+助理教授
+Min Deng, Ph.D. Assistant Professor
+，
+Civil, Environmental &
+Construction Engineering
+，
+Texas Tech
+University
+讲座时间
+：
+2024
+年
+6
+月
+5
+日（星期三）
+14:00-
+15
+:
+00
+讲座地点
+：深圳大学沧海校区致工楼二楼
+BIM
+会议室
+报告人简介：
+邓民博士目前担任德州理工大学土木、环境与建筑工程系的助理教授。他拥有密歇根大学土木工程博士学位和机器人学硕士学位、香港科技大学的智能建筑技术硕士学位以及诺丁汉大学的建筑环境工程学士学位。邓民老师的研究目标是优化施工效率和提升建筑管理，他的主要研究兴趣包括数字孪生、机器人、建筑环境等领域，通过利用数字孪生和人工智能（
+AI
+）等先进技术，以改进人类、机器人和建筑环境之间的互动。邓民老师已在顶级期刊上发表了多篇论文，此外，他积极参与学术活动，担任《
+Automation in Construction
+》、《
+Building and Environment
+》和《
+Advanced Engineering Informatics
+》等多个知名期刊的审稿人，参与组织并主持了多个国际会议分会场。
+Dr. Min Deng is
+an Assistant Professor in the Department of Civil, Environmental, and
+Construction Engineering at Texas Tech University. He holds a Ph.D. in Civil
+Engineering and an M.S. in Robotics from the University of Michigan.
+Additionally, he earned master’s degrees in intelligent building technologies
+from the Hong Kong University of Science and Technology, and a bachelor's
+degree in Architectural Environment Engineering from the University of
+Nottingham. Dr. Deng's research agenda focuses on employing advanced
+computational methods, such as digital twins, and artificial intelligence (AI)
+to improve the interaction between humans, robots, and the built environment.
+His work aims to optimize construction efficiency and enhance building
+management, leading to numerous publications in top-tier journals. Beyond his
+academic and research contributions, Dr. Deng actively engages in the scholarly
+community. He serves as a reviewer for several esteemed journals, including
+Automation in Construction, Building and Environment, and Advanced Engineering
+Informatics. Additionally, he has organized and chaired sessions at
+international conferences.
+报告摘要：
+In contemporary
+society, individuals are expected to spend a substantial portion of their time
+indoors. Maintaining comfortable and healthy indoor environments is crucial for
+human comfort, productivity, and health. Despite extensive research, less than
+half of occupants are satisfied with public indoor environments. This
+dissatisfaction largely stems from conventional indoor environmental control
+methods, which rely on one-size-fits-all approaches and fail to account for
+individual environmental preferences. My research aims to address this issue.
+In this talk, I will introduce the innovative concept of the human Digital ID
+(DID). I will begin by defining DID and demonstrating its integration into
+building systems. Subsequently, I will discuss two research themes from my
+studies that utilize DID. The first research theme focuses on enhancing human
+comfort. I will present a DID-based framework designed for the joint
+optimization of occupants' thermal comfort and building energy consumption
+using flexible workplaces. This framework is built upon personal thermal
+comfort models and the Large Neighborhood Search (LNS) algorithm. In the second
+research theme, I will explore how DID can enhance occupant productivity
+through physiological sensing technologies. I will introduce methods for
+measuring and predicting work engagement. I will conclude with remarks on
+future research directions aimed at promoting personal well-being and building
+sustainability.
+在当代社会中，个人被期望花费大量时间在室内。保持舒适和健康的室内环境对人类的舒适度、生产力和健康至关重要。尽管学术领域进行了广泛的研究，然而不到一半的公众对公共室内环境感到满意。这种不满主要源于传统的室内环境控制方法，它们依赖于一种通用的方式，未能考虑个体的环境偏好。本研究旨在解决这一问题。在这次演讲中，将介绍人类数字身份（
+DID
+）的创新概念。报告将首先定义
+DID
+并展示其在建筑系统中的整合。随后，将讨论我研究中的两个主题，这些主题都利用了
+DID
+。第一个研究主题聚焦于提升人类舒适度。我将展示一个基于
+DID
+的框架，旨在通过灵活的工作场所联合优化居住者的热舒适度和建筑能耗。该框架基于个人热舒适模型和大邻域搜索（
+LNS
+）算法。在第二个研究主题中，将探讨
+DID
+如何通过生理感应技术提高居住者的生产力，介绍测量和预测工作投入的方法。
+撰稿：谭毅　审核：包小华
+（更新于2024/6/4 15:32:00）
+
+超链接：
+- javascript:window.close()
+- https://www1.szu.edu.cn/board/print.asp?id=523093

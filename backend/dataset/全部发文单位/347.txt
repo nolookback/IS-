@@ -1,0 +1,129 @@
+标题：第347条公告
+
+正文：
+关闭窗口
+｜
+打印张贴版
+【40周年院庆系列活动】之学术活动第25场暨2024深圳大学工业化建造与绿色安全运维系列学术讲座第3场——建筑行业的数字化转型：从MetaBIM到生成式解决方案
+土木与交通工程学院　2024/6/12 9:41:00
+（钟沛基 2022280095）
+讲座题目：
+建筑行业的数字化转型：从
+MetaBIM
+到生成式解决方案
+英文题目：
+Digital Transformation in Construction: From MetaBIM to Generative
+Solutions
+报告人：
+西悉尼大学
+汪军
+高级讲师
+Jun Wang, Ph.D. Senior Lecturer, Western Sydney
+University
+讲座时间：
+2024
+年
+6
+月
+13
+日（星期四）
+10:00-11:30
+讲座地点：
+深圳大学沧海校区致工楼二楼
+BIM
+会议室
+报告人简介：
+汪军博士，现任西悉尼大学高级讲师、
+Digital
+Engineering
+实验室主任、博士生导师。同时，他还担任国际期刊
+International
+Journal of Construction Management
+副主编、澳大利亚施工计算协会主席以及
+W3C
+建筑关联数据组成员。汪军老师的主要研究方向包括：建筑信息模型（
+BIM
+）、智能建造和施工自动化。他目前已发表
+SCI/SSCI
+论文
+70
+余篇，
+7
+篇
+ESI
+高被引
+/
+热点论文，累计引用次数
+7500
+余次，
+ H-index
+为
+39
+。
+2017
+年被评为
+BIM
+全球
+Top10
+高产学者。现参与负责澳大利亚国家自然科学基金项目
+3
+项，澳大利亚科技部重大项目
+2
+项。过去曾负责制定《澳大利亚基础设施
+BIM
+应用指南》和《澳大利亚基础设施数字化资产管理指南和标准》。
+Dr. Jun Wang is
+currently a Senior Lecturer and the Director of the Digital Engineering
+Laboratory at Western Sydney University, as well as a PhD supervisor.
+Additionally, he serves as the Associate Editor of the International Journal of
+Construction Management, the Chair of the Australasian Association for
+Automation and Robotics in Construction (AAARC), and a member of the W3C Linked
+Building Data Community Group. Dr. Wang’s primary research areas include
+Building Information Modeling (BIM), intelligent construction, and construction
+automation. To date, he has published over 70 SCI/SSCI papers, including 7 ESI
+highly cited/hot papers, with more than 7500 citations and an H-index of 39. In
+2017, he was recognized as one of the Top 10 most productive scholars in BIM
+globally. Currently, he is involved in three projects funded by the Australian
+Research Council and two major projects by the Australian Department of
+Industry, Science and Resources. In the past, he has led the development of the
+"Australian Infrastructure BIM Implementation Guide" and the
+"Australian Infrastructure Digital Asset Management Guide and
+Standards."
+报告摘要：
+随着科技的不断进步，建筑行业正迎来前所未有的数字化变革。本演讲将阐述
+BIM
+（建筑信息模型）和生成式
+AI
+（人工智能）在这一进程中扮演的重要角色。
+BIM
+技术通过创建和管理建筑物的数字化表示，极大地提升了项目的可视化、协同和管理能力。生成式
+AI
+作为一种先进的技术，通过利用算法和机器学习，能够自动生成设计方案、优化施工计划并实时解决工程中的复杂问题。
+BIM
+和生成式
+AI
+的结合，将为工程管理带来全新的变革。通过
+BIM
+平台提供的精确数据和生成式
+AI
+的智能分析，工程项目将实现更高水平的自动化和智能化。
+With continuous
+technological advancements, the construction industry is undergoing an
+unprecedented digital transformation. This lecture will elucidate the
+significant roles of Building Information Modeling (BIM) and Generative AI
+(Artificial Intelligence) in this process. BIM technology, by creating and
+managing digital representations of buildings, greatly enhances project
+visualization, collaboration, and management capabilities. Generative AI, as an
+advanced technology, utilizes algorithms and machine learning to automatically
+generate design solutions, optimize construction schedules, and solve complex
+engineering problems in real-time. The integration of BIM and Generative AI
+will bring revolutionary changes to construction management. Through the precise
+data provided by BIM platforms and the intelligent analysis of Generative AI,
+construction projects will achieve higher levels of automation and
+intelligence.
+撰稿：谭毅　审核：包小华
+（更新于2024/6/12 9:42:00）
+
+超链接：
+- javascript:window.close()
+- https://www1.szu.edu.cn/board/print.asp?id=523722

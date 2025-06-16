@@ -1,0 +1,71 @@
+标题：第116条公告
+
+正文：
+关闭窗口
+｜
+打印张贴版
+【学术讲座】Human Activity and Location Sensing
+电子与信息工程学院　2025/1/3 9:35:00
+（钟沛基 2022280095）
+主讲嘉宾：黄赵 助理教授，
+Northumbria
+University
+邀 请 人：宋超运
+特聘教授
+时  间 ：
+1
+月
+6
+日
+10-11
+点
+地  点 ：致信楼
+N710
+摘要
+:
+With the rapid proliferation of the Internet of Things (IoT) and smart devices,
+human activity and location sensing technologies have become increasingly
+essential across various fields, including human-computer interaction, smart
+cities, health monitoring, and security systems. However, current approaches
+face significant challenges: WiFi-based localization is highly dependent on the
+distribution of Access Points (APs), while Inertial Measurement Unit
+(IMU)-based methods often suffer from cumulative errors and drift over time. To
+address these issues, advanced encoding techniques and activity-based methods
+have been employed to ensure reliable localization performance
+.
+First, a Siamese Network is utilized to
+encode WiFi signals, allowing the system to maintain accurate localization even
+when certain APs are removed or relocated over time. Second, IMU-based human
+activity recognition technology is leveraged to identify human activities
+without raising privacy concerns. These recognized activities are then linked
+to specific landmarks, which can be used to optimize localization accuracy.
+Additionally, the application of Spiking Neural Networks (SNNs) is explored,
+highlighting their potential for energy-efficient and biologically inspired
+processing in dynamic and resource-constrained environments.
+Finally, we conclude by discussing future
+opportunities and unresolved challenges in the field, such as improving
+robustness, achieving greater scalability, and integrating multi-modal sensing
+techniques to further enhance system performance.
+个人简介：
+  黄赵，深大信工学院
+2020
+级毕业生，博士研究生毕业于
+Queen Mary University of London
+。于
+2024
+年入职
+Department
+of Computer and Information Science, Northumbria University
+，担任博士，硕士研究生导师，从事无线感知、传感器、定位导航、行为识别等领域的研究。发表
+SCI
+论文或会议论文
+18
+余篇。
+电子与信息工程学院
+2025年1月3日
+撰稿：高志杰　审核：周浩江
+（更新于2025/1/3 9:36:00）
+
+超链接：
+- javascript:window.close()
+- https://www1.szu.edu.cn/board/print.asp?id=539938

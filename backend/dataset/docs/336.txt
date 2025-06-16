@@ -1,0 +1,64 @@
+标题：第336条公告
+
+正文：
+关闭窗口
+｜
+打印张贴版
+【学术讲座】Research and Development of Deep Learning-based Methods for Unsafe Driving Behavior Detection
+电子与信息工程学院　2024/6/19 16:13:00
+嘉 宾 ：
+Dr. Y.M. Tang
+, The Hong Kong Polytechnic University
+邀请人：
+张勇
+教授
+时 间：
+6
+月
+20
+日
+14
+：
+3
+0
+地 点：
+深圳大学汇星楼
+150
+2
+摘要：
+With
+the development of transportation and the increase in the number of vehicles,
+more and more people begin to pay attention to the important topic of traffic
+safety, and it is believed that the analysis of unsafe driving behavior can
+effectively reduce the occurrence of traffic accidents and ensure traffic
+safety, so it is of great significance to study and analyze the driving
+behavior of drivers. This presentation and workshop will focus on deep
+learning-based detection of unsafe driving behavior with multiple data sources.
+After a brief introduction of the topic and research background, the latest
+progress of related research will be discussed in depth. This presentation and
+workshop will also focus on the research methodology used in the study, model
+selection, and especially the presentation of the effect of processing and
+categorizing multi-modal driving distraction data for different models. In
+addition, this presentation will also introduce the current work progress of
+the topic and the problems encountered during the research process. In
+addition, various factors will be synthesized and analyzed to propose possible
+future directions for the topic, demonstrating to the audience the long-term
+significance of the topic and the sustainability of the research.
+嘉宾个人简介：
+Dr. YM Tang
+received his B.Eng. and
+M.Phil. from CUHK. He was awarded a Ph.D. degree from the same university.
+Currently, he is a Senior Teaching Fellow in the Department of Industrial and
+Systems Engineering, PolyU. Dr. Tang is the Lab-in-charge of Integrated Product
+Design (IPD) in the department. His research interests include virtual reality
+(VR)/ mixed reality (MR), artificial intelligence (AI), blockchain technology,
+digital twin, sustainable technology in industry 4.0 and healthcare
+applications. Dr. Tang has published over 10 books/ book chapters and over 60
+renowned journal articles.
+电子与信息工程学院
+2024年6月19日
+撰稿：高志杰　审核：周浩江
+
+超链接：
+- javascript:window.close()
+- https://www1.szu.edu.cn/board/print.asp?id=524691

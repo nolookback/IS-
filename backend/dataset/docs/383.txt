@@ -1,0 +1,75 @@
+标题：第383条公告
+
+正文：
+关闭窗口
+｜
+打印张贴版
+【学术讲座】Hyper Ray Tracer – Key Enabler for Smart Wireless Environments
+电子与信息工程学院　2024/5/21 11:07:00
+报告嘉宾
+：官科，北京交通大学教授
+邀 请 人：
+郭重涛 副教授
+时  间
+：
+6
+月
+03
+日
+15
+：
+00-16
+：
+00
+地 点
+： 致信楼
+N710
+报告摘要：
+Abstract
+— Smart future requires a fully connected world and
+provide a high data rate and dependable wireless connectivity for all
+intelligent devices and services, in terms of communications, sensing, and
+localization. In response to these requirements, highly accurate channel data
+need to be realized in various scenarios at all frequency bands. This paper
+presents the recent progress on hyper ray tracing for high-fidelity channel
+modeling, which is also a key enabler for smart wireless environments. To begin
+with, electromagnetic (EM) property and propagation mechanism libraries need to
+be built for various materials at different bands, from propagation mechanism
+measurements. Then, through extensive simulations using a high-performance ray
+tracing platform, realistic channel data can be obtained for communication
+channels in challenging conditions and multi-band sensing signals. Moreover,
+machine learning models for super-resolution wireless channel characteristics
+are presented to show how artificial intelligence can help transferring from
+high-performance ray tracer to hyper ray tracer in terms of increasing the
+efficiency of generating channel data while keeping high fidelity. Last but not
+least, some demos are shown that in the future, hyper ray tracer is promising
+to offer complete, real-time, accurate, and reliable multipath propagation data
+that projects the EM environment of the physical world in all aspects to the
+cyber space.
+报告人简介
+：
+Guan Ke (Senior
+Member, IEEE) received B.E. degree and Ph.D. degree from Beijing Jiaotong
+University in 2006 and 2014, respectively. He is a Professor in State Key
+Laboratory of Advanced Rail Autonomous Operation & School of Electronic and
+Information Engineering, Beijing Jiaotong University. In 2015, he has been
+awarded a Humboldt Research Fellowship for Postdoctoral Researchers. His
+current research interests include ray-tracing and AI based digital twin of
+electromagnetic environments in various complex scenarios.
+Dr. Guan is the
+pole leader of EURNEX (European Railway Research Network of Excellence). He was
+the recipient of 2014 International Union of Radio Science (URSI) Young
+Scientist Award, 2023 Emerald Global Outstanding Award, and 2023 JIMSE Global Young
+Scientist Award in Advanced manufacturing. He is listed the World
+’
+s Top 2% Scientists (both for the
+single year 2022 and the whole career). His papers received 14 Best Paper
+Awards, including IEEE vehicular technology society Neal Shepherd memorial best
+propagation paper award in 2019 and 2022, respectively.
+电子与信息工程学院
+2024年5月21日
+撰稿：高志杰　审核：周浩江
+
+超链接：
+- javascript:window.close()
+- https://www1.szu.edu.cn/board/print.asp?id=521477

@@ -1,0 +1,52 @@
+标题：第368条公告
+
+正文：
+关闭窗口
+｜
+打印张贴版
+【学术讲座】Cross-System Design for Metaverse in 6G
+电子与信息工程学院　2024/5/27 14:51:00
+讲座嘉宾：
+Changyang
+She教授
+Harbin Institute of Technology (Shenzhen)
+邀 请 人： 顾一帆助理教授
+时     间： 5月29日下午2:00
+地    点： 致信楼N308
+Abstract:
+As an emerging concept, the Metaverse has the potential to
+revolutionize the social interaction in the post-pandemic era by establishing a
+digital world for online education, remote healthcare, immersive business,
+intelligent transportation, and advanced manufacturing. The goal is ambitious,
+yet the methodologies and technologies to achieve the full vision of the
+Metaverse remain unclear. In this talk, I will first introduce the three
+infrastructure pillars that lay the foundation of the Metaverse, i.e.,
+human-computer interfaces, sensing and communication systems, and network
+architectures. By taking synchronization problem as an example, I will
+illustrate how to jointly design sampling, communications, and prediction. The
+goal is to minimize the required communication load to achieve a target
+synchronization accuracy. A constrained deep reinforcement learning algorithm
+is developed to solve this problem. We validate the effectiveness of the
+algorithm with real-world data obtained from our prototype. Finally, I will
+discuss how to extend the co-design method into more practical scenarios.
+Brief Biography:
+Dr. Changyang She received his B. Eng degree in Honors
+College of Beihang University, Beijing, China in 2012 and Ph.D. degree from the
+School of Electronics and Information Engineering of Beihang University in
+2017. From 2017 to 2018, he was a postdoctoral research fellow at the Singapore
+University of Technology and Design. From 2018 to 2021, he was a postdoctoral
+research associate at the University of Sydney. He is the recipient of the
+Australian Research Council (ARC) Discovery Early Career Research Award
+(DECRA). From 2021 to 2024, he served as the ARC DECRA fellow at the University
+of Sydney. Since 2024, he has joined Harbin Institute of Technology (Shenzhen).
+His research interests lie in the areas of ultra-reliable and low-latency
+communications (URLLC), deep learning in wireless communications, and
+interdisciplinary research in Metaverse.
+电子与信息工程学院
+2024年5月27日
+撰稿：高志杰　审核：周浩江
+（更新于2024/5/27 14:52:00）
+
+超链接：
+- javascript:window.close()
+- https://www1.szu.edu.cn/board/print.asp?id=522116

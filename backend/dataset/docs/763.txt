@@ -1,0 +1,33 @@
+标题：第763条公告
+
+正文：
+关闭窗口
+｜
+打印张贴版
+【学术讲座】 What Transactions Should Recorded in Blockchain...
+电子与信息工程学院　2022/12/12 14:39:00
+Title: What Transactions Should Recorded in Blockchain-based Federated Learning?
+讲座嘉宾
+：
+Yipeng Zhou  博士
+，
+Macquarie University, Australia
+邀 请 人
+：张胜利 教授
+报告时间
+：
+12
+月14日，周三10:00
+报告地点
+：致信楼N710
+Abstract: In federated learning (FL), clients can collaboratively train a machine learning model by only exposing their model parameters. Blockchain-based federated learning (BFL) upgraded from FL can record all intemediate computation results, e.g., model updates, into a blockchain so that the computation process is tracable and all intermediate computation results cannot be tampered. This talk will review the communication challenges in BFL and discuss how to diminish communication overhead of BFL by model compression to discard model updates of a small magnitude from BFL. Simulations with real-world datasets demonstrate that the communication cost can be sheer reduced by compression algorithms.  In the end, we also envision the future of BFL by exploring the possibility to record more valuable information into the blockchain.
+Bios:
+Dr Yipeng Zhou is a senior lecturer with School of Computing, Faculty of Science and Engineering at Macquarie University, Australia. He is the recipient of ARC Discover Early Career Researcher Award (DECRA) in 2018. He got his Ph.D. degree from Information Engineering Department of CUHK and Bachelor degree from Department of Computer Science and Technology of University of Science and Technology of China (USTC). His research interests lie in federated learning, privacy protection and  networking. He has published more than 90 papers including IEEE INFOCOM, ICNP, IWQoS, IEEE ToN, JSAC, TPDS, TMC, TMM, etc.
+欢迎各位师生积极参加！
+电子与信息工程学院
+2022年12月12日
+（更新于2022/12/12 14:41:00）
+
+超链接：
+- javascript:window.close()
+- https://www1.szu.edu.cn/board/print.asp?id=486534

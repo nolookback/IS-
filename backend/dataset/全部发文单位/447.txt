@@ -1,0 +1,47 @@
+标题：第447条公告
+
+正文：
+关闭窗口
+｜
+打印张贴版
+学术讲座（二十七）：正极材料表面结构调控及稳定性研究
+化学与环境工程学院　2024/4/10 12:39:00
+（钟沛基 2022280095）
+主讲人：
+曹安民研究员
+时间：
+4
+月
+11
+日上午
+9:
+00
+地点：丽湖校区守信楼
+420
+会议室
+报告人简介：
+2006
+年中科院化学所博士，
+2007
+年至
+2012
+年分别在美国匹兹堡大学、德州大学奥斯汀分校从事博士后研究，
+2012
+年加入中科院化学所任研究员。课题组工作聚焦于电极材料表界面调控，致力于纳米能源化学研究，获得兼具高比能、高功率、高稳定性的储能器件。
+讲座摘要
+：
+高比能量、高安全的电化学储能技术是清洁能源发展的重要方向，电极材料的稳定性和电池的安全性成为储能器件大规模应用的关键，电极材料表面结构及功能对电池的稳定性、安全性具有决定性影响。课题组工作聚焦于电极材料表面层结构的精准调控，探讨电极材料的失稳机制及稳定途径，以获得具有大规模应用前景的稳定工艺及电极材料。在近期的研究中，我们立足于湿化学法在正极材料表面构筑纳米均匀包覆层，结合后期包覆层向正极材料的热注入控制，实现正极表层晶格的重构，以此调控高比能正极材料的表面属性并优化其电化学性功能。这种表层晶格重构的处理工艺在稳定高镍三元正极
+[1]
+、提升全固态电池正极界面
+[2]
+等不同过程中均展现了显著的效果。
+参考文献
+：
+[1] Hong-Sheng Zhang, Xin-Cheng Lei, Dong Su, Si-Jie Guo, Jia-Cheng Zhu, Xue-Feng Wang, Xing Zhang, Ting-Ting Wu, Si-Qi Lu, Yu-Tao Li, An-Min Cao*, Angew Chem Int Ed. 2024 10.1002/anie.202400562
+[2] Si-Qi Lu, Qinghua Zhang, Fanqi Meng, Ya-Ning Liu, Jianjun Mao, Sijie Guo Sijie Guo, Mu-Yao Qi, Yan-Song Xu, Yan Qiao, Si-Dong Zhang, Kecheng Jiang, Lin Gu, Yang Xia, Shuguang Chen, GuanHua Chen, An-Min Cao*, and Li-Jun Wan*, J. Am. Chem. Soc. 2023, 145, 13, 7397
+欢迎有兴趣的师生参加！
+撰稿：郭凯　审核：何传新
+
+超链接：
+- javascript:window.close()
+- https://www1.szu.edu.cn/board/print.asp?id=517646

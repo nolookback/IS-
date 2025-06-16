@@ -1,0 +1,271 @@
+标题：第1022条公告
+
+正文：
+关闭窗口
+｜
+打印张贴版
+绿色能源系统研究系列讲座-日本北海道大学Katsunori Nagano教授系列学术讲座
+土木与交通工程学院　2021/10/12 11:07:00
+College of Civil and Transportation Engineering
+Series of Lectures on Green Energy System Research
+——
+Series of Academic Lectures of Prof. Katsunori Nagano, Hokkaido University, Japan
+报告人
+：长野克则，日本北海道大学教授
+Reporter
+: Katsunori Nagano,Professor
+of Hokkaido University
+报告背景：
+依托国家重点研发计划中日国际合作项目《基于石墨烯
+/
+碳纤维改性水泥基材料和绿色能源综合应用技术的环境自适应型道路体系研究》，邀请日本北海道大学长野克则教授开展系列学术讲座。此次学术系列报告将着重介绍报告人对绿色能源系统的研究，主要涉及到提高能源利用效率、降低系统寿命周期成本的创新技术、以及绿色能源循环系统的温度监控预测数值模型。
+Report background:
+Relying on the
+national key research and development plan Sino-Japanese international
+cooperation project "Research on Environmentally Adaptive Road System
+Based on Graphene/Carbon Fiber Modified Cementitous Materials and Green Energy
+Comprehensive Application Technology", Pro. Katsunori Nagano, Hokkaido
+University, Japan was invited to carry out the series academic lectures. This
+academic report series will focus on the reporter's research on the green
+energy system, mainly referred to innovative technologies that improve energy
+efficiency and reduce system life cycle costs, and the temperature monitoring
+and prediction numerical model of the green energy cycle system.
+报告人简历
+：
+长野克则，日本北海道大学工学院环境工程系教授，哈尔滨工业大学客座教授。现担任北海道大学校长助理、日本热泵与热能储存中心技术
+(HPTC)
+主任、新能源引进咨询委员会主席等职务。长野克则长期从事绿色能源系统的技术设计与建模仿真工作，近
+5
+年主持
+5
+项
+日本学术振兴会（
+JSPS
+）科学基金
+，申请
+33
+项专利，发表论文
+165
+篇，其中
+SCI
+论文
+60
+余篇，并获各项科技奖励
+17
+项，是一位太阳能热利用、蓄热、地源热泵技术应用方面的国际知名专家。
+Resume of the
+reporter:
+Katsunori Nagano,
+Professor of Faculty of Engineering,
+Division of Environmental Engineering, Hokkaido University, Japan, Visiting
+Professor of Harbin Institute of Technology. He currently severs as assistant
+president of Hokkaido University, Chair of Research Group of Heat Pump System
+and Ground Thermal Energy System in Heat Pump & Thermal Energy Storage
+Center Technology of Japan (HPTC), Chairman of New Energy Introduction advisory
+board of Date-City. Katsunori Nagano has been engaged in the technical design
+and  simulated modeling of green energy
+system. In the past 5 years, he has presided over 5 scientific foundations of
+the Japan Society for the Promotion of Science (JSPS), applied for 33
+industrial property rights, published 165 papers, including more than 60 SCI
+papers, and won 17 scientific and technological awards. He is an
+internationally renowned expert in solar thermal utilization, heat storage, and
+ground source heat pump technology applications.
+地点：
+线上 会议
+Zoom Meeting ID: 967
+2275 2003 Passcode: 2mwLAh
+Venue:
+Online Meeting Zoom Meeting ID: 967 2275 2003 Passcode:
+2mwLAh
+讲座内容
+/
+时间：
+报告
+报告内容
+时间
+报告
+1
+融雪化冰系统概述
+2021
+年
+10
+月
+14
+日，星期四，
+17:00-18:30
+报告
+2
+融雪化冰系统设计方法
+2021
+年
+10
+月
+21
+日，星期四，
+17:00-18:30
+报告
+3
+利用可再生热源的融雪系统设计方法
+2021
+年
+10
+月
+28
+日，星期四，
+17:00-18:30
+报告
+4
+混凝土和土壤的热性能及有效导热系数的提高
+2021
+年
+11
+月
+4
+日，星期四，
+17:00-18:30
+报告
+5
+传热传质现象固体中的多孔介质和传热溶液
+2021
+年
+11
+月
+11
+日，星期四，
+17:00-18:30
+报告
+6
+热泵的特性与性能
+2021
+年
+11
+月
+18
+日，星期四，
+17:00-18:30
+报告
+7
+地源热泵融雪系统集成模拟器开发
+2021
+年
+11
+月
+25
+日，星期四，
+17:00-18:30
+报告
+8
+基于
+ANSYS/Fluent
+软件的固体瞬态传热数值仿真（一）：固体二维传热建模
+2021
+年
+12
+月
+2
+日，星期四，
+17:00-18:30
+报告
+9
+基于
+ANSYS/Fluent
+软件的固体瞬态传热数值仿真（二）：融雪路基二维传热建模
+2021
+年
+12
+月
+9
+日，星期四，
+17:00-18:30
+报告
+10
+基于
+ANSYS/Fluent
+软件的进行固体瞬态传热数值计算技术（三）：融雪系统模拟器
+2021
+年
+12
+月
+16
+日，星期四，
+17:00-18:30
+Lecture Content/ Time:
+Lectures
+Content
+Time
+Lecture 1
+Overview of Snow Melting and Deicing
+System
+14
+th
+,
+Oct. 2021, Thur., 17:00-18:30
+Lecture 2
+Design Methodology
+of Snow Melting and Deicing System
+21
+st
+,
+Oct. 2021, Thur., 17:00-18:30
+Lecture 3
+Design methods of the use of renewable heat
+sources for snow melting system
+2
+8
+th
+, Oct.
+2021, Thur., 17:00-18:30
+Lecture 4
+Thermal properties of concrete and soil, and
+enhancement of effective thermal conductivity
+4
+th
+Nov. 2021, Thur., 17:00-18:30
+Lecture 5
+Heat and mass transfer phenomena the porous
+medium and solution of heat transfer in the solid
+11
+th
+,
+Nov. 2021, Thur., 17:00-18:30
+Lecture 6
+Characteristic and performance of Heat Pump
+18
+th
+,
+Nov. 2021, Thur., 17:00-18:30
+Lecture 7
+Development of an integrated simulator of snow
+melting system using ground source heat pump
+25
+th
+,
+Nov. 2021, Thur., 17:00-18:30
+Lecture 8
+Numerical calculation technique of the
+transient heat transfer in the solid using ANSYS/Fluent software (1): 2D heat
+transfer modeling in the solid
+2
+nd
+,
+Dec. 2021, Thur., 17:00-18:30
+Lecture 9
+Numerical calculation technique of the
+transient heat transfer in the solid using ANSYS/Fluent software (2): 2D heat
+transfer modeling for snow melting roadbed
+9
+th
+,
+Dec. 2021, Thur., 17:00-18:30
+Lecture 10
+Numerical calculation technique of the
+transient heat transfer in the solid using ANSYS/Fluent software (3):
+simulator of snow melting system
+16
+th
+,
+Dec. 2021, Thur., 17:00-18:30
+
+超链接：
+- javascript:window.close()
+- https://www1.szu.edu.cn/board/print.asp?id=459280

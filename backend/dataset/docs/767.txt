@@ -1,0 +1,36 @@
+标题：第767条公告
+
+正文：
+关闭窗口
+｜
+打印张贴版
+学术讲座（三十三）：The puzzle of magnetic field enhanced water oxidat
+化学与环境工程学院　2022/12/7 10:23:00
+The puzzle of magnetic field enhanced water oxidation
+Oxygen Electrocatalysis by Transition Metal Spinel Oxides
+主讲人：
+徐梽川
+教授
+时间：
+12
+月
+8日上午9:30
+地点：腾讯会议（
+ID：
+726 431 428
+）
+报告人简介
+：
+Zhichuan is a professor in the School of Materials Science and Engineering, Nanyang Technological University (NTU) and a Fellow of the Academy of Engineering, Singapore. He serves as the director of the Centre of Advanced Catalysis Science and Technology, and the deputy director of CN Yang programme, NTU. He received his PhD degree in Electroanalytical Chemistry and B.S. degree in Chemistry from Lanzhou University, China. His PhD training was received in Lanzhou University, Institute of Physics, CAS, and Brown University. He worked in State University of New York at Binghamton as a Research Associate and then in Massachusetts Institute of Technology as a Postdoctoral Researcher. Dr. Xu has received several awards such as Chun-Tsung Endowment Outstanding Contribution Award-Excellent Scholar at 2018 and the Zhaowu Tian Prize for Energy Electrochemistry by International Society of Electrochemistry (ISE) in 2019. Dr. Xu is a member of the International Society of Electrochemistry (ISE), The Electrochemistry Society (ECS), and the American Association for the Advancement of Science (AAAS). He was awarded Fellow of Royal Society of Chemistry (FRSC) on Nov. 2017. He served as the president of ECS Singapore Section. Dr. Xu is a Highly Cited Researcher by Clarivate Analytics, Web of Science since 2018.
+讲座摘要：
+Applying an external magnetic field to electrochemical reactions is recently an interesting topic among the electrocatalysis community. Earlier studies have shown that the water oxidation reaction (also called oxygen evolution reaction, OER) can be promoted by an external magnetic field through the promoted bubble removal on the electrode surface. However, that is for the case under the high overpotential and high current applied. In 2019, it has been reported that the promotion of OER in alkaline by applying the field is related to the magnetism of the electrode materials. On the other hand, theoretically, the OER needs to consider the triplet O2 formation, which involves the spin-polarized electron transfer. The spin-polarized electron transfer can be achieved by ferro(i) magnetic catalysts, however, which may not be easily proved experimentally. That is because in principle, an external magnetic field is not necessary for spin-polarized electron transfer on ferro(i)magnetic materials. It is also unclear about the reaction pathways with a consideration of spin-polarized electron transfer. The pH dependent enhancement has further generated confusion about the relation between magnetic field enhanced OER and the theoretical expectation. In addition, some magnetic catalysts do not exhibit any improvement under the magnetic field. All these phenomena have created a scientific puzzle, appealing to the community. In this talk, I will briefly discuss the progress of this field and several important experimental findings for solving the puzzle. The critical roles of magnetization, pinning effect, and pH dependent increment will be discussed in detail.
+欢迎
+有
+兴趣的
+师生
+参加！
+（更新于2022/12/7 14:12:00）
+
+超链接：
+- javascript:window.close()
+- https://www1.szu.edu.cn/board/print.asp?id=486320

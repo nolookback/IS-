@@ -1,0 +1,55 @@
+标题：第104条公告
+
+正文：
+关闭窗口
+｜
+打印张贴版
+学术讲座（六）：Modelling of Microcirculatory Blood Flow – Transport Dynamics of Red Blood Cells
+化学与环境工程学院　2025/1/14 14:38:00
+（钟沛基 2022280095）
+主讲人：
+周琦博士
+时间：
+1
+月
+20
+日
+下
+午
+15:00
+地点：
+丽湖校区守信楼
+420
+会议室
+报告人简介：
+周琦，爱丁堡大学医学院讲师、博导，英国皇家学会认证全球人才计划持有者。分别于华中科技大学和香港大学获得工程学士及哲学硕士
+(
+全奖
+)
+学位，涉足理论流体力学与电动微流体领域。而后在香港中文大学机械与自动化工程学系担任研究助理，转向仿生磁控器件和生物医药微纳米机器人的研究。之后于赴爱丁堡大学工程学院攻读博士
+(
+全奖
+)
+、博士后，从事计算流体、数字孪生、生物物理与生命科学等交叉学科研究，主攻方向包括红细胞动力学、血液微循环系统以及新型微流控设备。迄今已在
+Science Robotics, Royal Society Interface, Cell Reports Physical Science, Advanced Functional Materials
+等国际知名期刊发表
+SCI
+论文
+18
+篇
+(
+包括四次杂志封面
+)
+，研究工作多次被国外学术机构、新闻媒体报道。曾获世界生物力学大会青年学者研究奖入围；国际纯粹与应用生物物理联盟暨欧洲生物物理协会代表大会最佳海报报告奖；电气电子工程师协会机器人与仿生学会议最佳论文奖入围等学术荣誉。
+报告摘要
+：
+Red blood cells (RBCs) are essential in delivering oxygen to tissues and organs across intricate networks of small vessels or narrow passages. Notwithstanding decades-long research, it remains elusive until recently how the transport dynamics of RBCs can mechanistically contribute to the pathophysiology of microcirculatory disorders, either through modulating the haematocrit distribution or wall shear stress patterning. This talk will introduce the key findings of our recent modelling works based on hamster capillaries [1], mouse retina [2] and human placenta [3], respectively. Through combining cell-resolved mesoscopic simulations with imaging data of animal models or biological tissues, we have qualitatively and quantitatively investigated the RBC behaviour in a range of vascular/extravascular environments including capillary-level bifurcations, microvascular networks and porous media. Our studies provide potential mechanisms for hindered microcirculatory blood flow under pathological conditions where the RBC stiffness or vascular morphology have markedly altered.
+[1] Rashidi, Simionato, Zhou et al., Biophysical Journal 122: 2561-2573, 2023
+[2] Zhou et al., Journal of the Royal Society Interface 18: 20210113, 2021
+[3] Zhou et al., Interface Focus 12:20220037, 2022
+欢迎有兴趣的师生参加！
+撰稿：郭凯　审核：何传新
+
+超链接：
+- javascript:window.close()
+- https://www1.szu.edu.cn/board/print.asp?id=540830

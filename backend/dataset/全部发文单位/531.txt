@@ -1,0 +1,21 @@
+标题：第531条公告
+
+正文：
+关闭窗口
+｜
+打印张贴版
+学术讲座：对SQL重写优化及其等价性问题的重新思考
+计算机与软件学院　2024/1/4 17:23:00
+（钟沛基 2022280095）
+报告时间：2024年1月5日（周五）15：00
+报告地点：深圳大学粤海校区南区致真楼 L6-705
+主讲人：上海交通大学 王肇国
+演讲摘要：本次报告，讲者将向大家介绍近期在SQL重写优化方向的一些思考与研究进展。SQL重写优化是指对SQL查询语句进行改写或优化，以提高查询性能和效率，在数据库系统中扮演着重要的角色。本次报告将从Web场景切入，对传统SQL重写优化方法进行大胆探究，具体包含两个部分：第一部分将介绍我们最近构建的新型SQL重写优化系统WeTune，它借鉴了超优化（super optimization）思想，通过暴力枚举与形式化方法相结合，根据应用需求自动生成SQL重写规则，可以有效提高Web应用中SQL的重写效率；第二部分将介绍我们最近提出的SQL等价性验证新理论Lia*-T，并在此基础上构建了新型SQL等价性验证器SQLSolver，最后，通过将SQLSolver与WeTune相结合，超大幅度地提高了WeTune的合成SQL重写规则的能力。关工作被SIGMOD’22、SIGMOD’24录用并开源，目前正在落地至GuassDB等商业数据库中。
+讲者简介：王肇国，上海交通大学长聘教轨副教授，博导，软件学院副院长，重点研发项目负责人。曾任纽约大学助理教授（非长聘教轨）。主要从事数据库与分布式系统方面研究，相关成果发表在OSDI、SIGMOD、VLDB、NSDI、PPoPP、PODC等相关领域权威会议上。曾获2023 SIGMOD研究亮点奖、SIGMOD 2022最佳论文优胜奖（Honorable Mention）、APSys 2017最佳论文奖、ACM ChinaSys新星奖、华为奥林帕斯先锋奖，以及两次华为火花奖。主要学术兼职包括OpenHarmony技术指导委员会智能数据管理TSG负责人、 ACM SIGOPS China秘书长、CCF数据库、系统软件、高性能专委会执行委员、Frontiers of Computer Science预备青年编委、ACM SIGOPS指定编辑，也是ChinaSys学术开源创新平台的主要发起人。曾受邀担任第20届ACM ChinaSys大会联合主席、第22届ACM ChinaSys程序委员会联合主席、ACM APSys 2018宣传主席，以及EuroSys 2025、NSDI 2024、SOCC 2024、IEEE ICDCS 2019/2023、IEEE Cluster 2021等国际会议的程序委员会成员。
+      欢迎广大师生参加！
+计算机与软件学院
+2024年1月4日
+
+超链接：
+- javascript:window.close()
+- https://www1.szu.edu.cn/board/print.asp?id=512181

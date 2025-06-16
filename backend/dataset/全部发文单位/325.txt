@@ -1,0 +1,119 @@
+标题：第325条公告
+
+正文：
+关闭窗口
+｜
+打印张贴版
+学术讲座： AI驱动下的智能机器人控制
+机电与控制工程学院　2024/6/26 10:26:00
+（钟沛基 2022280095）
+讲座题目：
+AI
+驱动下的智能机器人控制
+演讲嘉宾：
+S
+huzhi
+ S
+am
+ Ge
+新加坡工程院院士
+讲座时间：
+2
+024
+年
+6
+月
+2
+7
+日（星期
+四
+）
+10
+点
+讲座地点：深圳大学南校区机电大楼
+S512
+会议室
+邀请人：
+白小山副教授
+讲座内容简介：
+The field of AI-driven intelligent
+autonomous robotics is rapidly evolving
+by blending sophisticated control strategies with cutting-edge machine learning techniques to push the boundaries of what robotic systems can achieve forward. This lecture delves into the journey of AI and robotics research from its inception to the present day, highlighting key developments and methodologies that have shaped the landscape of autonomous robotics. By highlighting key technologies, industry applications, and ground-breaking projects in intelligent control and AI-driven robotics, we demonstrate our tangible and impactful works including physics driven adaptive neural network control,  Barrier Lyapunov Function based control, optimized backstepping, and safe BLF-based reinforcement learning, and illustrate the depth of research and efforts required to advance autonomous robotics.
+We
+aim to work together with the forever young and energetic researchers to pursue excellence and innovation in this dynamic and impactful field of a future where AI and robotics seamlessly fused to address complex challenges for better humanity.
+通过将复杂的控制策略与最先进的机器学习技术相结合，
+AI
+驱动的智能自主机器人领域正迅速发展，
+并不断拓展
+机器人系统
+的
+能力。本次讲座探讨了从
+AI
+和机器人研究的起源到现今的发展历程，重点介绍了塑造自主机器人领域的关键发展和方法。通过突出智能控制和
+AI
+驱动机器人技术的关键技术、行业应用和突破性项目，我们展示了
+课题组前期
+有形且有影响力的工作
+：
+包括物理驱动的自适应神经网络控制、基于
+Barrier Lyapunov
+函数的控制、优化反步法以及基于安全
+BLF
+的强化学习，并展示了推进自主机器人所需的深度研究和努力。我们旨在与
+永葆青春和活力的研究人员共同努力，在这一充满活力和影响力的领域追求卓越和创新，展望一个
+AI
+和机器人无缝融合以解决复杂挑战、造福人类的未来。
+演讲嘉宾简介：
+葛树志，新加坡工程院院士、知名学者讲座教授、海外杰青，青岛大学未来研究院发起人，
+IEEE Fellow
+，新加坡国立大学电气与计算机工程系终身教授，新加坡国立大学互动数字媒体研究院社会机器人实验室主任，我国海外高层次人才引进计划入选者。美国电子电器工程师学会控制系统协会的副主席，曾多次担任
+IEEE
+国际会议大会主席和程序主席，并多次受邀做国际会议大会报告。任诸多控制领域权威期刊的副主编，包括《
+IEEE
+自动控制》，《
+IEEE
+控制系统技术》，《
+IEEE
+神经网络》，《
+Automatica
+》等。任国际期刊《社会机器人》
+(
+施普林格出版社
+)
+创始人兼总编，及
+Taylor&Francis/CRCPress
+自动化与控制工程系列图书编辑。葛树志教授主要从事机器人系统、非线性控制、智能控制系统及其工业应用的研究与开发，并做出了大量创新性的成果。已完成学术专著
+3
+部
+;
+在国际期刊、会议发表高水平学术论文
+300
+余篇，其中被
+SCI
+收录
+143
+篇，
+SCI
+他引
+929
+次，最高
+SCI
+单篇他引
+68
+次
+;
+注册多项技术专利。承担并成功完成过数百万新币的横跨大学、研究所以及工业界的目，其中包括自主机器人及其智能控制、城区自主智能机器人、水下机器人、社会机器人、海底
+平台安装控制等。
+2002
+年荣获新加坡国防科学与技术部淡马锡青年研究奖，
+2001
+年荣获新加坡国立大学杰出青年研究奖，
+1999
+年荣获新加坡国家科技奖。
+欢迎大家参加！
+撰稿：白小山　审核：马将
+（更新于2024/6/26 17:17:00）
+
+超链接：
+- javascript:window.close()
+- https://www1.szu.edu.cn/board/print.asp?id=525267

@@ -1,0 +1,77 @@
+标题：第285条公告
+
+正文：
+关闭窗口
+｜
+打印张贴版
+【40周年院庆系列活动】之学术活动第38场暨2024深圳大学工业化建造与绿色安全运维系列学术讲座第7场——既有建筑节能改造中的质·量问题
+土木与交通工程学院　2024/8/27 11:20:00
+讲座题目：
+既有建筑节能改造中的质·量问题
+英文题目：
+Quality-Quantity Issues in Energy-Efficient
+Retrofitting of Existing Buildings
+报告人：
+南京工业大学
+颜承初
+教授
+Chengchu Yan,
+Professor, Nanjing Tech University
+讲座时间：
+2024
+年
+8
+月
+27
+日（星期二）
+14:00-16:00
+讲座地点：
+深圳大学沧海校区致工楼二楼
+BIM
+会议室
+报告人简介：
+南京工业大学教授，院长，江苏省制冷学会青年委员会主任、《南京工业大学学报》编委。发表论文
+70
+余篇，授权专利
+20
+余项，主持国家、省
+/
+部、校企合作項目
+10
+余项；获省部级科技进步奖
+2
+项；承担
+20
+余项建筑节能的项目，平均节能率为
+20~25%
+。
+Prof. Chengchu Yan, the
+Dean of the School of Urban Construction at Nanjing Tech University, is the
+Chair of the Youth Committee of the Jiangsu Refrigeration Society and an
+editorial board member of the Journal of Nanjing Tech University. He has
+published over 70 papers with over 20 authorized patents. Professor Yan has led
+more than 10 national, provincial/ministerial, and university-industry
+collaboration projects, and has received two provincial and ministerial science
+and technology progress awards. He has also undertaken more than 20 building
+energy efficiency projects, including the tallest building in Hong Kong, the
+International Commerce Centre (ICC), and the Qianhai Central Cooling Station in
+Shenzhen, achieving an average energy savings rate of 20-25%.
+报告摘要：
+大部分既有建筑能耗高、浪费大，且个体差异大、用能状况不清、浪费原因不明，给节能改造带来巨大挑战。本讲座对既有建筑节能改造过程中经常面临的数据量少和数据质量差两种典型问题进行分析和探讨，介绍“基于电费单智能拆分的建筑能效快速评估技术”以及“高效机房多传感器互校准技术”，为既有建筑节能改造提供可靠、详实的数据基础及技术方案。
+Most of the existing
+buildings have high energy consumption and high wastage, with large individual
+differences, unclear energy consumption status and unknown reasons for wastage,
+which bring great challenges to energy-saving renovation. This seminar analyzes
+and discusses the typical problems of low data quantity and poor data quality
+that are often faced in the process of energy-saving renovation of existing
+buildings, and introduces the “Building Energy Efficiency Rapid Evaluation
+Technology Based on Intelligent Splitting of Electricity Bills” and the
+“High-Efficiency Server Room Multi-Sensor Intercalibration Technology”, which
+provide a reliable and detailed data basis and technical solutions for the
+energy-saving renovation of existing buildings.
+撰稿：范成　审核：包小华
+（更新于2024/8/27 11:21:00）
+
+超链接：
+- javascript:window.close()
+- https://www1.szu.edu.cn/board/print.asp?id=528681

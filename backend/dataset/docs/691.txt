@@ -1,0 +1,56 @@
+标题：第691条公告
+
+正文：
+关闭窗口
+｜
+打印张贴版
+【学术讲座】Image quality assessment of light field image
+电子与信息工程学院　2023/10/13 10:28:00
+讲座嘉宾：
+Dr.
+张正宇
+法国 INSA RENNES
+邀 请 人：田时舜 助理
+教授
+时  间：
+10月16日 14:00-16:00
+地  点：
+致信楼N723
+Author
+introduction:
+Zhengyu Zhang received the B.E.
+degree in electronic and information science and technology from Guangzhou
+University, Guangzhou, China, and the M.E. degree in electronics and
+communication engineering from Shenzhen University, Shenzhen, China, in 2018
+and 2021, respectively. He is currently pursuing the Ph.D. degree with the
+National Institute of Applied Sciences, Rennes, France, and also with the
+Institute of Electronics and Digital Technologies Laboratory. His research
+interests include image/video quality assessment, visual perception, and deep
+learning.
+Abstract:
+Light Field Image (LFI) has
+garnered remarkable interest and fascination due to its burgeoning significance
+in immersive applications. Although the abundant information in LFI enables a
+more immersive experience, it also poses a great challenge for the quality assessment
+of LFI, especially when the reference information is inaccessible. This work is
+dedicated to better evaluate the LFI quality in immersive multimedia. It can be
+divided into three parts. Firstly, we propose a No-Reference (NR) metric based
+on handcrafted features. This metric performs quality assessment by exploiting
+the spatio-angular textural variations of the distorted LFI. Then, we propose
+three NR metrics using deep-learning-based technologies. The principle of the
+first metric DeeBLiF is to divide LFI into multiple 2D patches and evaluate
+their quality via a Convolutional Neural Network (CNN) model. The overall LFI
+quality is obtained by averaging the patch quality. The second metric PVBLiF,
+we improve DeeBLiF by utilizing 3D Pseudo Video Block Sequences (PVBSs) and
+performing pooling operation according to their saliency and variances. The
+third metric ASEM-BLiF designs a novel framework to effectively model the
+angular-spatial effect, which addresses the imbalance problem between angular and
+spatial information in LFI. In the last part, we will present our understanding
+and prospects for future researches on LFI.
+电子与信息工程学院
+2023年10月13日
+（更新于2023/10/13 10:36:00）
+
+超链接：
+- javascript:window.close()
+- https://www1.szu.edu.cn/board/print.asp?id=504714

@@ -1,0 +1,67 @@
+标题：第313条公告
+
+正文：
+关闭窗口
+｜
+打印张贴版
+【学术讲座】Construction and Application of Power Safety Knowledge Graph Based on Accident Events
+电子与信息工程学院　2024/7/9 15:35:00
+（钟沛基 2022280095）
+嘉  宾：
+Dr. Y.M. Tang
+, The Hong Kong Polytechnic University
+邀 请人：
+张勇
+教授
+时  间：
+202
+4
+年
+7
+月
+13
+日
+17
+：
+00
+地  点：
+深圳大学汇星楼
+150
+2
+摘要：
+Under
+the background of electric power safety production, the frequent occurrence of
+electric power accidents not only causes huge loss of life and property to the
+employees of electric power production, but also poses a serious threat to the
+stable operation of electric power system. In order to effectively prevent the
+occurrence of accidents, it is very important to analyze the causes of
+accidents deeply. However, due to the lack of structured processing of
+traditional accident data, it is difficult to support the in-depth cause
+analysis and the formulation of prevention strategies. In view of this, this presentation
+and workshop will aim to how to build a knowledge graph based on power accident
+events, which aims to transform unstructured accident event data into
+structured knowledge that can be calculated and queried, and assist accident
+prevention through intelligent analysis. Therefore, this presentation will
+introduce the relevant methods of deep learning to build the power safety
+knowledge graph, conducts in-depth research and analysis on the named entity
+recognition model and relationship extraction model involved in the
+construction of the power safety knowledge graph, and correlates the knowledge
+of related fields to build the power safety knowledge graph.
+嘉宾个人简介：
+Dr. YM Tang
+ received his B.Eng. and
+M.Phil. from CUHK. He was awarded a Ph.D. degree from the same university.
+Currently, he is a Senior Teaching Fellow in the Department of Industrial and
+Systems Engineering, PolyU. Dr. Tang is the Lab-in-charge of Integrated Product
+Design (IPD) in the department. His research interests include virtual reality
+(VR)/ mixed reality (MR), artificial intelligence (AI), blockchain technology,
+digital twin, sustainable technology in industry 4.0 and healthcare
+applications. Dr. Tang has published over 10 books/ book chapters and over 60
+renowned journal articles.
+电子与信息工程学院
+2024年7月8日
+撰稿：高志杰　审核：周浩江
+
+超链接：
+- javascript:window.close()
+- https://www1.szu.edu.cn/board/print.asp?id=526592

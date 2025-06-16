@@ -1,0 +1,37 @@
+标题：第289条公告
+
+正文：
+关闭窗口
+｜
+打印张贴版
+【学术讲座】Distance Tolerant Wireless Power Transfer System Based on Rectifying Metasurface and Fabry-Perot Cavity
+电子与信息工程学院　2024/8/27 10:46:00
+报告题目：
+Distance Tolerant Wireless Power Transfer System Based on Rectifying Metasurface and Fabry-Perot Cavity
+报告人：陆贵文教授，
+香港城市大学
+邀请人：孙宇祥
+助理教授
+报告时间：
+2024
+年
+8
+月
+30
+日，星期五，
+10:50-11:30
+报告地点：致信楼
+N107
+报告厅
+报告摘要：
+This presentation introduces a novel Wireless Power Transfer system designed explicitly for distance-tolerant and angle-insensitive. The system incorporates a Fabry-Perot Cavity (FPC) and a Rectifying Metasurface (ReMS), effectively addressing the challenge of maintaining stable Direct Current (DC) output power across varying distances. The FPC antenna serves as the transmitter, while the ReMS, as one layer of the multi-layer FPC, combines the functionalities of a receiver and rectifier. The ReMS captures Radio Frequency (RF) energy from various incident angles through its top surface's cross dipoles. Its bottom rectification network is designed based on the performance of the FPC antenna, aiming to improve the efficiency of RF-to-DC conversion. Comprising 64 cells, the ReMS achieves an energy harvesting efficiency of up to 95% at various incident angles. Additionally, the rectifier's design has been validated with a peak rectifying efficiency of 63%. Prototype results indicate that the system, at an average unit input power of 10 dBm, attains considerably stable DC output power over a range of distances, with a total efficiency of approximately 40%-50%. The outcomes of this work lay the groundwork for developing self-powered units with wireless transmission capabilities, ideal for intelligent devices subject to frequent locational changes.
+报告人简历：
+Professor Luk is specialized in Applied Electromagnetics and Microwave Engineering. He received his Bachelor's and Ph.D. degrees from University of Hong Kong and worked at Chinese University of Hong Kong for 4 years. He has held his Chair Professorship at City University of Hong Kong since 1999.
+He is a Fellow of the Royal Academy of Engineering and a Fellow of the Hong Kong Academy of Engineering Sciences. He is also a Fellow of IEEE, HKIE, CIE, IET, and the Electromagnetic Academy. He received the 2001 Croucher Award, the 2011 State Technological Invention Award (2nd Prize), the 2017 IEEE APS John Kraus Antenna Award, 2019 Ho Leung Ho Lee Science and Technology Prize and the 2022 Guanghua Engineering Prize.
+He is the Principal Coordinator of an Area of Excellence Project entitled: “Advanced antenna Technology for a smart world”, awarded by the Research Grant Council of Hong Kong.
+He served as Chair of the Best Paper Award Committee, Chair of the Field Award Committee, Chair of Distinguished Lecturer Program Committee, and Elected Member of the Administrative Committee of the IEEE Antennas and Propagation Society. He is the Fellow Committee Chair of the Electromagnetic Academy and a Deputy Editor-in-Chief of PIERS Journals.
+撰稿：黄泽端　审核：周浩江
+
+超链接：
+- javascript:window.close()
+- https://www1.szu.edu.cn/board/print.asp?id=528674

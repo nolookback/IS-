@@ -1,0 +1,61 @@
+标题：第1070条公告
+
+正文：
+关闭窗口
+｜
+打印张贴版
+Asoke K. Nandi 院士工作站学术讲座通知
+计算机与软件学院　2021/5/28 9:35:00
+报告题目
+：
+Degree Estimation from Noisy Polynomial Data
+via Time-series Modelling
+报告时间
+：
+5
+月
+28
+日晚
+20:00
+–
+21:30
+地点
+：
+Zoom
+线上会议报告
+Zoom
+链接：
+https://us05web.zoom.us/j/85994903762?pwd=TEI1eGQ3VHZqRlVxWWx2WVNwSUFwUT09
+Zoom Meeting ID: 859 9490 3762
+Zoom Meeting Passcode: c6YNdv
+报告摘要：
+This lecture has particular relevance to
+data science (mathematics, computer science, and electrical engineering). It is
+based on refereed research results that have been published very recently,
+i.e., over the last 12 months. It is relevant for polynomial regression. An
+accurate estimation of the polynomial degree is essential for better detection,
+estimation, and prediction. This will demonstrate how the degree of a
+polynomial can be estimated in a completely novel way and more successfully. The
+starting point is uniformly sampled polynomial data, when the degree and the
+coefficients of the polynomial are unknown. The first part deals with
+noise-free data, while the second part deals with noisy data.
+报告人简介：
+Asoke K. Nandi
+教授，英国皇家工程院院士，英国剑桥大学（三一学院）博士，美国电气研究所和电子工程师协会会士（
+IEEE fellow
+）。他曾在英国牛津大学，伦敦帝国理工学院，斯特拉斯克莱德，利物浦以及芬兰等担任教授职位。
+2013
+年起，在布鲁内尔大学担任电子与计算机工程系的系主任。
+欢迎广大师生参加！
+计算机与软件学院
+2021
+年
+5
+月
+28
+日
+（更新于2021/5/28 10:55:00）
+
+超链接：
+- javascript:window.close()
+- https://www1.szu.edu.cn/board/print.asp?id=451704

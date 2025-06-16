@@ -1,0 +1,36 @@
+标题：第565条公告
+
+正文：
+关闭窗口
+｜
+打印张贴版
+学术讲座（一百零五）：Photoexcitation of Complex Molecular Systems through Combined First Principles Simulations and Data-Driven Ap
+化学与环境工程学院　2023/12/12 17:33:00
+Photoexcitation of Complex Molecular Systems through Combined First Principles Simulations and Data-Driven Approaches
+主讲人：
+Sijia Dong
+副教授
+时间：
+12
+月
+15
+日
+下
+午
+1
+5:0
+0
+地点：丽湖校区守信楼
+518
+会议室
+报告人简介：
+Prof. Dong is passionate about accelerating science using computation and automation. She received her PhD in Chemistry from California Institute of Technology in 2017, advised by Prof. William A. Goddard III, with whom and Dr. Ravinder Abrol she developed a first-principles-based and data-driven computational method to predict the structures of proteins that are crucial drug targets for many diseases. She carried out her postdoctoral research at the University of Minnesota with Prof. Donald G. Truhlar and Prof. Laura Gagliardi, and then at Argonne National Laboratory with Prof. Giulia Galli. Her postdoctoral work was to use and develop quantum chemical methods and workflows to study the photochemistry of molecules and materials in light-harvesting systems, and to use machine learning to accelerate quantum chemical methods.
+报告
+摘要
+：
+Accurate simulations of the electronic excited states of complex molecular systems are critical in the development of photocatalysts and other systems important in energy and biomedical applications, but such simulations have been challenging due to their prohibitive computational costs. In this talk, we discuss our work on using machine learning and automation to accelerate electronic structure theory, including many-body perturbation theory and multireference methods, by 10 times or more. We also showcase our recent work that pioneers the computational understanding of photoenzymes, a new class of photoredox catalysts repurposed from non-photo-driven natural enzymes for non-natural asymmetric radical reactions difficult to achieve by small-molecule catalysts.
+欢迎有兴趣的师生参加！
+
+超链接：
+- javascript:window.close()
+- https://www1.szu.edu.cn/board/print.asp?id=510703

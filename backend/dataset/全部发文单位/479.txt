@@ -1,0 +1,28 @@
+标题：第479条公告
+
+正文：
+关闭窗口
+｜
+打印张贴版
+【学术讲座】Using computational models to study neural processing of natural language
+心理学院　2024/3/19 13:43:00
+（钟沛基 2022280095）
+讲座名称：
+Using computational models to study neural processing of natural language
+讲座时间：
+深圳大学致理楼C座L3-1201
+讲座地点：
+2024年3月22日 星期五 下午15:00-16:00
+主讲人：
+邹家杰 博士
+主讲人简介：
+邹家杰博士毕业于浙江大学生物医学工程与仪器科学学院，电子信息技术及仪器专业，现为本院博士后。邹家杰博士关注语言加工的认知神经机制，在eLife、NeuroImage、ACL等神经科学权威期刊和自然语言处理顶级会议上发表多篇论文，并获批国自然青年基金一项。邹家杰博士的工作融合了认知科学与人工智能领域的研究手段，一方面通过脑电图、脑磁图、眼动技术等多种认知神经科学方法，致力于刻画语言加工的神经机制；另一方面通过现代信号处理技术、深度学习模型等技术，致力于揭示语言加工的计算机制并建立相应的神经计算模型。
+讲座摘要：
+How the brain processes language is a central question that spans multiple areas, including linguistics, cognitive neuroscience, and computational science. A crucial step, or the ultimate goal, in addressing this question is the construction of computational models for the neural processing of language. In this talk, I will present our research centered on the application of computational models to study the neural processing of natural language. Natural language occurs in two primary modalities: continuous speech and passage-level text. For the processing of continuous speech, our studies integrate neurodynamical models and a series of EEG and MEG experiments to reveal the underlying neural mechanisms that generate speech response. Furthermore, we explore the role of current large language models (LLMs) in distinguishing between the neural representations of various linguistic features. We then test whether speech processing involves the construction of syntactic structures or relies solely on the neural encoding of lexical-statistical cues. Regarding text reading, this talk will focus on human eye movements during passage-level reading comprehension tasks. I will demonstrate how different linguistic features influence human eye movements and present LLM-based computational models capable of autonomously evolving to mimic human eye movement distributions. Overall, this talk will showcase the synergistic research at the confluence of computational science and cognitive science, illustrating how advanced computational models serve as a tool in exploring the neural mechanisms underlying language processing.
+欢迎感兴趣的师生参加！
+深圳大学心理学院
+撰稿：张丽　审核：张丽
+
+超链接：
+- javascript:window.close()
+- https://www1.szu.edu.cn/board/print.asp?id=515712

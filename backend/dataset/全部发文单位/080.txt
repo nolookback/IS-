@@ -1,0 +1,28 @@
+标题：第80条公告
+
+正文：
+关闭窗口
+｜
+打印张贴版
+【学术讲座】从概率测试到可认证AI：面向可验证自主系统的大型语言模型与神经符号推理
+电子与信息工程学院　2025/3/25 14:37:00
+（钟沛基 2022280095）
+报告题目：从概率测试到可认证AI：面向可验证自主系统的大型语言模型与神经符号推理
+From Probabilistic Testing to Certifiable AI: Large Language Models and Neuro-Symbolic Reasoning for Verifiable Autonomous Systems
+报告人：郑曦教授，麦考瑞大学
+邀请人：张胜利教授
+报告时间：2025年3月27日，星期四，14：30到15：30
+报告地点：深圳大学电子与信息工程学院致信楼N723
+报告摘要：
+Learning-enabled Cyber-Physical Systems (LE-CPS), such as autonomous vehicles and drones, face critical safety and reliability challenges due to the stochastic nature of deep neural networks. Existing testing techniques provide limited formal guarantees, leaving gaps in industry adoption and regulatory compliance. This talk presents our recent advances in transforming probabilistic testing into formal verification. I will first discuss our FSE’24 paper on using Large Language Models (LLMs) to revive model-based testing, followed by TSE’24 and ICSE’25 works on LLM-driven scenario generation for autonomous driving and online testing for uncrewed drone autolanding. Building on this, I will introduce our FSE’25 paper, NeuroStrata , which pioneers a neurosymbolic approach to enhance interpretability, verifiability, and certification of AI-driven systems. By integrating LLM-assisted test generation, neurosymbolic reasoning, and scalable verification, we are laying the groundwork for trustworthy, certifiable AI in real-world CPS applications.
+报告人介绍：
+Prof. Xi Zheng earned his Ph.D. in Software Engineering from the University of Texas at Austin in 2015. He is awarded Australian Research Council Future Fellow in 2024. Between 2005 and 2012, he was the Chief Solution Architect for Menulog Australia. Currently, he occupies several leadership roles at Macquarie University, Australia: Director of the Intelligent Systems Research Group (ITSEG.ORG), Director of International Engagement in the School of Computing, Associate Professor and Deputy Program Leader in Software Engineering. His research areas include Cyber-Physical Systems Testing and Verification, Safety Analysis, Distributed Learning, Internet of Things, and the broader spectrum of Software Engineering. A/Prof. Zheng has successfully secured over $2.4 million in competitive funding from the Australian Research Council (1 Future Fellow, 2 Linkages and 1 Discovery) and Data61 (CRP) projects focused on safety analysis, model testing and verification, and the development of trustworthy AI for autonomous vehicles. He has been recognized with several awards, including the Deakin Industry Researcher Award (2016) and the MQ Early Career Researcher Award (Runner-up 2020). His academic contributions include numerous highly cited papers and best conference paper awards. He has served as a Program Committee member for leading Software and System conferences, such as ICSE (2026), FSE (2022, 2024) and PerCom (2017-2025), and as PC chair for IEEE CPSCom-2021 and IEEE Broadnets-2022. Additionally, he has taken on the role of associate editor for ACM Distributed Ledger Technologies and editor for the Springer Journal of Reliable Intelligent Environments. In 2023, A/Prof. Zheng is a visiting professor at both UCLA and UT Austin and co-founder of the international workshop on trustworthy autonomous cyber-physical systems. A/Prof. Zheng is a leading co-organizer for the
+Shonan Meeting (Seminar No. 235)
+on “LLM-Guided Synthesis, Verification, and Testing of Learning-Enabled CPS” in March 2026 and the
+Dagstuhl Seminar (202501048)
+on “Advancing Testability and Verifiability of CPS with Neurosymbolic and Large Language Models” in October 2026.
+撰稿：黄泽端　审核：周浩江
+
+超链接：
+- javascript:window.close()
+- https://www1.szu.edu.cn/board/print.asp?id=543987
