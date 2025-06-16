@@ -172,7 +172,7 @@ class SearchEngine:
             
             query_terms = tokenize(query_text)
             
-            # 展开通配符查询
+            # 展开通配符查询!
             expanded_terms = self._expand_wildcard_query(query_terms)
             
             if use_proximity and len(expanded_terms) >= 2:
