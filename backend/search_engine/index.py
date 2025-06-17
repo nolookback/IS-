@@ -10,6 +10,7 @@ from collections import defaultdict, Counter
 from typing import Dict, List, Tuple, Set, Any
 from .tokenizer import tokenize
 from .utils import compute_cosine_similarity, Timer
+from .query_corrector import QueryCorrector
 sys.stdout.reconfigure(encoding='utf-8')
 
 class CompressedIndex:
@@ -20,6 +21,31 @@ class CompressedIndex:
         self.doc_lengths = {}     # 文档长度信息
         self.doc_contents = {}    # 压缩的文档内容
         self.terms = set()        # 所有词项集合
+
+    def load(self, data: bytes):
+        """
+        从二进制数据加载索引
+        :param data: 压缩的索引数据
+        """
+        try:
+            # 解压数据
+            decompressed = zlib.decompress(data)
+            index_data = json.loads(decompressed.decode('utf-8'))
+            
+            # 加载词项集合
+            self.terms = set(index_data["terms"])
+            
+            # 加载倒排索引
+            self.term_to_docids = {k: bytearray(v) for k, v in index_data["term_to_docids"].items()}
+            self.term_to_tfs = {k: bytearray(v) for k, v in index_data["term_to_tfs"].items()}
+            
+            # 加载文档内容
+            self.doc_contents = {int(k): bytes(v) for k, v in index_data["doc_contents"].items()}
+            self.doc_lengths = index_data["doc_lengths"]
+            
+        except Exception as e:
+            print(f"[ERROR] 加载压缩索引失败：{e}")
+            raise
 
     def add_posting(self, term: str, doc_id: int, tf: int):
         """添加倒排记录"""
@@ -95,6 +121,8 @@ class SearchEngine:
         self.term_df = defaultdict(int)
         # 文档词频：doc_id -> Counter(term -> count)
         self.doc_term_freq = {}
+        # 查询纠错器
+        self.query_corrector = None
 
     def build_index(self, docs_dir: str):
         """
@@ -129,13 +157,9 @@ class SearchEngine:
         self.doc_count = len(self.doc_ids)
         self._compute_idf()
         self._compute_doc_norm()
-        # print("[DEBUG] Index Building Completed. First 10 IDF values:")
-        # for i, (term, idf_val) in enumerate(self.idf.items()):
-        #     if i >= 10: break
-        #     print(f"[DEBUG]   Term: {term}, IDF: {idf_val}")
-        # print("[DEBUG] Index Building Completed. First 10 Doc Norm values:")
-        # for i in range(min(10, self.doc_count)):
-        #     print(f"[DEBUG]   Doc ID: {i}, Doc Norm: {self.doc_norm.get(i)}")
+        
+        # 初始化查询纠错器
+        self.query_corrector = QueryCorrector(self.index.term_to_docids, self.index.terms)
 
     def _compute_idf(self):
         """
@@ -240,55 +264,74 @@ class SearchEngine:
 
     def query(self, query_text: str, top_k=10, use_proximity=False) -> Tuple[List[Dict], float]:
         """
-        查询接口，支持普通搜索、邻近搜索和通配符查询
+        执行查询
+        :param query_text: 查询文本
+        :param top_k: 返回结果数量
+        :param use_proximity: 是否使用邻近搜索
+        :return: (结果列表, 查询时间)
         """
-        results = []
-        elapsed_ms = 0.0
-        
-        with Timer(name="搜索查询") as timer:
-            time.sleep(0.000001)
+        with Timer() as timer:
+            # 获取查询纠错建议
+            corrected_queries = self.query_corrector.correct_query(query_text)
             
-            query_terms = tokenize(query_text)
-            expanded_terms = self._expand_wildcard_query(query_terms)
+            # 如果原始查询不在纠错建议中，将其添加到列表开头
+            if query_text not in corrected_queries:
+                corrected_queries.insert(0, query_text)
             
-            if use_proximity and len(expanded_terms) >= 2:
-                results = self.proximity_search(expanded_terms)
-            else:
-                query_tf = Counter(expanded_terms)
-                query_vec = {}
-                
-                for term, tf in query_tf.items():
-                    idf = self.idf.get(term, 0)
-                    query_vec[term] = tf * idf
-                
-                query_norm = math.sqrt(sum([v ** 2 for v in query_vec.values()]))
-                
-                if query_norm != 0:
-                    scores = defaultdict(float)
-                    for term, q_wt in query_vec.items():
-                        for doc_id, tf in self.index.get_postings(term):
-                            doc_wt = tf * self.idf.get(term, 0)
-                            scores[doc_id] += q_wt * doc_wt
+            # 对每个候选查询执行搜索
+            all_results = []
+            for corrected_query in corrected_queries:
+                terms = tokenize(corrected_query)
+                if not terms:
+                    continue
                     
-                    for doc_id in scores:
-                        doc_norm_val = self.doc_norm.get(doc_id, 1e-9)
-                        scores[doc_id] /= (doc_norm_val * query_norm)
-                    
-                    ranked = sorted(scores.items(), key=lambda x: x[1], reverse=True)[:top_k]
-                    
-                    for doc_id, score in ranked:
-                        content = self.index.get_document(doc_id)
-                        snippet = content[:200] + "..." if len(content) > 200 else content
-                        results.append({
-                            "doc_id": self.doc_ids[doc_id],
-                            "score": score,
-                            "snippet": snippet,
-                            "link": f"/docs/{self.doc_ids[doc_id]}"
-                        })
+                # 处理通配符查询
+                expanded_terms = self._expand_wildcard_query(terms)
+                
+                # 计算查询向量
+                query_vector = {}
+                for term in expanded_terms:
+                    if term in self.idf:
+                        query_vector[term] = self.idf[term]
+                
+                # 计算文档得分
+                scores = {}
+                for term in query_vector:
+                    for doc_id, tf in self.index.get_postings(term):
+                        if doc_id not in scores:
+                            scores[doc_id] = 0
+                        scores[doc_id] += tf * query_vector[term]
+                
+                # 归一化得分
+                for doc_id in scores:
+                    if doc_id in self.doc_norm:
+                        scores[doc_id] /= self.doc_norm[doc_id]
+                
+                # 获取前top_k个结果
+                results = []
+                for doc_id, score in sorted(scores.items(), key=lambda x: x[1], reverse=True)[:top_k]:
+                    content = self.index.get_document(doc_id)
+                    snippet = content[:200] + "..." if len(content) > 200 else content
+                    results.append({
+                        "doc_id": self.doc_ids[doc_id],  # 使用文档ID列表中的文件名
+                        "score": score,
+                        "snippet": snippet,
+                        "query": corrected_query
+                    })
+                
+                all_results.extend(results)
             
-            elapsed_ms = timer.elapsed_ms
+            # 去重并排序
+            seen_docs = set()
+            final_results = []
+            for result in sorted(all_results, key=lambda x: x["score"], reverse=True):
+                if result["doc_id"] not in seen_docs:
+                    seen_docs.add(result["doc_id"])
+                    final_results.append(result)
+                    if len(final_results) >= top_k:
+                        break
             
-        return results, elapsed_ms
+            return final_results, timer.elapsed_ms
 
     def save(self, path: str):
         """
@@ -323,38 +366,57 @@ class SearchEngine:
 
     def load(self, path: str):
         """
-        从文件加载压缩索引
+        从文件加载索引
+        :param path: 索引文件路径
         """
-        with open(path, "rb") as f:
-            # 加载文档ID列表
-            doc_count = struct.unpack("!I", f.read(4))[0]
-            self.doc_ids = []
-            for _ in range(doc_count):
-                length = struct.unpack("!H", f.read(2))[0]
-                doc_id = f.read(length).decode('utf-8')
-                self.doc_ids.append(doc_id)
-            
-            # 加载索引数据
-            compressed_data = f.read()
-            index_data = json.loads(zlib.decompress(compressed_data).decode('utf-8'))
-            self.term_df = defaultdict(int, index_data["term_df"])
-            self.idf = index_data["idf"]
-            self.doc_norm = {int(k): v for k, v in index_data["doc_norm"].items()}
-            self.doc_count = index_data["doc_count"]
-            
-            # 加载CompressedIndex数据，并从list of int转换回bytearray或bytes
-            self.index.terms = set(index_data["compressed_index_terms"])
-            self.index.term_to_docids = {k: bytearray(v) for k, v in index_data["compressed_index_term_to_docids"].items()}
-            self.index.term_to_tfs = {k: bytearray(v) for k, v in index_data["compressed_index_term_to_tfs"].items()}
-            self.index.doc_contents = {int(k): bytes(v) for k, v in index_data["compressed_index_doc_contents"].items()}
-            self.index.doc_lengths = index_data["compressed_index_doc_lengths"]
-            # 加载doc_term_freq
-            self.doc_term_freq = {int(k): Counter(v) for k, v in index_data["doc_term_freq"].items()}
-            
-            # print("[DEBUG] Index Loading Completed. First 10 IDF values:")
-            # for i, (term, idf_val) in enumerate(self.idf.items()):
-            #     if i >= 10: break
-            #     print(f"[DEBUG]   Term: {term}, IDF: {idf_val}")
-            # print("[DEBUG] Index Loading Completed. First 10 Doc Norm values:")
-            # for i in range(min(10, self.doc_count)):
-            #     print(f"[DEBUG]   Doc ID: {i}, Doc Norm: {self.doc_norm.get(i)}")
+        try:
+            with open(path, 'rb') as f:
+                # 读取文档数量
+                self.doc_count = struct.unpack('I', f.read(4))[0]
+                
+                # 读取文档ID列表
+                doc_ids_len = struct.unpack('I', f.read(4))[0]
+                self.doc_ids = []
+                for _ in range(doc_ids_len):
+                    id_len = struct.unpack('I', f.read(4))[0]
+                    doc_id = f.read(id_len).decode('utf-8')
+                    self.doc_ids.append(doc_id)
+                
+                # 读取文档频率
+                df_len = struct.unpack('I', f.read(4))[0]
+                self.term_df = defaultdict(int)
+                for _ in range(df_len):
+                    term_len = struct.unpack('I', f.read(4))[0]
+                    term = f.read(term_len).decode('utf-8')
+                    df = struct.unpack('I', f.read(4))[0]
+                    self.term_df[term] = df
+                
+                # 读取IDF值
+                idf_len = struct.unpack('I', f.read(4))[0]
+                self.idf = {}
+                for _ in range(idf_len):
+                    term_len = struct.unpack('I', f.read(4))[0]
+                    term = f.read(term_len).decode('utf-8')
+                    idf = struct.unpack('d', f.read(8))[0]
+                    self.idf[term] = idf
+                
+                # 读取文档范数
+                norm_len = struct.unpack('I', f.read(4))[0]
+                self.doc_norm = {}
+                for _ in range(norm_len):
+                    doc_id = struct.unpack('I', f.read(4))[0]
+                    norm = struct.unpack('d', f.read(8))[0]
+                    self.doc_norm[doc_id] = norm
+                
+                # 读取压缩索引
+                index_data = f.read()
+                self.index = CompressedIndex()
+                self.index.load(index_data)
+                
+                # 初始化查询纠错器
+                self.query_corrector = QueryCorrector(self.index.term_to_docids, self.index.terms)
+                
+            print(f"[INFO] 成功加载索引，共 {self.doc_count} 个文档")
+        except Exception as e:
+            print(f"[ERROR] 加载索引失败：{e}")
+            raise

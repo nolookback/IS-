@@ -49,7 +49,7 @@ def init_app():
 def search():
     """
     处理前端查询请求，返回匹配文档及相关分数和摘要。
-    支持普通搜索和邻近搜索。
+    支持普通搜索、邻近搜索和查询纠错。
     """
     if request.method == "OPTIONS":
         return '', 200
@@ -68,6 +68,11 @@ def search():
             # 使用 search_engine 封装好的接口
             results, elapsed_ms = search_engine.query(query, use_proximity=use_proximity)
             
+            # 获取查询纠错建议
+            corrected_queries = search_engine.query_corrector.correct_query(query)
+            if query in corrected_queries:
+                corrected_queries.remove(query)
+            
             # 生成总结
             summary = generate_summary(query, results)
 
@@ -77,7 +82,8 @@ def search():
             "use_proximity": use_proximity,
             "elapsed_ms": round(elapsed_ms, 2),
             "results": results,
-            "gpt_summary": summary
+            "gpt_summary": summary,
+            "corrected_queries": corrected_queries[:3]  # 返回最多3个纠错建议
         })
     except Exception as e:
         print("[ERROR] 查询出错：", e)

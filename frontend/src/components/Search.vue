@@ -47,6 +47,21 @@
       </el-tag>
     </div>
 
+    <!-- 添加查询纠错建议 -->
+    <div v-if="correctedQueries && correctedQueries.length" class="corrected-queries">
+      <span class="suggestion-label">您是否想搜索：</span>
+      <el-tag
+        v-for="q in correctedQueries"
+        :key="q"
+        class="corrected-query"
+        type="warning"
+        effect="plain"
+        @click="useCorrectedQuery(q)"
+      >
+        {{ q }}
+      </el-tag>
+    </div>
+
     <div class="search-stats">
       <el-tag type="success" effect="plain">
         检索耗时：{{ timeMs }} 毫秒
@@ -154,6 +169,7 @@ const backendUrl = 'http://127.0.0.1:5500'
 const dialogVisible = ref(false)
 const currentDoc = ref(null)
 const useProximity = ref(false)  // 是否使用邻近搜索
+const correctedQueries = ref([])  // 查询纠错建议
 
 const placeholder = computed(() => {
   return '请输入关键词，例如：人工智能 机器学习 深度学习'
@@ -166,8 +182,10 @@ const pagedResults = computed(() => {
 
 // 获取HTML文件路径
 function getHtmlPath(docId) {
+  // 确保docId是字符串类型
+  const docIdStr = String(docId)
   // 从文件名中提取数字（去掉.txt后缀）
-  const num = docId.replace('.txt', '')
+  const num = docIdStr.replace('.txt', '')
   // 根据数字范围返回对应的目录号
   const numInt = parseInt(num)
   let dirNum
@@ -197,10 +215,11 @@ async function searchWithSegment() {
     console.log("检索耗时:", timeMs.value, "毫秒");
     results.value = res.results
     gptSummary.value = res.gpt_summary || ''   // 从后端响应获取总结
+    correctedQueries.value = res.corrected_queries || []  // 获取查询纠错建议
     currentPage.value = 1
   } catch (error) {
+    console.error('搜索出错：', error)
     ElMessage.error('搜索失败，请稍后重试')
-    console.error('Search error:', error)
   } finally {
     loading.value = false
   }
@@ -231,6 +250,12 @@ function renderMarkdown(text) {
   const html = marked(text)
   // 使用DOMPurify清理HTML，防止XSS攻击
   return DOMPurify.sanitize(html)
+}
+
+// 使用纠错后的查询
+function useCorrectedQuery(correctedQuery) {
+  query.value = correctedQuery
+  searchWithSegment()
 }
 </script>
 
@@ -444,5 +469,24 @@ function renderMarkdown(text) {
 .search-options :deep(.el-checkbox__label) {
   font-size: 14px;
   color: #606266;
+}
+
+.corrected-queries {
+  margin-top: 16px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.suggestion-label {
+  font-weight: bold;
+  margin-right: 8px;
+}
+
+.corrected-query {
+  cursor: pointer;
+  background-color: #f0f0f0;
+  padding: 4px 8px;
+  border-radius: 4px;
 }
 </style>
