@@ -15,7 +15,11 @@ LLM_API_KEY = API_KEY
 LLM_API_URL = BASE_URL + "chat/completions"   # CHATGLM 目前的聊天接口路径
 
 # 数据目录配置
-DATA_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), "dataset")
+DATA_DIR = os.path.join(os.path.dirname(__file__), "dataset")
+DOCS_DIR = os.path.join(DATA_DIR, "docs")
+
+# 索引文件配置
+INDEX_FILE = os.path.join(DATA_DIR, "index.bin")
 
 # 下面是对openai客户端初始化相关的配置（如果需要，可写成函数供其他模块调用）
 def get_openai_client():

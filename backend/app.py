@@ -4,7 +4,7 @@ from search_engine.index import SearchEngine
 from search_engine.tokenizer import tokenize
 from search_engine.utils import Timer
 from search_engine.llm_summary import generate_summary
-from config import USE_LLM, DATA_DIR
+from config import USE_LLM, DATA_DIR, INDEX_FILE
 import os
 
 app = Flask(__name__)
@@ -19,9 +19,31 @@ def init_app():
     """
     初始化应用，构建倒排索引。
     """
-    print("[INFO] 正在加载文档并构建倒排索引...")
+    global search_engine
+    
+    # 创建搜索引擎实例
+    search_engine = SearchEngine()
+    
+    # 优先尝试加载已存在的索引
+    if os.path.exists(INDEX_FILE):
+        print("[INFO] 从文件加载索引...")
+        try:
+            search_engine.load(INDEX_FILE)
+            print(f"[INFO] 索引加载完成，共索引文档数：{search_engine.doc_count}")
+            return
+        except Exception as e:
+            print(f"[WARNING] 加载索引失败：{e}")
+            print("[INFO] 将重新构建索引...")
+    
+    # 如果加载失败或索引文件不存在，则构建新索引
+    print("[INFO] 开始构建索引...")
     search_engine.build_index(DOCS_PATH)
-    print("[INFO] 索引构建完成，共索引文档数：", len(search_engine.documents))
+    print(f"[INFO] 索引构建完成，共索引文档数：{search_engine.doc_count}")
+    
+    # 保存新构建的索引
+    print("[INFO] 保存索引到文件...")
+    search_engine.save(INDEX_FILE)
+    print("[INFO] 索引保存完成")
 
 @app.route("/api/search", methods=["POST"])
 def search():
